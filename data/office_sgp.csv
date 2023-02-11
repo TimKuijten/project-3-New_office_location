@@ -1,0 +1,932 @@
+,Name,District,Address,Price ($) p/m,Size (m2),Price per m2,Link
+0,New Bridge Road,D1,New Bridge Rd,12000,1373,8.74,https://www.99.co/singapore/commercial/rent/property/new-bridge-road-office-8X8N36J6Nfus7tRLHJfbBR#enquiry_source--Search
+1,Parkway Parade,D15,Marine Parade Rd,6200,956,6.49,https://www.99.co/singapore/commercial/rent/property/parkway-parade-office-4KwgbFGmNxeqBS3Q7TKFrU#enquiry_source--Search
+2,Centennial Tower,D1,Temasek Ave,31902,2454,13.0,https://www.99.co/singapore/commercial/rent/property/centennial-tower-office-Fr4UmkpzfKQ5uYv2VaMZJ8#enquiry_source--Search
+3,Amoy Street,D1,Amoy St,4600,894,5.15,https://www.99.co/singapore/commercial/rent/property/amoy-street-office-GQvqCKwJyy4gKF3cgyBRCD#enquiry_source--Search
+4,Regency House,D9,Penang Rd,18241,2465,7.4,https://www.99.co/singapore/commercial/rent/property/regency-house-office-U9shzQbQRUqdxkDrQJDZCR#enquiry_source--Search
+5,Woods Square,D25,Woodlands Square,16000,3337,4.79,https://www.99.co/singapore/commercial/rent/property/woods-square-office-7c4pSioE2EPAqbc53AH46N#enquiry_source--Search
+6,Woods Square,D25,Woodlands Square,2632,560,4.7,https://www.99.co/singapore/commercial/rent/property/woods-square-office-6Rw6mBCtTcdveR8xdBmffo#enquiry_source--Search
+7,Crystal Time Building,D13,Tannery Lane,6950,3020,2.3,https://www.99.co/singapore/commercial/rent/property/crystal-time-building-office-Mi8JC6XU72ZfVyFCHRXcXW#enquiry_source--Search
+8,One Holland Village Residences / One Holland Village,D10,Holland Village Way,191719,20181,9.5,https://www.99.co/singapore/commercial/rent/property/one-holland-village-office-JAZS8QME3Vjk53DzgkZdNy#enquiry_source--Search
+9,Goodland Group Building,D19,Kim Chuan Lane,8500,2454,3.46,https://www.99.co/singapore/commercial/rent/property/goodland-group-building-office-4QeLBy2Nepoe5oJwJUfyvi#enquiry_source--Search
+10,International Plaza,D2,Anson Rd,860,80,10.75,https://www.99.co/singapore/commercial/rent/property/international-plaza-office-3w6FWxmS7LnGp23VsqQ6A9#enquiry_source--Search
+11,The Central,D1,Eu Tong Sen St,5500,850,6.47,https://www.99.co/singapore/commercial/rent/property/the-central-office-YCwRuxafxbpS5xqyScs98M#enquiry_source--Search
+12,Hongkong Street,D1,Hongkong St,900,150,6.0,https://www.99.co/singapore/commercial/rent/property/hongkong-street-office-XQbbCM3EeTtDa9T8FXUcKD#enquiry_source--Search
+13,King's Centre,D3,Havelock Rd,12560,1744,7.2,https://www.99.co/singapore/commercial/rent/property/kings-centre-office-hPbDcUoEDYNrfVzKbkdAHN#enquiry_source--Search
+14,Sunshine Plaza,D7,Bencoolen St,4000,517,7.74,https://www.99.co/singapore/commercial/rent/property/sunshine-plaza-office-ekuu5zwtvCfduvgfx2LVAR#enquiry_source--Search
+15,Orchard Towers,D9,Orchard Rd,1600,355,4.51,https://www.99.co/singapore/commercial/rent/property/orchard-towers-office-LkBj4voLo4pvKxZmKx7GoW#enquiry_source--Search
+16,Malacca Centre,D1,Malacca St,12500,1860,6.72,https://www.99.co/singapore/commercial/rent/property/malacca-centre-office-YdmKGaFxBge67Rz3HgoTTQ#enquiry_source--Search
+17,Spazio @ Kovan,D19,Upp Serangoon Rd,2500,409,6.11,https://www.99.co/singapore/commercial/rent/property/spazio-kovan-office-anC2V5Zb5VSkPANrVSuRs#enquiry_source--Search
+18,GR.ID,D7,Selegie Rd,128000,15000,8.53,https://www.99.co/singapore/commercial/rent/property/grid-office-YXSAZsAcKuCyFy4iUU6Rdm#enquiry_source--Search
+19,Suntec City Towers,D1,Temasek Boulevard,24650,2443,10.09,https://www.99.co/singapore/commercial/rent/property/suntec-city-towers-office-PDy96A87cW3rQvcmjqBhUw#enquiry_source--Search
+20,Orchard Towers,D9,Orchard Rd,6000,1650,3.64,https://www.99.co/singapore/commercial/rent/property/orchard-towers-office-mQKZokFuGXqhFaCbHq3Weg#enquiry_source--Search
+21,Cecil Street,D1,Cecil St,5023,897,5.6,https://www.99.co/singapore/commercial/rent/property/cecil-street-office-fhU9CoMQEXCdURjesHRix9#enquiry_source--Search
+22,Cecil Street,D1,Cecil St,56179,10032,5.6,https://www.99.co/singapore/commercial/rent/property/cecil-street-office-wCnyBbg6xBx8MxysbXbTfQ#enquiry_source--Search
+23,Orchard Towers,D9,Orchard Rd,950,320,2.97,https://www.99.co/singapore/commercial/rent/property/orchard-towers-office-3TwbsVzptssnTSExkJBuUq#enquiry_source--Search
+24,Centrium Square,D8,Serangoon Rd,3800,570,6.67,https://www.99.co/singapore/commercial/rent/property/centrium-square-office-cTawq4b8Wxs3sgUa3UfxoV#enquiry_source--Search
+25,Woods Square,D25,Woodlands Square,3000,560,5.36,https://www.99.co/singapore/commercial/rent/property/woods-square-office-f4S4XEoTxhX2MQVedB5ebf#enquiry_source--Search
+26,Icb Enterprise House,D7,Middle Rd,1200,250,4.8,https://www.99.co/singapore/commercial/rent/property/icb-enterprise-house-office-XsYv3BykFXW6sNNGJ2HYSP#enquiry_source--Search
+27,Woods Square,D25,Woodlands Square,4300,646,6.66,https://www.99.co/singapore/commercial/rent/property/woods-square-office-6Aj3bdmEZ4KRCMxX4UB8kH#enquiry_source--Search
+28,ADL Building,D22,Toh Guan Rd East,2142,590,3.63,https://www.99.co/singapore/commercial/rent/property/adl-building-office-BUGe45XRERW9RCAw55o43S#enquiry_source--Search
+29,Woods Square,D25,Woodlands Square,9988,1722,5.8,https://www.99.co/singapore/commercial/rent/property/woods-square-office-k74kVzHBxf4vYqTEMMPLEx#enquiry_source--Search
+30,Eunos Techpark,D14,Kaki Bt Pl,7000,2000,3.5,https://www.99.co/singapore/commercial/rent/property/eunos-techpark-office-cWVXKdBQEpVMAHt4ystHhF#enquiry_source--Search
+31,Suntec City Towers,D1,Temasek Boulevard,31050,2960,10.49,https://www.99.co/singapore/commercial/rent/property/suntec-city-towers-office-oRDUpq6GJgYHpqM9sJZxZp#enquiry_source--Search
+32,Suntec City Towers,D1,Temasek Boulevard,20680,1970,10.5,https://www.99.co/singapore/commercial/rent/property/suntec-city-towers-office-RiaJGZgVfp9GTkuEZdirsa#enquiry_source--Search
+33,Jun Xin Building,D7,Nth Bridge Rd,15870,3170,5.01,https://www.99.co/singapore/commercial/rent/property/jun-xin-building-office-8zwmEwKdChbS932aky6CiF#enquiry_source--Search
+34,Tong Eng Building,D1,Cecil St,6380,1227,5.2,https://www.99.co/singapore/commercial/rent/property/tong-eng-building-office-sironeS8sMt6jvuK2opMai#enquiry_source--Search
+35,The Adelphi,D6,Coleman St,2200,300,7.33,https://www.99.co/singapore/commercial/rent/property/the-adelphi-office-axRktwwRgF5JA4CWkbHAkG#enquiry_source--Search
+36,Peninsula Plaza,D6,Nth Bridge Rd,9412,1776,5.3,https://www.99.co/singapore/commercial/rent/property/peninsula-plaza-office-dUWV2EEbPzQmAX5VHsonvJ#enquiry_source--Search
+37,E-Centre @ Redhill,D3,Jln Bt Merah,3000,990,3.03,https://www.99.co/singapore/commercial/rent/property/ecentre-redhill-office-5cQunkrjyWV8fH7PLug2x4#enquiry_source--Search
+39,Crystal Time Building,D13,Tannery Lane,5300,2103,2.52,https://www.99.co/singapore/commercial/rent/property/crystal-time-building-office-j42dSVG5KcMZUVqahMi4fY#enquiry_source--Search
+40,The Adelphi,D6,,2050,300,6.83,https://www.99.co/singapore/commercial/rent/property/the-adelphi-office-PAzixKFkwMuWj9hjUv7iDb#enquiry_source--Search
+41,Science Centre Road,D22,Science Centre Rd,39158,11188,3.5,https://www.99.co/singapore/commercial/rent/property/science-centre-road-office-7sh48txnkrHjLp9qh8qHra#enquiry_source--Search
+42,Tuas Techpark,D22,Tech Pk Cres,25498,7285,3.5,https://www.99.co/singapore/commercial/rent/property/tuas-techpark-office-HFQFoHML8UY4hWsMUoTwFA#enquiry_source--Search
+43,Lee King Hwa Building,D19,Tai Seng Link,2800,550,5.09,https://www.99.co/singapore/commercial/rent/property/lee-king-hwa-building-office-bukFBKEcYbQPSorxPy9Nup#enquiry_source--Search
+44,Science Centre Road,D22,Science Centre Rd,4000,1150,3.48,https://www.99.co/singapore/commercial/rent/property/science-centre-road-office-i62LpwygPKHsicrdVFRjri#enquiry_source--Search
+45,Parkway Centre,D15,Marine Parade Ctrl,6000,1098,5.46,https://www.99.co/singapore/commercial/rent/property/parkway-centre-office-HtzGBCU4nmeSzF3zgm2Xak#enquiry_source--Search
+46,Fortune Centre,D7,Middle Rd,8000,1668,4.8,https://www.99.co/singapore/commercial/rent/property/fortune-centre-office-8yGWZjX8npaVfKPFSo9gmE#enquiry_source--Search
+47,The Plaza,D7,Beach Rd,5600,1249,4.48,https://www.99.co/singapore/commercial/rent/property/the-plaza-office-3eKDEfUvSYpfWdnHh3vKmE#enquiry_source--Search
+48,Woods Square,D25,Woodlands Square,2350,549,4.28,https://www.99.co/singapore/commercial/rent/property/woods-square-office-syjGRSAueGgKv88cvAC4jY#enquiry_source--Search
+49,Eastgate,D15,East Coast Rd,4800,1195,4.02,https://www.99.co/singapore/commercial/rent/property/eastgate-office-LZxEcHvek6L4QxGvLvdFb3#enquiry_source--Search
+50,One Pemimpin,D20,Pemimpin Dr,3500,1141,3.07,https://www.99.co/singapore/commercial/rent/property/one-pemimpin-office-en65Fvxs5csLNNwjz2jwYu#enquiry_source--Search
+51,Raffles Place,D1,Raffles Pl,40000,4100,9.76,https://www.99.co/singapore/commercial/rent/property/raffles-place-office-hHkUv7eLcBZHREXPZfBszz#enquiry_source--Search
+52,Jit Poh Building,D2,Keppel Rd,7540,1300,5.8,https://www.99.co/singapore/commercial/rent/property/jit-poh-building-office-Hq2hqPyt7tMshqrjYF4c78#enquiry_source--Search
+53,Woodlands 11,D25,Woodlands Cl,1500,438,3.42,https://www.99.co/singapore/commercial/rent/property/woodlands-11-office-Nx63CMqf2jtNtZY4q3JRn7#enquiry_source--Search
+54,Union Building,D2,Tras St,3200,615,5.2,https://www.99.co/singapore/commercial/rent/property/union-building-office-SjWSN6SFTHZHSxb3yesjqL#enquiry_source--Search
+55,Suntec City Towers,D1,Temasek Boulevard,31700,2885,10.99,https://www.99.co/singapore/commercial/rent/property/suntec-city-towers-office-NeLv4LsPL8CUmnysThmb7Z#enquiry_source--Search
+56,Suntec City Towers,D1,Temasek Boulevard,10320,983,10.5,https://www.99.co/singapore/commercial/rent/property/suntec-city-towers-office-P4Hh6ngkHH3sPXF7kjPMvi#enquiry_source--Search
+57,Woods Square,D25,Woodlands Square,4800,1044,4.6,https://www.99.co/singapore/commercial/rent/property/woods-square-office-QAXMUtS7J8G96KbebR2hRW#enquiry_source--Search
+58,Keck Seng Tower,D1,Cecil St,7092,1182,6.0,https://www.99.co/singapore/commercial/rent/property/keck-seng-tower-office-8yaDgTe62pyyJBvU5jF4ov#enquiry_source--Search
+59,Peninsula Plaza,D6,Nth Bridge Rd,13110,2185,6.0,https://www.99.co/singapore/commercial/rent/property/peninsula-plaza-office-HajJXYFYyDh2W9BRLL4tWw#enquiry_source--Search
+60,Valley Point,D10,River Valley Rd,9900,1539,6.43,https://www.99.co/singapore/commercial/rent/property/valley-point-office-MwWDFKDKnGsxs8CJa4X3wg#enquiry_source--Search
+61,Science Centre Road,D22,Science Centre Rd,13167,3465,3.8,https://www.99.co/singapore/commercial/rent/property/science-centre-road-office-MYAiAYWnDQdz8ZJurRk4c6#enquiry_source--Search
+62,People's Park Centre,D1,Upp Cross St,2180,430,5.07,https://www.99.co/singapore/commercial/rent/property/peoples-park-centre-office-5y5o5xTyq4itvpQvyo8uKV#enquiry_source--Search
+63,Woods Square,D25,Woodlands Square,2576,560,4.6,https://www.99.co/singapore/commercial/rent/property/woods-square-office-JUUQGuDzTfL297f9msii7a#enquiry_source--Search
+64,One Holland Village Residences / One Holland Village,D10,Holland Village Way,27730,6650,4.17,https://www.99.co/singapore/commercial/rent/property/one-holland-village-office-SHcsXsubW5KGkdkZf5gz7i#enquiry_source--Search
+65,Lew Building,D1,Nth Canal Rd,5500,1300,4.23,https://www.99.co/singapore/commercial/rent/property/lew-building-office-5z9SNBQTQbcNZ8QJZSGuW#enquiry_source--Search
+66,Tanglin Shopping Centre,D10,Tanglin Rd,2100,344,6.1,https://www.99.co/singapore/commercial/rent/property/tanglin-shopping-centre-office-4NxWPNxSJhd5XuEDJLvnN7#enquiry_source--Search
+67,Alexandra Road,D5,Alexandra Rd,30000,6000,5.0,https://www.99.co/singapore/commercial/rent/property/alexandra-road-office-o6AXspFNeEUkzuU49YfxWF#enquiry_source--Search
+68,Arc 380,D8,Jln Besar,4480,700,6.4,https://www.99.co/singapore/commercial/rent/property/arc-380-office-pfUZju2HzFekkjV28gA6vV#enquiry_source--Search
+69,International Plaza,D2,Anson Rd,8267,1378,6.0,https://www.99.co/singapore/commercial/rent/property/international-plaza-office-JouPnLgFePkjMXcHFW939P#enquiry_source--Search
+70,Bylands Building,D7,Middle Rd,5900,1323,4.46,https://www.99.co/singapore/commercial/rent/property/bylands-building-office-3nTAKqpPHctLJhy6mgS47#enquiry_source--Search
+71,Woods Square,D25,Woodlands Square,2657,560,4.74,https://www.99.co/singapore/commercial/rent/property/woods-square-office-yNfEaWvwdRrGioR7Vbm4eK#enquiry_source--Search
+72,Midview City,D20,Sin Ming Lane,1350,180,7.5,https://www.99.co/singapore/commercial/rent/property/midview-city-office-FfqaCsjfmcBXafhQXtrtbT#enquiry_source--Search
+73,Joo Chiat Road,D15,Joo Chiat Rd,3199,1190,2.69,https://www.99.co/singapore/commercial/rent/property/joo-chiat-road-office-TY7ap2QpwhTxmHVmddPSFg#enquiry_source--Search
+74,The Octagon,D1,Cecil St,40000,6189,6.46,https://www.99.co/singapore/commercial/rent/property/the-octagon-office-yrCxsuDwZwdh49WcBY7xN4#enquiry_source--Search
+75,Keck Seng Tower,D1,Cecil St,8700,1347,6.46,https://www.99.co/singapore/commercial/rent/property/keck-seng-tower-office-mRiLtEQo3XBPvgWpP4jYjV#enquiry_source--Search
+76,Guthrie House,D10,Fifth Ave,9450,1350,7.0,https://www.99.co/singapore/commercial/rent/property/guthrie-house-office-mBMDJwfEETHmjLERu7ZiQS#enquiry_source--Search
+77,Peninsula Plaza,D6,Nth Bridge Rd,9768,1776,5.5,https://www.99.co/singapore/commercial/rent/property/peninsula-plaza-office-i6hgRTRHtQNUWSa3hZ9vNW#enquiry_source--Search
+78,SIF Building,D1,Robinson Rd,7200,987,7.29,https://www.99.co/singapore/commercial/rent/property/sif-building-office-eUXj8HMdaWkaMHmMf4GX7A#enquiry_source--Search
+79,Keck Seng Tower,D1,Cecil St,7750,1195,6.49,https://www.99.co/singapore/commercial/rent/property/keck-seng-tower-office-dUQiTqNmakYcJcWYWsBuEP#enquiry_source--Search
+80,Keck Seng Tower,D1,Cecil St,8300,1421,5.84,https://www.99.co/singapore/commercial/rent/property/keck-seng-tower-office-d838ZP8rvXSKEJkQVSaWc8#enquiry_source--Search
+81,International Building,D9,Orchard Rd,11900,1453,8.19,https://www.99.co/singapore/commercial/rent/property/international-building-office-XS5zVr5D3Vsjm7naxTUahp#enquiry_source--Search
+82,Peninsula Plaza,D6,Nth Bridge Rd,12000,2185,5.49,https://www.99.co/singapore/commercial/rent/property/peninsula-plaza-office-VvDaCK42mw6VaMdeoPMKJn#enquiry_source--Search
+83,Peninsula Plaza,D6,Nth Bridge Rd,14916,2486,6.0,https://www.99.co/singapore/commercial/rent/property/peninsula-plaza-office-RuCDSGyUh55j8D9opfij4f#enquiry_source--Search
+84,Keck Seng Tower,D1,Cecil St,11800,2144,5.5,https://www.99.co/singapore/commercial/rent/property/keck-seng-tower-office-RHGTqc2P68sAc5ueJZjHsE#enquiry_source--Search
+85,Keck Seng Tower,D1,Cecil St,7300,1260,5.79,https://www.99.co/singapore/commercial/rent/property/keck-seng-tower-office-QxazP2TL9bMcDjByppE5KQ#enquiry_source--Search
+86,Peninsula Plaza,D6,Nth Bridge Rd,4850,915,5.3,https://www.99.co/singapore/commercial/rent/property/peninsula-plaza-office-QZJmtJwjn95iBgvpE6K9AA#enquiry_source--Search
+87,The House Of Eden,D1,Robinson Rd,5400,665,8.12,https://www.99.co/singapore/commercial/rent/property/the-house-of-eden-office-MVbbpqZUe9eptEjhH6Qn24#enquiry_source--Search
+88,International Building,D9,Orchard Rd,4800,538,8.92,https://www.99.co/singapore/commercial/rent/property/international-building-office-L2aieXpqa5MdZXSqjrxrsX#enquiry_source--Search
+89,Keck Seng Tower,D1,Cecil St,8500,1304,6.52,https://www.99.co/singapore/commercial/rent/property/keck-seng-tower-office-Jivc4fDEPAyU5MrzcmgK5#enquiry_source--Search
+90,Keck Seng Tower,D1,Cecil St,8860,1304,6.79,https://www.99.co/singapore/commercial/rent/property/keck-seng-tower-office-H3iFir7ifVbu52SDhtBtum#enquiry_source--Search
+91,Keck Seng Tower,D1,Cecil St,6850,1182,5.8,https://www.99.co/singapore/commercial/rent/property/keck-seng-tower-office-DSymsJKNbfet7d5uuSkPWh#enquiry_source--Search
+92,Peninsula Plaza,D6,Nth Bridge Rd,9870,1732,5.7,https://www.99.co/singapore/commercial/rent/property/peninsula-plaza-office-CekEyNRQLNjCMvWCCFU7pn#enquiry_source--Search
+93,International Building,D9,Orchard Rd,9780,1223,8.0,https://www.99.co/singapore/commercial/rent/property/international-building-office-Bjf2XHfLTQ56ruRmJ3c6Fz#enquiry_source--Search
+94,Keck Seng Tower,D1,Cecil St,8800,1347,6.53,https://www.99.co/singapore/commercial/rent/property/keck-seng-tower-office-AUYToXhYkAMqU76Uwgue7x#enquiry_source--Search
+95,International Building,D9,Orchard Rd,8500,1055,8.06,https://www.99.co/singapore/commercial/rent/property/international-building-office-9377ec7ZGWfJDeMBGjoj35#enquiry_source--Search
+96,Keck Seng Tower,D1,Cecil St,11500,2144,5.36,https://www.99.co/singapore/commercial/rent/property/keck-seng-tower-office-3t7thgH9ULqUeLDDa6PjWP#enquiry_source--Search
+97,Keck Seng Tower,D1,Cecil St,16800,2589,6.49,https://www.99.co/singapore/commercial/rent/property/keck-seng-tower-office-2dC2wc3jR6RehkJefyVCiy#enquiry_source--Search
+98,SIF Building,D1,Robinson Rd,9200,1233,7.46,https://www.99.co/singapore/commercial/rent/property/sif-building-office-2B2WtheCML45dssrkSRagU#enquiry_source--Search
+99,King's Centre,D3,Havelock Rd,12560,1744,7.2,https://www.99.co/singapore/commercial/rent/property/kings-centre-office-iaAW3amsHhRHwtEk2ef5EN#enquiry_source--Search
+100,China Street,D1,China St,17280,2400,7.2,https://www.99.co/singapore/commercial/rent/property/china-street-office-mSbQPjvDspiptYEY49gdo8#enquiry_source--Search
+101,One Holland Village Residences / One Holland Village,D10,Holland Village Way,51908,5464,9.5,https://www.99.co/singapore/commercial/rent/property/one-holland-village-office-jDGo3ihnUgkwJhmCu2NWNQ#enquiry_source--Search
+102,Woods Square,D25,Woodlands Square,5922,1346,4.4,https://www.99.co/singapore/commercial/rent/property/woods-square-office-hHRw2hRxrZUYKDzXKUfLqz#enquiry_source--Search
+103,Woods Square,D25,Woodlands Square,4067,581,7.0,https://www.99.co/singapore/commercial/rent/property/woods-square-office-hB37s5z3W5xAdNjcN8J5LD#enquiry_source--Search
+104,Orchard Rendezvous Hotel,D10,Tanglin Rd,9493,1217,7.8,https://www.99.co/singapore/commercial/rent/property/orchard-rendezvous-hotel-office-drG7XWcUZ6Fs3r4wBvUj95#enquiry_source--Search
+105,One Holland Village Residences / One Holland Village,D10,Holland Village Way,50141,5278,9.5,https://www.99.co/singapore/commercial/rent/property/one-holland-village-office-ZZMHBDhffSJDwbh2DeihuX#enquiry_source--Search
+106,Far East Shopping Centre,D9,Orchard Rd,2100,363,5.79,https://www.99.co/singapore/commercial/rent/property/far-east-shopping-centre-office-YabPhXkeGiUUpQPmUyTUNu#enquiry_source--Search
+107,Woods Square,D25,Woodlands Square,4593,1044,4.4,https://www.99.co/singapore/commercial/rent/property/woods-square-office-WByyvywiUi5W6bcRWwB827#enquiry_source--Search
+108,Woods Square,D25,Woodlands Square,3766,538,7.0,https://www.99.co/singapore/commercial/rent/property/woods-square-office-UVfpLYjRXgtAxQRHrj3t9Y#enquiry_source--Search
+109,Orchard Rendezvous Hotel,D10,Tanglin Rd,7500,1001,7.49,https://www.99.co/singapore/commercial/rent/property/orchard-rendezvous-hotel-office-UMwSNqYnGgyo8cPyH3P4rq#enquiry_source--Search
+110,Woods Square,D25,Woodlands Square,4167,947,4.4,https://www.99.co/singapore/commercial/rent/property/woods-square-office-U33cQmoq5kWoh2bNNoxmh5#enquiry_source--Search
+111,Far East Shopping Centre,D9,Orchard Rd,5100,883,5.78,https://www.99.co/singapore/commercial/rent/property/far-east-shopping-centre-office-TYPtzug3Yjsx3TjmdmXPjc#enquiry_source--Search
+112,One Holland Village Residences / One Holland Village,D10,Holland Village Way,42370,4460,9.5,https://www.99.co/singapore/commercial/rent/property/one-holland-village-office-T2NB2voRjkmphCSxMSSXbV#enquiry_source--Search
+113,Far East Finance Building,D1,Robinson Rd,8592,1432,6.0,https://www.99.co/singapore/commercial/rent/property/far-east-finance-building-office-NtAKSVduXutdrtfn2ZaZeT#enquiry_source--Search
+114,Far East Shopping Centre,D9,Orchard Rd,18800,3359,5.6,https://www.99.co/singapore/commercial/rent/property/far-east-shopping-centre-office-NmW4kJQV45uoUUsRjexRkX#enquiry_source--Search
+115,Woods Square,D25,Woodlands Square,2408,560,4.3,https://www.99.co/singapore/commercial/rent/property/woods-square-office-GU2HXaGdvaB9jytB8PLBRU#enquiry_source--Search
+116,Woods Square,D25,Woodlands Square,8512,1216,7.0,https://www.99.co/singapore/commercial/rent/property/woods-square-office-F9Svx4sAzb7S5NWmYBZeK2#enquiry_source--Search
+117,Woods Square,D25,Woodlands Square,3542,506,7.0,https://www.99.co/singapore/commercial/rent/property/woods-square-office-EWcYvCtuJNTeG7QX9dhacR#enquiry_source--Search
+118,Woods Square,D25,Woodlands Square,4972,1130,4.4,https://www.99.co/singapore/commercial/rent/property/woods-square-office-CMpYSERcDTxMxNTsLBBso2#enquiry_source--Search
+119,Woods Square,D25,Woodlands Square,22529,3466,6.5,https://www.99.co/singapore/commercial/rent/property/woods-square-office-C9wrG8bEZcRWhnjUK7oWfj#enquiry_source--Search
+120,One Holland Village Residences / One Holland Village,D10,Holland Village Way,47053,4953,9.5,https://www.99.co/singapore/commercial/rent/property/one-holland-village-office-9rndoRS38EdsSCzEFYPZpJ#enquiry_source--Search
+121,One Holland Village Residences / One Holland Village,D10,Holland Village Way,38598,4063,9.5,https://www.99.co/singapore/commercial/rent/property/one-holland-village-office-9rHghyxApYC4xq9hq2HzM8#enquiry_source--Search
+122,One Holland Village Residences / One Holland Village,D10,Holland Village Way,37031,3898,9.5,https://www.99.co/singapore/commercial/rent/property/one-holland-village-office-8YQBVSbYTWd92pJWox7cEs#enquiry_source--Search
+123,Woods Square,D25,Woodlands Square,5047,721,7.0,https://www.99.co/singapore/commercial/rent/property/woods-square-office-4X5aXx5kY6SdTZ3pRA9R22#enquiry_source--Search
+124,Woods Square,D25,Woodlands Square,4144,592,7.0,https://www.99.co/singapore/commercial/rent/property/woods-square-office-4HicXngafb2QuyEj4PptQn#enquiry_source--Search
+125,Regency House,D9,Penang Rd,12270,1636,7.5,https://www.99.co/singapore/commercial/rent/property/regency-house-office-2LbNmqWCrB9r55Gamo5XWf#enquiry_source--Search
+126,Wave9,D27,Woodlands Industrial Pk E9,4900,1840,2.66,https://www.99.co/singapore/commercial/rent/property/wave9-office-NfgZqFrsKWc62xcgrKVUoc#enquiry_source--Search
+127,Serangoon Garden Estate,D19,Maju Ave,6500,1200,5.42,https://www.99.co/singapore/commercial/rent/property/serangoon-garden-estate-office-DKg92BKBBMhF3zmS2coJpB#enquiry_source--Search
+128,Petain Road/Tyrwhitt Road Conservation Area,D8,Jln Besar,17900,5320,3.36,https://www.99.co/singapore/commercial/rent/property/petain-roadtyrwhitt-road-conservation-area-office-cmyyqDAD7Kcca9PuYqwAb4#enquiry_source--Search
+129,Wave9,D27,Woodlands Industrial Pk E9,4500,1732,2.6,https://www.99.co/singapore/commercial/rent/property/wave9-office-XHh92SbL2m8CKrMdgqBg3p#enquiry_source--Search
+130,Icb Enterprise House,D7,Middle Rd,700,70,10.0,https://www.99.co/singapore/commercial/rent/property/icb-enterprise-house-office-aJC8SuHMocq6GnfTBWGqYB#enquiry_source--Search
+131,AZ @ Paya Lebar,D14,Paya Lebar Rd,5000,1970,2.54,https://www.99.co/singapore/commercial/rent/property/az-paya-lebar-office-DWNe8EcYaCMQsFRQqLHhrR#enquiry_source--Search
+132,North Bridge Centre,D7,Nth Bridge Rd,1565,204,7.67,https://www.99.co/singapore/commercial/rent/property/north-bridge-centre-office-mzxQfoRGaNKoJjLnZq2i67#enquiry_source--Search
+133,King's Centre,D3,Havelock Rd,12560,1744,7.2,https://www.99.co/singapore/commercial/rent/property/kings-centre-office-mCo3waomQgpm2kdQiB4KKC#enquiry_source--Search
+134,Parkway Parade,D15,Marine Parade Rd,6214,956,6.5,https://www.99.co/singapore/commercial/rent/property/parkway-parade-office-Urnw4umpsLQivn6br3fJoA#enquiry_source--Search
+135,Jurong Town Hall,D22,Jurong Town Hall Rd,4000,1150,3.48,https://www.99.co/singapore/commercial/rent/property/jurong-town-hall-office-4v3iTTTeXnSQrGEMrENnzJ#enquiry_source--Search
+136,Parkway Parade,D15,Marine Parade Rd,6200,956,6.49,https://www.99.co/singapore/commercial/rent/property/parkway-parade-office-VU3Ku8SsZ4yBWYgAsiWVQo#enquiry_source--Search
+137,Paya Lebar Square,D14,Paya Lebar Rd,6500,950,6.84,https://www.99.co/singapore/commercial/rent/property/paya-lebar-square-office-Xcc7uP97THuxnEqnq6iLT4#enquiry_source--Search
+138,The Adelphi,D6,Coleman St,1900,300,6.33,https://www.99.co/singapore/commercial/rent/property/the-adelphi-office-BTbWMDNwzVjnQLgmCgjprf#enquiry_source--Search
+139,Chye Sing Building,D7,Beach Rd,7500,1700,4.41,https://www.99.co/singapore/commercial/rent/property/chye-sing-building-office-fvzWkGkF54xeCvSqTzU45S#enquiry_source--Search
+140,The Heeren,D9,Orchard Rd,12000,926,12.96,https://www.99.co/singapore/commercial/rent/property/the-heeren-office-CHU5A8Dkv8LmqHEFdywzCH#enquiry_source--Search
+141,The Heeren,D9,Orchard Rd,18000,1507,11.94,https://www.99.co/singapore/commercial/rent/property/the-heeren-office-RnDoKGBUx3Gw4hoeaFqq23#enquiry_source--Search
+142,The Heeren,D9,Orchard Rd,9000,732,12.3,https://www.99.co/singapore/commercial/rent/property/the-heeren-office-ZgAqBdQkbYEmuvELX24AZw#enquiry_source--Search
+143,Tong Eng Building,D1,Cecil St,2778,463,6.0,https://www.99.co/singapore/commercial/rent/property/tong-eng-building-office-RRvNBnCNAiDrTWdz4rTamW#enquiry_source--Search
+144,Ibis Singapore Bencoolen,D7,Bencoolen St,6490,1475,4.4,https://www.99.co/singapore/commercial/rent/property/ibis-singapore-bencoolen-office-Mzp5sC53pbtpXvYiTkdr5E#enquiry_source--Search
+145,Viva Vista,D5,Sth Buona Vista Rd,1400,280,5.0,https://www.99.co/singapore/commercial/rent/property/viva-vista-office-PzZee6qRaGG2F9wz89CrFT#enquiry_source--Search
+146,Peninsula Plaza,D6,Nth Bridge Rd,9872,1732,5.7,https://www.99.co/singapore/commercial/rent/property/peninsula-plaza-office-b6ae4RmYQ2VPUqFm5LQ8rS#enquiry_source--Search
+147,Vision Exchange,D22,Venture Dr,7770,1689,4.6,https://www.99.co/singapore/commercial/rent/property/vision-exchange-office-PpJdVcsj5JLmWjEUxe5gDg#enquiry_source--Search
+148,The Adelphi,D6,Coleman St,1980,300,6.6,https://www.99.co/singapore/commercial/rent/property/the-adelphi-office-murRqFeRQTXp6sR4AGo2H6#enquiry_source--Search
+149,The Adelphi,D6,Coleman St,2200,350,6.29,https://www.99.co/singapore/commercial/rent/property/the-adelphi-office-8diJHwfCMDunBgeMYSDp96#enquiry_source--Search
+150,Woods Square,D25,Woodlands Square,48752,9849,4.95,https://www.99.co/singapore/commercial/rent/property/woods-square-office-jPbfy6hMFcideNWomKHJce#enquiry_source--Search
+151,North Bridge Centre,D7,Nth Bridge Rd,1746,291,6.0,https://www.99.co/singapore/commercial/rent/property/north-bridge-centre-office-fi8J5CCkeHk37tb7uJVqCn#enquiry_source--Search
+152,Gateway West,D7,Beach Rd,5557,741,7.5,https://www.99.co/singapore/commercial/rent/property/gateway-west-office-MuWTDvZjF6GznRMo7ybQPJ#enquiry_source--Search
+153,Centrium Square,D8,Serangoon Rd,1588,150,10.59,https://www.99.co/singapore/commercial/rent/property/centrium-square-office-Uygm9LNwKmhHJJAznDE6oN#enquiry_source--Search
+154,The Bencoolen,D7,Bencoolen St,3288,678,4.85,https://www.99.co/singapore/commercial/rent/property/the-bencoolen-office-eFFPrChrogAWKZ43irnrQ6#enquiry_source--Search
+155,One Raffles Place,D1,Raffles Pl,14800,1356,10.91,https://www.99.co/singapore/commercial/rent/property/one-raffles-place-office-LHtmHUc65YbBMCNdvULtnC#enquiry_source--Search
+156,Woods Square,D25,Woodlands Square,2688,560,4.8,https://www.99.co/singapore/commercial/rent/property/woods-square-office-2wTdoSisq7R96HXGVm7VSm#enquiry_source--Search
+157,Fusionopolis Link,D5,Fusionopolis Link,21864,3644,6.0,https://www.99.co/singapore/commercial/rent/property/fusionopolis-link-office-byMafATABF8ua57KdDLZj9#enquiry_source--Search
+158,City House,D1,Robinson Rd,11000,1313,8.38,https://www.99.co/singapore/commercial/rent/property/city-house-office-oD9krjQ24GSp2rmeaKYeWB#enquiry_source--Search
+159,The Adelphi,D6,Coleman St,17959,3046,5.9,https://www.99.co/singapore/commercial/rent/property/the-adelphi-office-4uGn4yqeZUiP65x8YiUBDY#enquiry_source--Search
+160,Ocean Financial Centre,D1,Collyer Quay,17285,1744,9.91,https://www.99.co/singapore/commercial/rent/property/ocean-financial-centre-office-iEV2YPAa9mHR9PxMKauhZP#enquiry_source--Search
+161,OG Albert Complex,D7,Albert St,2979,573,5.2,https://www.99.co/singapore/commercial/rent/property/og-albert-complex-office-vPC2MyX3wAWJDsXDUYFdE5#enquiry_source--Search
+162,Crystal Time Building,D13,Tannery Lane,6950,3020,2.3,https://www.99.co/singapore/commercial/rent/property/crystal-time-building-office-GPUFWXFvo7YVXcKe9sqAJW#enquiry_source--Search
+163,PSA Vista,D5,Harbour Dr,18800,4193,4.48,https://www.99.co/singapore/commercial/rent/property/psa-vista-office-3T6RFDf7KGzddMghxK5FgN#enquiry_source--Search
+164,PSA Vista,D5,Harbour Dr,5300,1281,4.14,https://www.99.co/singapore/commercial/rent/property/psa-vista-office-TxCca36nSZ3DrDYdgiQ8ED#enquiry_source--Search
+165,Parkway Parade,D15,Marine Parade Rd,6214,956,6.5,https://www.99.co/singapore/commercial/rent/property/parkway-parade-office-bAghdKYDu8YVVwwLUrz3PF#enquiry_source--Search
+166,Tampines Plaza 2,D18,Tampines Ctrl 1,8520,1420,6.0,https://www.99.co/singapore/commercial/rent/property/tampines-plaza-2-office-35VpTCMiecLZLmGy4JXL3d#enquiry_source--Search
+167,Woods Square,D25,Woodlands Square,24262,3466,7.0,https://www.99.co/singapore/commercial/rent/property/woods-square-office-WUtGriTwoN5LExZLAxeA6g#enquiry_source--Search
+168,Boat Quay Conservation Area,D1,Circular Rd,5736,1195,4.8,https://www.99.co/singapore/commercial/rent/property/boat-quay-conservation-area-office-Phv7icngLYnGKR6puQyRmn#enquiry_source--Search
+169,Keck Seng Tower,D1,Cecil St,7092,1182,6.0,https://www.99.co/singapore/commercial/rent/property/keck-seng-tower-office-bStkzURhsq3rLdu7LcyStj#enquiry_source--Search
+170,The Synergy,D22,International Business Pk,1764,420,4.2,https://www.99.co/singapore/commercial/rent/property/the-synergy-office-kfqXVuL3srEtKw4qDjByDa#enquiry_source--Search
+171,Concorde Shopping Centre,D3,Outram Rd,68321,12422,5.5,https://www.99.co/singapore/commercial/rent/property/concorde-shopping-centre-office-eRZHqgra4ioszVt4ftg7Xd#enquiry_source--Search
+172,The Riverwalk,D1,Upp Circular Rd,4202,667,6.3,https://www.99.co/singapore/commercial/rent/property/the-riverwalk-office-Zojx5W78gdzpS7ojJDWuPe#enquiry_source--Search
+173,The Riverwalk,D1,Upp Circular Rd,3036,506,6.0,https://www.99.co/singapore/commercial/rent/property/the-riverwalk-office-4uoFbvGB3eKaHEZo84tZPr#enquiry_source--Search
+174,Concorde Shopping Centre,D3,Outram Rd,2454,409,6.0,https://www.99.co/singapore/commercial/rent/property/concorde-shopping-centre-office-PBj3NpqigiMnEX5SUdrPkP#enquiry_source--Search
+175,Concorde Shopping Centre,D3,Outram Rd,2388,398,6.0,https://www.99.co/singapore/commercial/rent/property/concorde-shopping-centre-office-DNLRXjrVHxUNmrkFrhXrLt#enquiry_source--Search
+176,Concorde Shopping Centre,D3,Outram Rd,6405,1281,5.0,https://www.99.co/singapore/commercial/rent/property/concorde-shopping-centre-office-LfJLGgg43tvq68yYtyHyEq#enquiry_source--Search
+177,Mohamed Sultan Road,D9,Mohamed Sultan Rd,3000,580,5.17,https://www.99.co/singapore/commercial/rent/property/mohamed-sultan-road-office-RgJJACUkXYiFv8Y2Re72R6#enquiry_source--Search
+178,100 AM,D2,Tras St,6028,753,8.01,https://www.99.co/singapore/commercial/rent/property/100-am-office-Sj7aUqAFSGRzDS7aeTKxBn#enquiry_source--Search
+179,100 AM,D2,Tras St,32720,4090,8.0,https://www.99.co/singapore/commercial/rent/property/100-am-office-ismoC3Gf6gEEzSsFXbKhc5#enquiry_source--Search
+180,Anson Road,D2,Anson Rd,23903,2173,11.0,https://www.99.co/singapore/commercial/rent/property/anson-road-office-ko7imwm3dZd6qRw4uBtHK6#enquiry_source--Search
+181,United Square,D11,Thomson Rd,8630,1098,7.86,https://www.99.co/singapore/commercial/rent/property/united-square-office-daX23JY9NyAGnSRT9tVeGt#enquiry_source--Search
+182,The Commerze @ Irving,D13,Irving Pl,3000,1400,2.14,https://www.99.co/singapore/commercial/rent/property/the-commerze-irving-office-QhwUJaK8d9k2kx8Gbvvh3u#enquiry_source--Search
+183,Woods Square,D25,Woodlands Square,5000,1130,4.42,https://www.99.co/singapore/commercial/rent/property/woods-square-office-Zss7XAmySeKqxhAdqoFNtK#enquiry_source--Search
+184,Woods Square,D25,Woodlands Square,5000,1130,4.42,https://www.99.co/singapore/commercial/rent/property/woods-square-office-nWS7joMX9XzvCCGtygom7y#enquiry_source--Search
+185,Far East Finance Building,D1,Robinson Rd,8600,1432,6.01,https://www.99.co/singapore/commercial/rent/property/far-east-finance-building-office-nonwvGouuMgxWKACgCpGVC#enquiry_source--Search
+186,Far East Finance Building,D1,Robinson Rd,8600,1432,6.01,https://www.99.co/singapore/commercial/rent/property/far-east-finance-building-office-CCACrSdHUb6rpyaqGYfrYA#enquiry_source--Search
+187,One Holland Village Residences / One Holland Village,D10,Holland Village Way,192000,5289,36.3,https://www.99.co/singapore/commercial/rent/property/one-holland-village-office-EYJcnPW6NrjTbE2c9SzNAC#enquiry_source--Search
+188,One Holland Village Residences / One Holland Village,D10,Holland Village Way,192000,5289,36.3,https://www.99.co/singapore/commercial/rent/property/one-holland-village-office-VAdgfLk3Y9qrgQGrpPPCDo#enquiry_source--Search
+189,Tong Eng Building,D1,Cecil St,2685,463,5.8,https://www.99.co/singapore/commercial/rent/property/tong-eng-building-office-8fudDFdLL3KFKW3ddmyTFC#enquiry_source--Search
+190,Singapore Post Centre,D14,Eunos Rd 8,26000,4000,6.5,https://www.99.co/singapore/commercial/rent/property/singapore-post-centre-office-ZhfBSgwN8sooCsHocDnysf#enquiry_source--Search
+191,Woods Square,D25,Woodlands Square,9988,1722,5.8,https://www.99.co/singapore/commercial/rent/property/woods-square-office-ESJafF4LgMaYhr3PhAwNhB#enquiry_source--Search
+192,Woods Square,D25,Woodlands Square,100059,20214,4.95,https://www.99.co/singapore/commercial/rent/property/woods-square-office-L38AQPRmcn7x9oHpHP8Q4e#enquiry_source--Search
+193,Kreta Ayer Conservation Area,D1,Mosque St,15000,2400,6.25,https://www.99.co/singapore/commercial/rent/property/kreta-ayer-conservation-area-office-bizxYRCuFnBMgA79iQDuox#enquiry_source--Search
+194,Woods Square,D25,Woodlands Square,8888,1679,5.29,https://www.99.co/singapore/commercial/rent/property/woods-square-office-Qj2upoT3LUjNcFYh2B7xfM#enquiry_source--Search
+195,Victoria Street,D7,Victoria St,300000,30000,10.0,https://www.99.co/singapore/commercial/rent/property/victoria-street-office-xBhP7AfvBChT9SfghBuxLF#enquiry_source--Search
+196,Tanjong Pagar Conservation Area,D2,Tras St,2320,400,5.8,https://www.99.co/singapore/commercial/rent/property/tanjong-pagar-conservation-area-office-WmS4bgkQCR9CWUfR8sKdqm#enquiry_source--Search
+197,Suntec City Towers,D1,Temasek Boulevard,5768,560,10.3,https://www.99.co/singapore/commercial/rent/property/suntec-city-towers-office-2MMrSDKfsQB9SzjSD8np2G#enquiry_source--Search
+198,Havelock2,D1,Havelock Rd,2940,420,7.0,https://www.99.co/singapore/commercial/rent/property/havelock2-office-Da2Bn3HrbNJYC4MdqQqSES#enquiry_source--Search
+199,Havelock2,D1,Havelock Rd,5726,818,7.0,https://www.99.co/singapore/commercial/rent/property/havelock2-office-8mikpjveW6atDwPwgGE2qM#enquiry_source--Search
+200,Havelock2,D1,Havelock Rd,11151,1593,7.0,https://www.99.co/singapore/commercial/rent/property/havelock2-office-c2eNo9w9ML8pLVU9SSR5vF#enquiry_source--Search
+201,Serangoon Road,D8,Serangoon Rd,4500,700,6.43,https://www.99.co/singapore/commercial/rent/property/serangoon-road-office-WJTXacGYk2nceTGU67MFe9#enquiry_source--Search
+202,Amoy Street,D1,Amoy St,14100,2662,5.3,https://www.99.co/singapore/commercial/rent/property/amoy-street-office-23FXoB7bGFXSNBBA3awt3k#enquiry_source--Search
+203,Bangkok Bank Building,D1,Cecil St,23100,4200,5.5,https://www.99.co/singapore/commercial/rent/property/bangkok-bank-building-office-C4QCFPpPN5zFz39ahZ5ovG#enquiry_source--Search
+204,Sky Line Building,D7,Waterloo St,2813,625,4.5,https://www.99.co/singapore/commercial/rent/property/sky-line-building-office-Mkm5TM93x2qN7V3KZYGhww#enquiry_source--Search
+205,New Bridge Road,D1,New Bridge Rd,11999,1373,8.74,https://www.99.co/singapore/commercial/rent/property/new-bridge-road-office-QJs2xdMzcULqmcPQu6voim#enquiry_source--Search
+206,Bukit Merah Central,D3,Bt Merah Ctrl,3000,678,4.42,https://www.99.co/singapore/commercial/rent/property/bukit-merah-central-office-3SjkJUgaDMC3yXA2ViZFRF#enquiry_source--Search
+207,The Adelphi,D6,Coleman St,13435,2067,6.5,https://www.99.co/singapore/commercial/rent/property/the-adelphi-office-jfemjLaUikWVHDxQiYJrPk#enquiry_source--Search
+208,OG Albert Complex,D7,Albert St,5855,1126,5.2,https://www.99.co/singapore/commercial/rent/property/og-albert-complex-office-iKdiXXnP4eHxdLHuhT75qk#enquiry_source--Search
+209,Jun Xin Building,D7,Nth Bridge Rd,31000,6334,4.89,https://www.99.co/singapore/commercial/rent/property/jun-xin-building-office-hQy8cu68QkEqYSQ23F8NgV#enquiry_source--Search
+210,Peninsula Plaza,D6,Nth Bridge Rd,11900,2174,5.47,https://www.99.co/singapore/commercial/rent/property/peninsula-plaza-office-gMZpCst2uuxdkH4eB5FgvP#enquiry_source--Search
+211,The Adelphi,D6,Coleman St,9373,1442,6.5,https://www.99.co/singapore/commercial/rent/property/the-adelphi-office-dXadRHHFQTpdmSzSZiFYvh#enquiry_source--Search
+212,The Adelphi,D6,Coleman St,14345,2207,6.5,https://www.99.co/singapore/commercial/rent/property/the-adelphi-office-anvrYqQn58gufHoRAo6K2d#enquiry_source--Search
+213,Hd 139,D1,Cecil St,43238,6652,6.5,https://www.99.co/singapore/commercial/rent/property/hd-139-office-XgawVp6nPAKHZdzh2Vd5mX#enquiry_source--Search
+214,OG Albert Complex,D7,Albert St,19667,3782,5.2,https://www.99.co/singapore/commercial/rent/property/og-albert-complex-office-RrcB7Gg3RmA5ZAcPJ4zJKm#enquiry_source--Search
+215,Bulkhaul House,D7,Beach Rd,18200,3500,5.2,https://www.99.co/singapore/commercial/rent/property/bulkhaul-house-office-L6q3rDuWwzcHdydpxgkGub#enquiry_source--Search
+216,Hd 139,D1,Cecil St,87596,13476,6.5,https://www.99.co/singapore/commercial/rent/property/hd-139-office-Ha4D4WHsMoKWbeaYeoY2nL#enquiry_source--Search
+217,Keck Seng Tower,D1,Cecil St,9100,1347,6.76,https://www.99.co/singapore/commercial/rent/property/keck-seng-tower-office-D7ze8n2QTPw7swHMRT5kHf#enquiry_source--Search
+218,Keck Seng Tower,D1,Cecil St,16820,2589,6.5,https://www.99.co/singapore/commercial/rent/property/keck-seng-tower-office-CHZCekuqg7QH8syWntwzst#enquiry_source--Search
+219,Jun Xin Building,D7,Nth Bridge Rd,15500,3167,4.89,https://www.99.co/singapore/commercial/rent/property/jun-xin-building-office-CCiBq639fxvwuZynbxUYBp#enquiry_source--Search
+220,Textile Centre,D7,Jln Sultan,3800,893,4.26,https://www.99.co/singapore/commercial/rent/property/textile-centre-office-ChSDpAZCcCaqsTXpbw6ASB#enquiry_source--Search
+221,Tradehub 21,D22,Boon Lay Way,1700,500,3.4,https://www.99.co/singapore/commercial/rent/property/tradehub-21-office-Xu7CFBbkdaQvrQhyr47yFG#enquiry_source--Search
+222,The Plaza,D7,Beach Rd,4000,721,5.55,https://www.99.co/singapore/commercial/rent/property/the-plaza-office-4M4B7TA2PvY7qXxcLXsyYt#enquiry_source--Search
+223,The Plaza,D7,Beach Rd,7000,1281,5.46,https://www.99.co/singapore/commercial/rent/property/the-plaza-office-YUjCDEo6g6mQ5hXvSCkwww#enquiry_source--Search
+224,Upper Bukit Timah Road,D21,Upp Bt Timah Rd,14500,3600,4.03,https://www.99.co/singapore/commercial/rent/property/upper-bukit-timah-road-office-RnUedENmXnp4YDNAzziEPB#enquiry_source--Search
+225,Orchard Rendezvous Hotel,D10,Tanglin Rd,9175,1119,8.2,https://www.99.co/singapore/commercial/rent/property/orchard-rendezvous-hotel-office-PPZPkubbYWEzVENHxD9vwf#enquiry_source--Search
+226,Regency House,D9,Penang Rd,12270,1636,7.5,https://www.99.co/singapore/commercial/rent/property/regency-house-office-KCsou6UZkyiEg8nHr7WmGk#enquiry_source--Search
+227,Harbourfront Centre,D4,Maritime Square,19000,3000,6.33,https://www.99.co/singapore/commercial/rent/property/harbourfront-centre-office-EyMzr6aENt5nA3nATjeERT#enquiry_source--Search
+228,Tripleone Somerset,D9,Somerset Rd,8500,1001,8.49,https://www.99.co/singapore/commercial/rent/property/tripleone-somerset-office-6HXmtWixeckQvSLSMTF8QW#enquiry_source--Search
+229,International Plaza,D2,Anson Rd,8300,1378,6.02,https://www.99.co/singapore/commercial/rent/property/international-plaza-office-2Qri84HNke4nw8MJbeafJn#enquiry_source--Search
+230,International Plaza,D2,Anson Rd,5200,937,5.55,https://www.99.co/singapore/commercial/rent/property/international-plaza-office-egPhxecopGwgVdrBRFk5Tv#enquiry_source--Search
+231,International Plaza,D2,Anson Rd,11800,2196,5.37,https://www.99.co/singapore/commercial/rent/property/international-plaza-office-TsBbxVwZmTWdt9PVQ48Gwh#enquiry_source--Search
+232,International Plaza,D2,Anson Rd,5900,936,6.3,https://www.99.co/singapore/commercial/rent/property/international-plaza-office-V5w2cPKhrT6eiq3bbruBkS#enquiry_source--Search
+233,International Plaza,D2,Anson Rd,5000,1000,5.0,https://www.99.co/singapore/commercial/rent/property/international-plaza-office-7vAyMoCwShVmR8T9NAZXu4#enquiry_source--Search
+234,International Plaza,D2,Anson Rd,6000,937,6.4,https://www.99.co/singapore/commercial/rent/property/international-plaza-office-QVbRdHVSwykpxu2rsLAEXb#enquiry_source--Search
+235,ESR Bizpark @ Changi,D16,Changi Business Pk Ave 1,20824,5206,4.0,https://www.99.co/singapore/commercial/rent/property/esr-bizpark-changi-office-G4uYeV2ThURLJ4Sw8TWnyz#enquiry_source--Search
+236,International Plaza,D2,Anson Rd,10115,1744,5.8,https://www.99.co/singapore/commercial/rent/property/international-plaza-office-BKFNLTy9vUxhAu4NvkX6FT#enquiry_source--Search
+237,Fook Hai Building,D1,Sth Bridge Rd,3000,440,6.82,https://www.99.co/singapore/commercial/rent/property/fook-hai-building-office-GoXXDn77DV6uHpwZv4d7dx#enquiry_source--Search
+238,Woods Square,D25,Woodlands Square,2576,560,4.6,https://www.99.co/singapore/commercial/rent/property/woods-square-office-UNdkfSqUpGTNCNG4wjduaA#enquiry_source--Search
+239,Robinson Square,D1,Robinson Rd,7800,1184,6.59,https://www.99.co/singapore/commercial/rent/property/robinson-square-office-2JvbVVTBjaVcJzuJu3ZYqj#enquiry_source--Search
+240,Far East Shopping Centre,D9,Orchard Rd,18810,3359,5.6,https://www.99.co/singapore/commercial/rent/property/far-east-shopping-centre-office-LaYYNa85aw8GkhixmthjLk#enquiry_source--Search
+241,Suntec City Towers,D1,Temasek Boulevard,21640,1970,10.98,https://www.99.co/singapore/commercial/rent/property/suntec-city-towers-office-33yeJ5eXWKaP87toVruTvW#enquiry_source--Search
+242,International Building,D9,Orchard Rd,2700,301,8.97,https://www.99.co/singapore/commercial/rent/property/international-building-office-bnNs8jtecqj5LSDprRuTWH#enquiry_source--Search
+243,The Concourse,D7,Beach Rd,25000,3380,7.4,https://www.99.co/singapore/commercial/rent/property/the-concourse-office-ftBeTyRNjPhMCa5B9oboDf#enquiry_source--Search
+245,Woods Square,D25,Woodlands Square,3248,560,5.8,https://www.99.co/singapore/commercial/rent/property/woods-square-office-oS6UpvpJaWmUTrygWegZNo#enquiry_source--Search
+246,Amtech Building,D20,Sin Ming Rd,3100,721,4.3,https://www.99.co/singapore/commercial/rent/property/amtech-building-office-YJe9e55xr2ray8W6E75TG6#enquiry_source--Search
+247,Tripleone Somerset,D9,Somerset Rd,7104,947,7.5,https://www.99.co/singapore/commercial/rent/property/tripleone-somerset-office-HB8xAxbvQME3JquNAu4a29#enquiry_source--Search
+248,T-Space,D18,Tampines Nth Dr 1,7800,2422,3.22,https://www.99.co/singapore/commercial/rent/property/tspace-office-kosbpmGVXbM4pnb9JKapLk#enquiry_source--Search
+249,Kreta Ayer Conservation Area,D1,New Bridge Rd,12000,1373,8.74,https://www.99.co/singapore/commercial/rent/property/kreta-ayer-conservation-area-office-8s9CrF5k6TbEQrSpPHDhLA#enquiry_source--Search
+250,Orchard Rendezvous Hotel,D10,Tanglin Rd,3272,409,8.0,https://www.99.co/singapore/commercial/rent/property/orchard-rendezvous-hotel-office-ZdT6Yy8JquABqdCR9NaHLY#enquiry_source--Search
+251,ABI Plaza,D2,Keppel Rd,35245,3710,9.5,https://www.99.co/singapore/commercial/rent/property/abi-plaza-office-HxWB2hVkLsiEHBRRXUBE8R#enquiry_source--Search
+252,ABI Plaza,D2,Keppel Rd,31646,3723,8.5,https://www.99.co/singapore/commercial/rent/property/abi-plaza-office-29ue3uMjBvqoCfJr9tHC6q#enquiry_source--Search
+253,ABI Plaza,D2,Keppel Rd,11885,1251,9.5,https://www.99.co/singapore/commercial/rent/property/abi-plaza-office-S9nVX8id5vkiSiP7QRe2zy#enquiry_source--Search
+254,Plus,D1,Cecil St,8646,786,11.0,https://www.99.co/singapore/commercial/rent/property/plus-office-YYSJ7KAagHFYbJSvFeKWsN#enquiry_source--Search
+255,Vision Exchange,D22,Venture Dr,7769,1689,4.6,https://www.99.co/singapore/commercial/rent/property/vision-exchange-office-JGCiuRjyMnZ5DWNugztChC#enquiry_source--Search
+256,Tampines Plaza 1,D18,Tampines Ctrl 1,22009,4114,5.35,https://www.99.co/singapore/commercial/rent/property/tampines-plaza-1-office-VPEXJq4NVvAhh6ufn37Q4P#enquiry_source--Search
+257,20 Collyer Quay,D1,Collyer Quay,10310,1001,10.3,https://www.99.co/singapore/commercial/rent/property/20-collyer-quay-office-35C8gXEYfYKSGetuUrqDjA#enquiry_source--Search
+258,Tan Chong Tower,D7,Queen St,3863,623,6.2,https://www.99.co/singapore/commercial/rent/property/tan-chong-tower-office-HBEWrAWmuPWcskdAqaBsRZ#enquiry_source--Search
+259,Tan Chong Tower,D7,Queen St,5871,947,6.2,https://www.99.co/singapore/commercial/rent/property/tan-chong-tower-office-DbKbXATXhVS46SCgKF2JjV#enquiry_source--Search
+260,Vision Exchange,D22,Venture Dr,7780,1689,4.61,https://www.99.co/singapore/commercial/rent/property/vision-exchange-office-YXFiP2mCJhxikpmfK9wnpU#enquiry_source--Search
+261,Mountbatten Square,D14,Mountbatten Rd,6538,1453,4.5,https://www.99.co/singapore/commercial/rent/property/mountbatten-square-office-oYFqLpbKt6mDRZbMMHAHLL#enquiry_source--Search
+262,Orchard Rendezvous Hotel,D10,Tanglin Rd,7807,1001,7.8,https://www.99.co/singapore/commercial/rent/property/orchard-rendezvous-hotel-office-aiWaPN27xpj2qheeFnmQJ8#enquiry_source--Search
+263,Woods Square,D25,Woodlands Square,9988,1722,5.8,https://www.99.co/singapore/commercial/rent/property/woods-square-office-BwX6u7oG5PphqpQaU9P8pa#enquiry_source--Search
+264,Neil Road,D2,Neil Rd,8000,1050,7.62,https://www.99.co/singapore/commercial/rent/property/neil-road-office-6YVMmRy5D8so8GoM7xck5B#enquiry_source--Search
+265,ESR Bizpark @ Changi,D16,Changi Business Pk Ave 1,109849,24411,4.5,https://www.99.co/singapore/commercial/rent/property/esr-bizpark-changi-office-CQEWPncyVem9N82meF53ny#enquiry_source--Search
+266,The Commerze @ Irving,D13,Irving Pl,1000,168,5.95,https://www.99.co/singapore/commercial/rent/property/the-commerze-irving-office-4URCwZ7oSCuV7yFjbYaEMj#enquiry_source--Search
+267,Woods Square,D25,Woodlands Square,2576,560,4.6,https://www.99.co/singapore/commercial/rent/property/woods-square-office-CrpfwCWiQWwFE7uZw8ti3A#enquiry_source--Search
+268,Woods Square,D25,Woodlands Square,24262,3466,7.0,https://www.99.co/singapore/commercial/rent/property/woods-square-office-H85gkPBr39syECZT3UUnCD#enquiry_source--Search
+269,One Holland Village Residences / One Holland Village,D10,Holland Village Way,46303,4874,9.5,https://www.99.co/singapore/commercial/rent/property/one-holland-village-office-RSapV9rnngmfkB9heHuMFq#enquiry_source--Search
+270,Crystal Time Building,D13,Tannery Lane,7950,3020,2.63,https://www.99.co/singapore/commercial/rent/property/crystal-time-building-office-GAkQZBtkoaCkKFscc7JsbR#enquiry_source--Search
+271,Anson Road,D2,Anson Rd,11865,1582,7.5,https://www.99.co/singapore/commercial/rent/property/anson-road-office-NRpjszgfeXDULJ6gM2J2xx#enquiry_source--Search
+272,Woods Square,D25,Woodlands Square,2300,560,4.11,https://www.99.co/singapore/commercial/rent/property/woods-square-office-EH8nKWAvr6fMXKtV2PwPMd#enquiry_source--Search
+273,International Plaza,D2,Anson Rd,8500,1000,8.5,https://www.99.co/singapore/commercial/rent/property/international-plaza-office-ekwgZgKW3rZkCuYRLxA5a8#enquiry_source--Search
+274,Lazada One,D7,Bras Basah Rd,11950,1195,10.0,https://www.99.co/singapore/commercial/rent/property/lazada-one-office-QsL8LFpWkxkBTfSvGMJeQW#enquiry_source--Search
+275,Tat Ann Building,D20,Jln Pemimpin,1200,370,3.24,https://www.99.co/singapore/commercial/rent/property/tat-ann-building-office-jJ6QpR8eQ52si96y94eXLK#enquiry_source--Search
+276,Sky Line Building,D7,Waterloo St,2812,625,4.5,https://www.99.co/singapore/commercial/rent/property/sky-line-building-office-2SWTgStuSHpviURBT7zpdv#enquiry_source--Search
+277,Vision Exchange,D22,Venture Dr,2378,517,4.6,https://www.99.co/singapore/commercial/rent/property/vision-exchange-office-uJnfU88c7ZRincYsCwRZPd#enquiry_source--Search
+278,HDB-Ang Mo Kio,D20,Ang Mo Kio Ave 4,5500,1655,3.32,https://www.99.co/singapore/commercial/rent/property/hdbang-mo-kio-office-2KSqm3RBKZpqBXKcEEznBY#enquiry_source--Search
+279,Pacific Tech Centre,D3,Jln Kilang Timor,10201,3778,2.7,https://www.99.co/singapore/commercial/rent/property/pacific-tech-centre-office-3pM7LzqY7NV857jA5z3u3i#enquiry_source--Search
+280,Raeburn Park,D2,Raeburn Pk,1274,260,4.9,https://www.99.co/singapore/commercial/rent/property/raeburn-park-office-WxD7h5PvVEWTg33PvPRctr#enquiry_source--Search
+281,Hansapoint @ Cbp,D16,Changi Business Pk Ctrl 2,136350,30300,4.5,https://www.99.co/singapore/commercial/rent/property/hansapoint-cbp-office-MhqGBBGDKArsRg9wkWq2PF#enquiry_source--Search
+282,Changi Business Park Avenue 1,D16,Changi Business Pk Ave 1,12582,2796,4.5,https://www.99.co/singapore/commercial/rent/property/changi-business-park-avenue-1-office-a4xmxtFi9RMnHkv6boGXV3#enquiry_source--Search
+283,One @ Changi City,D16,Changi Business Pk Ctrl 1,18529,3369,5.5,https://www.99.co/singapore/commercial/rent/property/one-changi-city-office-RxThhprh2tAtPaUYhv8TXW#enquiry_source--Search
+284,Plaza 8 @ Cbp,D16,Changi Business Pk Cres,7484,1782,4.2,https://www.99.co/singapore/commercial/rent/property/plaza-8-cbp-office-aUDY3uWsoD6KYYXspsdFeS#enquiry_source--Search
+285,Honeywell Building,D16,Changi Business Pk Ctrl 1,44604,10373,4.3,https://www.99.co/singapore/commercial/rent/property/honeywell-building-office-jAgXyfZTSf8Z8FzUUjFrz4#enquiry_source--Search
+286,Honeywell Building,D16,Changi Business Pk Ctrl 1,8192,1905,4.3,https://www.99.co/singapore/commercial/rent/property/honeywell-building-office-JV8bcCRtW3MeedeQLHiHi7#enquiry_source--Search
+287,Akzonobel House,D16,Changi Business Pk Vista,19119,4902,3.9,https://www.99.co/singapore/commercial/rent/property/akzonobel-house-office-T6NHZ3rqcVF8XYBiTJ892g#enquiry_source--Search
+288,Akzonobel House,D16,Changi Business Pk Vista,116300,29820,3.9,https://www.99.co/singapore/commercial/rent/property/akzonobel-house-office-n38omyV3s6pugJS6LgH3Rh#enquiry_source--Search
+289,One @ Changi City,D16,Changi Business Pk Ctrl 1,125081,22742,5.5,https://www.99.co/singapore/commercial/rent/property/one-changi-city-office-38fpqdmcXHRvdZJfBCAbsc#enquiry_source--Search
+290,Golden Mile Tower,D7,Beach Rd,2200,625,3.52,https://www.99.co/singapore/commercial/rent/property/golden-mile-tower-office-9cnPnVCxMP5AU2MW5nVbS3#enquiry_source--Search
+291,Rigel Innovation Centre,D16,Changi Business Pk Ctrl 2,15132,5044,3.0,https://www.99.co/singapore/commercial/rent/property/rigel-innovation-centre-office-4vRRwYgNNLCzZGucA6UsfU#enquiry_source--Search
+292,Suntec City Towers,D1,Temasek Boulevard,88470,8847,10.0,https://www.99.co/singapore/commercial/rent/property/suntec-city-towers-office-gqwiaqRyV6A2JxVT3seEVG#enquiry_source--Search
+293,ABI Plaza,D2,Keppel Rd,107406,12636,8.5,https://www.99.co/singapore/commercial/rent/property/abi-plaza-office-EaD37xA8GSGJGt8Rq8DUNs#enquiry_source--Search
+294,Amara Singapore,D2,Tg Pagar Rd,34765,4090,8.5,https://www.99.co/singapore/commercial/rent/property/amara-singapore-office-JhbVBs5RPKpeyMG96xrn4V#enquiry_source--Search
+295,Sky Line Building,D7,Waterloo St,6637,1475,4.5,https://www.99.co/singapore/commercial/rent/property/sky-line-building-office-m7fbjZphS8GjCEV2SWguGo#enquiry_source--Search
+296,Vision Exchange,D22,Venture Dr,2700,517,5.22,https://www.99.co/singapore/commercial/rent/property/vision-exchange-office-cj3kaak3JZNuUcedi6VmGm#enquiry_source--Search
+297,Vision Exchange,D22,Venture Dr,2850,517,5.51,https://www.99.co/singapore/commercial/rent/property/vision-exchange-office-E2siLJKX9HBbigt5QSngpa#enquiry_source--Search
+298,Woods Square,D25,Woodlands Square,24262,3466,7.0,https://www.99.co/singapore/commercial/rent/property/woods-square-office-hM8aqKBeiLdLi2aNhHSz9h#enquiry_source--Search
+299,Bugis Junction Towers,D7,Victoria St,29858,3143,9.5,https://www.99.co/singapore/commercial/rent/property/bugis-junction-towers-office-MTzotmjnM8ehKbyhtUTynY#enquiry_source--Search
+300,Harper Point,D13,Harper Rd,5325,1065,5.0,https://www.99.co/singapore/commercial/rent/property/harper-point-office-bamwigwG3eEQ77fdgCtJVo#enquiry_source--Search
+301,Harper Point,D13,Harper Rd,34000,6232,5.46,https://www.99.co/singapore/commercial/rent/property/harper-point-office-YKy8KRXFMDrupjrTyYKXjF#enquiry_source--Search
+302,Harper Point,D13,Harper Rd,20637,3175,6.5,https://www.99.co/singapore/commercial/rent/property/harper-point-office-fEDfeYR7W764D6qSbkiFk8#enquiry_source--Search
+303,The Octagon,D1,Cecil St,32000,6049,5.29,https://www.99.co/singapore/commercial/rent/property/the-octagon-office-SXBWc567eN8gxa9mgXVwoh#enquiry_source--Search
+304,United Square,D11,Thomson Rd,9044,1292,7.0,https://www.99.co/singapore/commercial/rent/property/united-square-office-bKLhU4ugWKAoi69mX7ofFA#enquiry_source--Search
+305,Blair Plain Conservation Area,D3,Kg Bahru Rd,13000,3605,3.61,https://www.99.co/singapore/commercial/rent/property/blair-plain-conservation-area-office-ccrAmsWYJcK94zRssvcz3x#enquiry_source--Search
+306,Old Birdcage Walk,D28,Old Birdcage Walk,25000,6970,3.59,https://www.99.co/singapore/commercial/rent/property/old-birdcage-walk-office-pUMYJEuUE26B6Ss53ftt3W#enquiry_source--Search
+307,Old Birdcage Walk,D28,Old Birdcage Walk,4500,1030,4.37,https://www.99.co/singapore/commercial/rent/property/old-birdcage-walk-office-kFnnezxTBfEtMWB8rxhe8M#enquiry_source--Search
+308,Parkway Parade,D15,Marine Parade Rd,6220,956,6.51,https://www.99.co/singapore/commercial/rent/property/parkway-parade-office-eM7MExnM6M3eFFVB3gnB68#enquiry_source--Search
+309,Old Birdcage Walk,D28,Old Birdcage Walk,9000,2000,4.5,https://www.99.co/singapore/commercial/rent/property/old-birdcage-walk-office-WSFrpMC2wsM2jtGMUJt6Eu#enquiry_source--Search
+310,Kim Hoe Centre,D8,Kelantan Lane,15600,3250,4.8,https://www.99.co/singapore/commercial/rent/property/kim-hoe-centre-office-QowTHikGDdrs4VCUkSMgLb#enquiry_source--Search
+311,International Plaza,D2,Anson Rd,860,80,10.75,https://www.99.co/singapore/commercial/rent/property/international-plaza-office-PfVXRKPhd93eYHp5iivgTD#enquiry_source--Search
+312,Old Birdcage Walk,D28,Old Birdcage Walk,2800,720,3.89,https://www.99.co/singapore/commercial/rent/property/old-birdcage-walk-office-BsmNsBgcq2bJnqjgd2fMJB#enquiry_source--Search
+313,Baker Street,D28,Baker St,13500,2950,4.58,https://www.99.co/singapore/commercial/rent/property/baker-street-office-8EaUp7ZtzUWbV2hQrX66Fq#enquiry_source--Search
+314,Baker Street,D28,Baker St,25000,5900,4.24,https://www.99.co/singapore/commercial/rent/property/baker-street-office-7miBkUiAVFphLpDXzkAuWc#enquiry_source--Search
+315,Genting Building,D13,Genting Lane,3700,1360,2.72,https://www.99.co/singapore/commercial/rent/property/genting-building-office-WdQpLyPLFajzd78rrX3xZV#enquiry_source--Search
+316,Lock+Store Chai Chee,D16,Chai Chee Lane,2200,630,3.49,https://www.99.co/singapore/commercial/rent/property/lock+store-chai-chee-office-VRfkUGacMbdxdbzKkLf3G4#enquiry_source--Search
+317,Woods Square,D25,Woodlands Square,24262,3466,7.0,https://www.99.co/singapore/commercial/rent/property/woods-square-office-QLm7uU3wxDf2ADz9jmqzY3#enquiry_source--Search
+318,Orchard Rendezvous Hotel,D10,Tanglin Rd,9175,1119,8.2,https://www.99.co/singapore/commercial/rent/property/orchard-rendezvous-hotel-office-WuPMTW8qYn4EDNsEyqCusR#enquiry_source--Search
+319,The Octagon,D1,Cecil St,38990,6189,6.3,https://www.99.co/singapore/commercial/rent/property/the-octagon-office-isCFdGq8aQEbFTQJidQ2fL#enquiry_source--Search
+320,The House Of Eden,D1,Robinson Rd,5852,665,8.8,https://www.99.co/singapore/commercial/rent/property/the-house-of-eden-office-g8CC7GwcdgzmPjfdtPjG7X#enquiry_source--Search
+321,The House Of Eden,D1,Robinson Rd,15540,1766,8.8,https://www.99.co/singapore/commercial/rent/property/the-house-of-eden-office-AKSpeqnWLMvTgTf3MV9b7H#enquiry_source--Search
+322,Central Plaza,D3,Tiong Bahru Rd,13725,1830,7.5,https://www.99.co/singapore/commercial/rent/property/central-plaza-office-LyF42BtPFL2npBKJqRc42m#enquiry_source--Search
+323,Bukit Pasoh Extnsn Constn Area,D2,Keong Saik Rd,16500,2850,5.79,https://www.99.co/singapore/commercial/rent/property/bukit-pasoh-extnsn-constn-area-office-Nb4TTeV8yjj97cCQGhM4TG#enquiry_source--Search
+324,Tampines Plaza 2,D18,Tampines Ctrl 1,8053,1475,5.46,https://www.99.co/singapore/commercial/rent/property/tampines-plaza-2-office-57SXcSL6NVP2LGqw3Thpo6#enquiry_source--Search
+325,Guthrie House,D10,Fifth Ave,17098,1030,16.6,https://www.99.co/singapore/commercial/rent/property/guthrie-house-office-cqevbuyCfgYFhTjGEnK2eE#enquiry_source--Search
+326,Havelock2,D1,Havelock Rd,2940,420,7.0,https://www.99.co/singapore/commercial/rent/property/havelock2-office-yCCiv3R6XZ5Na6WDoyoqyV#enquiry_source--Search
+327,Goldhill Plaza,D11,Goldhill Plaza,2750,500,5.5,https://www.99.co/singapore/commercial/rent/property/goldhill-plaza-office-AKzFN8iG5YzHaCWNM9x3gQ#enquiry_source--Search
+328,Woods Square,D25,Woodlands Square,2200,560,3.93,https://www.99.co/singapore/commercial/rent/property/woods-square-office-BnBVSwyocexsKbVsyq68Ff#enquiry_source--Search
+329,51 Cuppage Road,D9,Cuppage Rd,6714,1033,6.5,https://www.99.co/singapore/commercial/rent/property/51-cuppage-road-office-9m8kppxNvWAJUVR2tigMHq#enquiry_source--Search
+330,Valley Point,D10,River Valley Rd,7024,1033,6.8,https://www.99.co/singapore/commercial/rent/property/valley-point-office-BtmBkFNCMYDo4bmyfsH4Sm#enquiry_source--Search
+331,Lazada One,D7,Bras Basah Rd,30736,3616,8.5,https://www.99.co/singapore/commercial/rent/property/lazada-one-office-XobhsNe7KohTyKEAoyWz3f#enquiry_source--Search
+332,Hana,D10,Tomlinson Rd,40000,3531,11.33,https://www.99.co/singapore/commercial/rent/property/hana-office-z244YZq4gw4CLRyJoM7UnF#enquiry_source--Search
+333,Centennial Tower,D1,Temasek Ave,114730,10430,11.0,https://www.99.co/singapore/commercial/rent/property/centennial-tower-office-Xhpe8LrcgLysLFu98AvNpZ#enquiry_source--Search
+334,The Concourse,D7,Beach Rd,90000,12000,7.5,https://www.99.co/singapore/commercial/rent/property/the-concourse-office-PP3zScuCNLM2JB5JUrGU2R#enquiry_source--Search
+335,The Concourse,D7,Beach Rd,9369,1249,7.5,https://www.99.co/singapore/commercial/rent/property/the-concourse-office-pUmTppLPcKDEtaQvuXfsXk#enquiry_source--Search
+336,The Concourse,D7,Beach Rd,8440,1055,8.0,https://www.99.co/singapore/commercial/rent/property/the-concourse-office-UbNuksqx42h7V6shab2bou#enquiry_source--Search
+337,The Concourse,D7,Beach Rd,23592,2949,8.0,https://www.99.co/singapore/commercial/rent/property/the-concourse-office-cqEP7RRtfZUvcPwARckBJa#enquiry_source--Search
+338,Hong Leong Building,D1,Raffles Quay,56700,6300,9.0,https://www.99.co/singapore/commercial/rent/property/hong-leong-building-office-cMymecuPX77iyrxEHGvA8y#enquiry_source--Search
+339,Hong Leong Building,D1,Raffles Quay,20151,2239,9.0,https://www.99.co/singapore/commercial/rent/property/hong-leong-building-office-kkit2ewHmaYGwGXFULtBpQ#enquiry_source--Search
+340,Lian Huat Building,D2,Tras St,2160,400,5.4,https://www.99.co/singapore/commercial/rent/property/lian-huat-building-office-PAWR2o8FaENSMfcqBoVYaJ#enquiry_source--Search
+341,The Concourse,D7,Beach Rd,14896,1862,8.0,https://www.99.co/singapore/commercial/rent/property/the-concourse-office-2YRLydUo8FjxUjTmjmKhSd#enquiry_source--Search
+342,The Concourse,D7,Beach Rd,13608,1701,8.0,https://www.99.co/singapore/commercial/rent/property/the-concourse-office-cYBthfSgAJ8W7JWpvGvKkc#enquiry_source--Search
+343,The Concourse,D7,Beach Rd,20416,2552,8.0,https://www.99.co/singapore/commercial/rent/property/the-concourse-office-dHSg8RuGcMvh29fUjU5srP#enquiry_source--Search
+344,The Concourse,D7,Beach Rd,13000,1625,8.0,https://www.99.co/singapore/commercial/rent/property/the-concourse-office-Xz3PBCEufYLPYYinKYxGV4#enquiry_source--Search
+345,The Concourse,D7,Beach Rd,29947,3993,7.5,https://www.99.co/singapore/commercial/rent/property/the-concourse-office-x5QXPRi27MhGyyjcjxWhLA#enquiry_source--Search
+346,The Concourse,D7,Beach Rd,17355,2314,7.5,https://www.99.co/singapore/commercial/rent/property/the-concourse-office-Lt24DW7UQxwTsSokepzvN4#enquiry_source--Search
+347,One Raffles Place,D1,Raffles Pl,56074,4876,11.5,https://www.99.co/singapore/commercial/rent/property/one-raffles-place-office-rT2G757JM7DNzuvGMG5B9F#enquiry_source--Search
+348,Valley Point,D10,River Valley Rd,31347,4898,6.4,https://www.99.co/singapore/commercial/rent/property/valley-point-office-kR4pbF3LPVvQ2pSzCkZiqv#enquiry_source--Search
+349,Central Plaza,D3,Tiong Bahru Rd,8880,1184,7.5,https://www.99.co/singapore/commercial/rent/property/central-plaza-office-pFNDHnp8vFmqTCbskK2pPK#enquiry_source--Search
+350,Central Plaza,D3,Tiong Bahru Rd,78712,10495,7.5,https://www.99.co/singapore/commercial/rent/property/central-plaza-office-znnAUcMVajNuwomou35WZL#enquiry_source--Search
+351,Central Plaza,D3,Tiong Bahru Rd,39682,5436,7.3,https://www.99.co/singapore/commercial/rent/property/central-plaza-office-adXSxVP2PEoesiK5wu55rg#enquiry_source--Search
+352,NTUC Income Tampines Junction,D18,Tampines Ave 5,11848,2174,5.45,https://www.99.co/singapore/commercial/rent/property/ntuc-income-tampines-junction-office-tn58ScrMh3DjZsJ8gET98b#enquiry_source--Search
+353,Gateway East,D7,Beach Rd,4725,630,7.5,https://www.99.co/singapore/commercial/rent/property/gateway-east-office-STgYr8wssnQ4FRCYkh8MkP#enquiry_source--Search
+354,Stamford Road,D6,Stamford Rd,4165,670,6.22,https://www.99.co/singapore/commercial/rent/property/stamford-road-office-gmGxGUhcDBEBdRVDDKXbhP#enquiry_source--Search
+355,Wcega Tower,D23,Bt Batok Cres,1200,215,5.58,https://www.99.co/singapore/commercial/rent/property/wcega-tower-office-n9JFj4hwz5K8oSFBYQ3tDe#enquiry_source--Search
+356,Woods Square,D25,Woodlands Square,2500,570,4.39,https://www.99.co/singapore/commercial/rent/property/woods-square-office-hraV4AUnJKMmjuG8HXzWtx#enquiry_source--Search
+357,Woods Square,D25,Woodlands Square,2410,560,4.3,https://www.99.co/singapore/commercial/rent/property/woods-square-office-4m9oLqJJb7CtzKh3Sp87Lt#enquiry_source--Search
+358,Prinsep Street,D7,Prinsep St,77000,14000,5.5,https://www.99.co/singapore/commercial/rent/property/prinsep-street-office-3xGkJ7ZCtp34PvbuGY4zoD#enquiry_source--Search
+359,Eon Shenton,D2,Shenton Way,23888,3250,7.35,https://www.99.co/singapore/commercial/rent/property/eon-shenton-office-h62Vfj9qiBB3HGgPW9wrCK#enquiry_source--Search
+360,Braddell Road,D20,Braddell Rd,12750,5532,2.3,https://www.99.co/singapore/commercial/rent/property/braddell-road-office-aLfMjGKpG9cUynvHowTjJ5#enquiry_source--Search
+361,Middle Road,D7,Middle Rd,2280,474,4.81,https://www.99.co/singapore/commercial/rent/property/middle-road-office-M8gLqSnZYkUw7Y6i8zFEJm#enquiry_source--Search
+362,The Bencoolen,D7,Bencoolen St,6770,1302,5.2,https://www.99.co/singapore/commercial/rent/property/the-bencoolen-office-X5m8Rw8wDBQuaiLqCn7uJg#enquiry_source--Search
+363,The Bencoolen,D7,Bencoolen St,7610,1464,5.2,https://www.99.co/singapore/commercial/rent/property/the-bencoolen-office-mXGP95iawBAQ8SQ3XRNTWF#enquiry_source--Search
+364,Goldhill Plaza,D11,Goldhill Plaza,8965,1630,5.5,https://www.99.co/singapore/commercial/rent/property/goldhill-plaza-office-XtBFqQnbUwmQbnqKgX4625#enquiry_source--Search
+365,OG Albert Complex,D7,Albert St,2860,550,5.2,https://www.99.co/singapore/commercial/rent/property/og-albert-complex-office-F5ofiv8x2pDSxjTWAgw2QX#enquiry_source--Search
+366,OG Albert Complex,D7,Albert St,4150,798,5.2,https://www.99.co/singapore/commercial/rent/property/og-albert-complex-office-BQzG7747qSn797crFX93ax#enquiry_source--Search
+367,Orchard Rendezvous Hotel,D10,Tanglin Rd,3272,409,8.0,https://www.99.co/singapore/commercial/rent/property/orchard-rendezvous-hotel-office-eHMWqXc9ev5hBgRkZsp5q9#enquiry_source--Search
+368,Far East Shopping Centre,D9,Orchard Rd,2100,363,5.79,https://www.99.co/singapore/commercial/rent/property/far-east-shopping-centre-office-Wq3epbmbqZ3qLSWyU9Mwui#enquiry_source--Search
+369,Far East Shopping Centre,D9,Orchard Rd,5120,883,5.8,https://www.99.co/singapore/commercial/rent/property/far-east-shopping-centre-office-KPguUnqp8Mu2h63s7vGFED#enquiry_source--Search
+370,Goldhill Plaza,D11,Goldhill Plaza,5500,1000,5.5,https://www.99.co/singapore/commercial/rent/property/goldhill-plaza-office-ZSV9vJAvp2hET4MHRp8u9X#enquiry_source--Search
+371,Goldhill Plaza,D11,Goldhill Plaza,2750,500,5.5,https://www.99.co/singapore/commercial/rent/property/goldhill-plaza-office-4WBqPbyLmYSu9Zp5KCunPD#enquiry_source--Search
+372,OG Albert Complex,D7,Albert St,2683,516,5.2,https://www.99.co/singapore/commercial/rent/property/og-albert-complex-office-K79GGaKMi8afeZth7xRxEu#enquiry_source--Search
+373,OG Albert Complex,D7,Albert St,2673,514,5.2,https://www.99.co/singapore/commercial/rent/property/og-albert-complex-office-BLBTyKJUaEnwVWuykT3ESW#enquiry_source--Search
+374,The Bencoolen,D7,Bencoolen St,3135,603,5.2,https://www.99.co/singapore/commercial/rent/property/the-bencoolen-office-VbCV27BhtkUihXU5V2oLJL#enquiry_source--Search
+375,The Bencoolen,D7,Bencoolen St,3525,678,5.2,https://www.99.co/singapore/commercial/rent/property/the-bencoolen-office-Boj3ebcurXAJ9VSoMsgTr4#enquiry_source--Search
+376,The Bencoolen,D7,Bencoolen St,3920,754,5.2,https://www.99.co/singapore/commercial/rent/property/the-bencoolen-office-diPxSVLMSoXEfviDLiF6fM#enquiry_source--Search
+377,Goldhill Plaza,D11,Goldhill Plaza,8250,1500,5.5,https://www.99.co/singapore/commercial/rent/property/goldhill-plaza-office-VmAzSqtRxDPYwRRHqNDpgu#enquiry_source--Search
+378,Goldhill Plaza,D11,Goldhill Plaza,4480,815,5.5,https://www.99.co/singapore/commercial/rent/property/goldhill-plaza-office-ck2wZtTXUfhMC9KHsgAneP#enquiry_source--Search
+379,Sky Line Building,D7,Waterloo St,2700,600,4.5,https://www.99.co/singapore/commercial/rent/property/sky-line-building-office-GUYGk3B9K852Y3gmntaK4S#enquiry_source--Search
+380,Sky Line Building,D7,Waterloo St,6638,1475,4.5,https://www.99.co/singapore/commercial/rent/property/sky-line-building-office-PinnW5HdZDXqUrzTqxWKnW#enquiry_source--Search
+381,Sky Line Building,D7,Waterloo St,3825,850,4.5,https://www.99.co/singapore/commercial/rent/property/sky-line-building-office-RV5wEDsJKxVjS8SasYSBaC#enquiry_source--Search
+382,Sky Line Building,D7,Waterloo St,2813,625,4.5,https://www.99.co/singapore/commercial/rent/property/sky-line-building-office-BUvF46ThTipFpzvQnd8K6q#enquiry_source--Search
+383,Woods Square,D25,Woodlands Square,2408,560,4.3,https://www.99.co/singapore/commercial/rent/property/woods-square-office-pwfB83rzikazHGWbb4j7je#enquiry_source--Search
+384,Raeburn Park,D2,Raeburn Pk,34580,9100,3.8,https://www.99.co/singapore/commercial/rent/property/raeburn-park-office-HRTayC6Q3es5PL8dx8gKSk#enquiry_source--Search
+385,ADL Building,D22,Toh Guan Rd East,1500,400,3.75,https://www.99.co/singapore/commercial/rent/property/adl-building-office-AVyrvp6V5yLbEbZn5ihpWn#enquiry_source--Search
+386,Raeburn Park,D2,Raeburn Pk,12069,3176,3.8,https://www.99.co/singapore/commercial/rent/property/raeburn-park-office-7NndV3cyfMVujqErw6GbSo#enquiry_source--Search
+387,Tt International Tradepark,D22,Toh Guan Rd,17873,7771,2.3,https://www.99.co/singapore/commercial/rent/property/tt-international-tradepark-office-3gtoVvqCwsPm4zNNQkJocg#enquiry_source--Search
+388,Woods Square,D25,Woodlands Square,5400,473,11.42,https://www.99.co/singapore/commercial/rent/property/woods-square-office-6cuN7Uq23Wd433f33tgHBt#enquiry_source--Search
+389,Woods Square,D25,Woodlands Square,10800,947,11.4,https://www.99.co/singapore/commercial/rent/property/woods-square-office-hhAi7S4v9UTvVCeaNQuHBZ#enquiry_source--Search
+390,Valley Point,D10,River Valley Rd,67236,10344,6.5,https://www.99.co/singapore/commercial/rent/property/valley-point-office-hCSCDaZ9W5kBAqZBAcPKco#enquiry_source--Search
+391,Jalan Besar Plaza,D8,Kitchener Rd,20000,4500,4.44,https://www.99.co/singapore/commercial/rent/property/jalan-besar-plaza-office-fRsynDjDXBHnUWcJ8MxJhr#enquiry_source--Search
+392,Woods Square,D25,Woodlands Square,2200,560,3.93,https://www.99.co/singapore/commercial/rent/property/woods-square-office-eqfqxwML3JFgyQ8Wrvf6YQ#enquiry_source--Search
+393,Tanjong Pagar Conservation Area,D2,Tras St,5000,640,7.81,https://www.99.co/singapore/commercial/rent/property/tanjong-pagar-conservation-area-office-6jg2r3ryXSA3dkcmr7gL8Q#enquiry_source--Search
+394,Shenton House,D1,Shenton Way,5700,1150,4.96,https://www.99.co/singapore/commercial/rent/property/shenton-house-office-JKaC3XWvf4VUJGD4GCEMfP#enquiry_source--Search
+395,Shenton House,D1,Shenton Way,3000,560,5.36,https://www.99.co/singapore/commercial/rent/property/shenton-house-office-CioLtbnTqjusAUncWBnyoy#enquiry_source--Search
+396,Shenton House,D1,Shenton Way,2600,441,5.9,https://www.99.co/singapore/commercial/rent/property/shenton-house-office-7wLLkNVATkK6g52N2TPhXs#enquiry_source--Search
+397,Raeburn Park,D2,Raeburn Pk,4693,1043,4.5,https://www.99.co/singapore/commercial/rent/property/raeburn-park-office-yT3aaZwSsSwKcRJgYpKDyW#enquiry_source--Search
+398,Woods Square,D25,Woodlands Square,2576,560,4.6,https://www.99.co/singapore/commercial/rent/property/woods-square-office-5BHPWd2ZVFVsZHVKM49SCP#enquiry_source--Search
+399,Capitasky,D1,Robinson Rd,79068,6586,12.01,https://www.99.co/singapore/commercial/rent/property/capitasky-office-VATCwWAjKwBBHnrT7jymTZ#enquiry_source--Search
+400,Six Battery Road,D1,Battery Rd,48282,3714,13.0,https://www.99.co/singapore/commercial/rent/property/six-battery-road-office-6DgpSNtMee76dcV2nyox5m#enquiry_source--Search
+401,Woods Square,D25,Woodlands Square,5788,1346,4.3,https://www.99.co/singapore/commercial/rent/property/woods-square-office-weSgymtHTewTXivu9bv4PQ#enquiry_source--Search
+402,Woods Square,D25,Woodlands Square,3643,506,7.2,https://www.99.co/singapore/commercial/rent/property/woods-square-office-X8ExfZZdsgytuDJyrxY6CQ#enquiry_source--Search
+403,Goldhill Plaza,D3,Goldhill Plaza,4483,815,5.5,https://www.99.co/singapore/commercial/rent/property/goldhill-plaza-office-WbYfgBGeVuBfvnkPrTYBkk#enquiry_source--Search
+404,Burlington Square,D7,Bencoolen St,3100,549,5.65,https://www.99.co/singapore/commercial/rent/property/burlington-square-office-oW5Pi24jJvEzPKCqXmc49h#enquiry_source--Search
+405,United Square,D11,Thomson Rd,6975,930,7.5,https://www.99.co/singapore/commercial/rent/property/united-square-office-MxTtuqSWnLfrWzdY7qngmt#enquiry_source--Search
+406,Science Centre Road,D22,Science Centre Rd,4000,1150,3.48,https://www.99.co/singapore/commercial/rent/property/science-centre-road-office-XR73A2DUurpWcMpQQ2UdyL#enquiry_source--Search
+407,Goldhill Plaza,D11,Goldhill Plaza,5500,1000,5.5,https://www.99.co/singapore/commercial/rent/property/goldhill-plaza-office-8BusJtVjse2fDhmunY6CHA#enquiry_source--Search
+408,Geylang Conservation Area,D14,Geylang Rd,1350,356,3.79,https://www.99.co/singapore/commercial/rent/property/geylang-conservation-area-office-iTJtCGMWEmPHqJqpR9JfUf#enquiry_source--Search
+409,Tripleone Somerset,D9,Somerset Rd,5647,753,7.5,https://www.99.co/singapore/commercial/rent/property/tripleone-somerset-office-TyfWhLzmmH4FFAe2Q9MLZj#enquiry_source--Search
+410,Manhattan House,D3,Chin Swee Rd,2064,645,3.2,https://www.99.co/singapore/commercial/rent/property/manhattan-house-office-rhHMPAFS4fPvpJmuV8Zb4#enquiry_source--Search
+411,Guoco Tower,D2,Wallich St,71000,5091,13.95,https://www.99.co/singapore/commercial/rent/property/guoco-tower-office-nCqPBJWyRomgP9TuX8BwAT#enquiry_source--Search
+412,OCBC Centre,D1,Chulia St,17100,1710,10.0,https://www.99.co/singapore/commercial/rent/property/ocbc-centre-office-gihGePoocEaxKAB5XvbeiT#enquiry_source--Search
+413,One Raffles Place,D1,Raffles Pl,125160,10430,12.0,https://www.99.co/singapore/commercial/rent/property/one-raffles-place-office-5jZo3JaLodpEJtgqy9gHpD#enquiry_source--Search
+414,Goldhill Plaza,D11,Goldhill Plaza,4480,815,5.5,https://www.99.co/singapore/commercial/rent/property/goldhill-plaza-office-ZdUsj2D2jUNP4Uf3FPSewN#enquiry_source--Search
+415,Far East Shopping Centre,D9,Orchard Rd,18800,3359,5.6,https://www.99.co/singapore/commercial/rent/property/far-east-shopping-centre-office-RBkzuCEXpmSVHJbYoJzuNT#enquiry_source--Search
+416,Orchard Rendezvous Hotel,D10,Tanglin Rd,9175,1119,8.2,https://www.99.co/singapore/commercial/rent/property/orchard-rendezvous-hotel-office-FtvVVxtqmsdPwzCbGYr2We#enquiry_source--Search
+417,Woods Square,D25,Woodlands Square,24262,3466,7.0,https://www.99.co/singapore/commercial/rent/property/woods-square-office-KGf8v9wgphEXoizc58xxEx#enquiry_source--Search
+418,Woods Square,D25,Woodlands Square,2576,560,4.6,https://www.99.co/singapore/commercial/rent/property/woods-square-office-LScqcGjDEtky3HhXrwMKyB#enquiry_source--Search
+419,Unity Centre,D23,Bt Batok Cres,1300,207,6.28,https://www.99.co/singapore/commercial/rent/property/unity-centre-office-Twuq7J28AZjPxCxyn4VQKc#enquiry_source--Search
+420,International Plaza,D2,Anson Rd,3860,300,12.87,https://www.99.co/singapore/commercial/rent/property/international-plaza-office-oDYLFYsy9U7tBMrQ8Viq8z#enquiry_source--Search
+421,Regency House,D9,Penang Rd,12270,1636,7.5,https://www.99.co/singapore/commercial/rent/property/regency-house-office-XXMqanxjogAAiZA5zvq9V2#enquiry_source--Search
+422,One Holland Village Residences / One Holland Village,D10,Holland Village Way,181507,19106,9.5,https://www.99.co/singapore/commercial/rent/property/one-holland-village-office-4BGknTuF6DKh2PcFTDTgi2#enquiry_source--Search
+423,Plus,D1,Cecil St,4800,517,9.28,https://www.99.co/singapore/commercial/rent/property/plus-office-Gesk7EoaVeqSnwLCmE9QKk#enquiry_source--Search
+424,Six Battery Road,D1,Battery Rd,48282,3714,13.0,https://www.99.co/singapore/commercial/rent/property/six-battery-road-office-9nBRHFZsAeuUKW5GVuE4j4#enquiry_source--Search
+425,Capitasky,D1,Robinson Rd,142344,11862,12.0,https://www.99.co/singapore/commercial/rent/property/capitasky-office-X2wvuTsoiuPKqzJUpzCBAi#enquiry_source--Search
+426,Woodlands Terrace,D25,Woodlands Terrace,4000,1400,2.86,https://www.99.co/singapore/commercial/rent/property/woodlands-terrace-office-KNLMKpH5BJ4i9Pb3m4hHQ3#enquiry_source--Search
+427,Bauer Building,D22,Tuas Ave 11,2083,1302,1.6,https://www.99.co/singapore/commercial/rent/property/bauer-building-office-PZ4qPscvAVqGxNzTFPMGsr#enquiry_source--Search
+428,Bauer Building,D22,Tuas Ave 11,1178,736,1.6,https://www.99.co/singapore/commercial/rent/property/bauer-building-office-bPxrXvajxa7B8YAaDVg2cb#enquiry_source--Search
+429,Bauer Building,D22,Tuas Ave 11,17841,11151,1.6,https://www.99.co/singapore/commercial/rent/property/bauer-building-office-TavgyjWLH9hPtVmSN2qWm9#enquiry_source--Search
+430,Woods Square,D25,Woodlands Square,3088,560,5.51,https://www.99.co/singapore/commercial/rent/property/woods-square-office-jq32wLXEH2A2LEijgcZFhW#enquiry_source--Search
+431,ESR Bizpark @ Changi,D16,Changi Business Pk Ave 1,97644,24411,4.0,https://www.99.co/singapore/commercial/rent/property/esr-bizpark-changi-office-FFhRDe83DRf3uyjRx3md6p#enquiry_source--Search
+432,Woods Square,D25,Woodlands Square,8211,1173,7.0,https://www.99.co/singapore/commercial/rent/property/woods-square-office-aqiBNMYc3mT7sW9JK5JKDT#enquiry_source--Search
+433,Rigel Innovation Centre,D16,Changi Business Pk Ctrl 2,15132,5044,3.0,https://www.99.co/singapore/commercial/rent/property/rigel-innovation-centre-office-SxK2ATiXzFiNoYeFX4WGwA#enquiry_source--Search
+434,Jit Poh Building,D2,Keppel Rd,13400,2320,5.78,https://www.99.co/singapore/commercial/rent/property/jit-poh-building-office-Y5kEY2pY5Fv8nkASLUusRv#enquiry_source--Search
+435,Science Centre Road,D22,Science Centre Rd,12500,3465,3.61,https://www.99.co/singapore/commercial/rent/property/science-centre-road-office-2Z26aVgerJ8Md6knZAtkWC#enquiry_source--Search
+436,Bugis Junction Towers,D7,Victoria St,94278,9924,9.5,https://www.99.co/singapore/commercial/rent/property/bugis-junction-towers-office-TvAH82kLeAjyyVtoaE8Lws#enquiry_source--Search
+437,Centrium Square,D8,Serangoon Rd,4200,614,6.84,https://www.99.co/singapore/commercial/rent/property/centrium-square-office-EzpnsjobZdNwTR5obNByeh#enquiry_source--Search
+438,Serangoon Road,D8,Serangoon Rd,4500,600,7.5,https://www.99.co/singapore/commercial/rent/property/serangoon-road-office-Ft5SNpbz9W25sczhdVHGRh#enquiry_source--Search
+439,Paya Lebar Square,D14,Paya Lebar Rd,3300,549,6.01,https://www.99.co/singapore/commercial/rent/property/paya-lebar-square-office-dXckQqAZZijVo6DxRe6mc5#enquiry_source--Search
+440,Icb Enterprise House,D7,Middle Rd,5718,1270,4.5,https://www.99.co/singapore/commercial/rent/property/icb-enterprise-house-office-9XkyQoH77JK2CYkQdD39r3#enquiry_source--Search
+441,Tiong Bahru Orchid,D3,Jln Bt Merah,11700,3000,3.9,https://www.99.co/singapore/commercial/rent/property/tiong-bahru-orchid-office-2vqCFt7MbhxbCTnyQ2MhYg#enquiry_source--Search
+442,Gul Circle,D22,Gul Circle,6500,5000,1.3,https://www.99.co/singapore/commercial/rent/property/gul-circle-office-NAsV5RjMEmYnE3D34iCdwX#enquiry_source--Search
+443,Grandlink Square,D14,Guillemard Rd,2500,517,4.84,https://www.99.co/singapore/commercial/rent/property/grandlink-square-office-6jCAd2FkS3jtUwRDw4uFR8#enquiry_source--Search
+444,One Holland Village Residences / One Holland Village,D10,Holland Village Way,191719,20181,9.5,https://www.99.co/singapore/commercial/rent/property/one-holland-village-office-neTqpTDx7Dkmene2gTN338#enquiry_source--Search
+445,Camden Centre / Camden Medical Centre,D10,Orchard Boulevard,10010,770,13.0,https://www.99.co/singapore/commercial/rent/property/camden-centre-camden-medical-centre-office-V9P3feEkGBRB7bVzr5SKVR#enquiry_source--Search
+446,Woods Square,D25,Woodlands Square,3953,753,5.25,https://www.99.co/singapore/commercial/rent/property/woods-square-office-Lfxj7b6z7xc3RRXMcjSrAA#enquiry_source--Search
+447,Camden Centre / Camden Medical Centre,D10,Orchard Boulevard,34918,2686,13.0,https://www.99.co/singapore/commercial/rent/property/camden-centre-camden-medical-centre-office-KaBsKbAJoHwPDvEHjBfSPm#enquiry_source--Search
+448,Woods Square,D25,Woodlands Square,3248,560,5.8,https://www.99.co/singapore/commercial/rent/property/woods-square-office-B73BHCLUitcwJConBZqfDV#enquiry_source--Search
+449,Ark @ Gambas,D27,Gambas Cres,3300,1711,1.93,https://www.99.co/singapore/commercial/rent/property/ark-gambas-office-45G5vvnfUvJVbJAqirrpwC#enquiry_source--Search
+450,Harvest @ Woodlands,D27,Woodlands Industrial Pk E5,1200,250,4.8,https://www.99.co/singapore/commercial/rent/property/harvest-woodlands-office-M3FwzmZKk3uqFbAZpURuCY#enquiry_source--Search
+451,Bukit Pasoh Extnsn Constn Area,D2,Keong Saik Rd,40000,3700,10.81,https://www.99.co/singapore/commercial/rent/property/bukit-pasoh-extnsn-constn-area-office-8HaY3Dq7A6xcsG9jVQip8x#enquiry_source--Search
+452,Kallang Avenue,D12,Kallang Ave,17900,3000,5.97,https://www.99.co/singapore/commercial/rent/property/kallang-avenue-office-giAekaZYQZFUKejbDEiuu8#enquiry_source--Search
+453,The Bencoolen,D7,Bencoolen St,3135,603,5.2,https://www.99.co/singapore/commercial/rent/property/the-bencoolen-office-CMxTYwLf4SdHHq9VYHaPee#enquiry_source--Search
+454,22 Martin Road,D9,Martin Rd,40005,4445,9.0,https://www.99.co/singapore/commercial/rent/property/22-martin-road-office-ZH8Bj9enmdStrzrto9SSpQ#enquiry_source--Search
+455,CES Centre,D3,Chin Swee Rd,53690,9257,5.8,https://www.99.co/singapore/commercial/rent/property/ces-centre-office-mAKobRcJmGuz52ixCqxVpK#enquiry_source--Search
+456,Goldhill Plaza,D11,Goldhill Plaza,8695,1630,5.33,https://www.99.co/singapore/commercial/rent/property/goldhill-plaza-office-kXTDhEaVPxLFLcpQgGbsmL#enquiry_source--Search
+457,UE Square,D9,Clemenceau Ave,17936,2242,8.0,https://www.99.co/singapore/commercial/rent/property/ue-square-office-sbXAgn2RcQ5pLpSHjK837B#enquiry_source--Search
+458,18 Tai Seng,D19,Tai Seng St,33735,5190,6.5,https://www.99.co/singapore/commercial/rent/property/18-tai-seng-office-JqJkCtpS5brPjMPLUfegzc#enquiry_source--Search
+459,The Bencoolen,D7,Bencoolen St,3920,754,5.2,https://www.99.co/singapore/commercial/rent/property/the-bencoolen-office-m4WjFomW3x25fQEWzuVYqg#enquiry_source--Search
+460,Ah Hood Road,D12,Ah Hood Rd,6846,1141,6.0,https://www.99.co/singapore/commercial/rent/property/ah-hood-road-office-LwcekLvrKZxXVYq8JbyNEo#enquiry_source--Search
+461,Ah Hood Road,D12,Ah Hood Rd,31428,5403,5.82,https://www.99.co/singapore/commercial/rent/property/ah-hood-road-office-JwQxoLKewXpaqBUcj96cQh#enquiry_source--Search
+462,Keppel Bay Tower,D4,Harbourfront Ave,55161,6727,8.2,https://www.99.co/singapore/commercial/rent/property/keppel-bay-tower-office-9u7Cxa9nTcYe39AxfVinYe#enquiry_source--Search
+463,Robinson Road,D1,Robinson Rd,26809,3154,8.5,https://www.99.co/singapore/commercial/rent/property/robinson-road-office-U8FMpAEGWjH8KaLQDzhRVF#enquiry_source--Search
+464,China Street,D1,China St,17280,2400,7.2,https://www.99.co/singapore/commercial/rent/property/china-street-office-N4MmMqNjixwTpfBfaeTnbX#enquiry_source--Search
+465,Regency House,D9,Penang Rd,12270,1636,7.5,https://www.99.co/singapore/commercial/rent/property/regency-house-office-uKgpazFXz4D5KY97YpTMRU#enquiry_source--Search
+466,South Beach Tower,D7,Beach Rd,232700,17900,13.0,https://www.99.co/singapore/commercial/rent/property/south-beach-tower-office-hUn3ztTGwKJQJxUSiUyyXz#enquiry_source--Search
+467,Millenia Tower,D1,Temasek Ave,39745,2799,14.2,https://www.99.co/singapore/commercial/rent/property/millenia-tower-office-kqfxiwtk3YmJycgGDsUzRY#enquiry_source--Search
+468,Centennial Tower,D1,Temasek Ave,42344,2982,14.2,https://www.99.co/singapore/commercial/rent/property/centennial-tower-office-aev6wmnEPSR445Ntxbafb2#enquiry_source--Search
+469,Suntec City Towers,D1,Temasek Boulevard,88470,8847,10.0,https://www.99.co/singapore/commercial/rent/property/suntec-city-towers-office-KdJdGrXpKJCsCQYs2VzXim#enquiry_source--Search
+470,Odeon Towers,D7,Nth Bridge Rd,70176,8256,8.5,https://www.99.co/singapore/commercial/rent/property/odeon-towers-office-WKatJHog8GMU2uWcBYzDCb#enquiry_source--Search
+471,Tong Eng Building,D1,Cecil St,2778,463,6.0,https://www.99.co/singapore/commercial/rent/property/tong-eng-building-office-28VMFYDaKPqkkNnFXaMakL#enquiry_source--Search
+472,Woods Square,D25,Woodlands Square,2890,657,4.4,https://www.99.co/singapore/commercial/rent/property/woods-square-office-g3qDUwS39wuCw87rnVAXUD#enquiry_source--Search
+473,Woods Square,D25,Woodlands Square,4545,1033,4.4,https://www.99.co/singapore/commercial/rent/property/woods-square-office-YhTecMGvjG4RwfHJLQzLEn#enquiry_source--Search
+474,New Bridge Road,D1,New Bridge Rd,12000,1373,8.74,https://www.99.co/singapore/commercial/rent/property/new-bridge-road-office-CPAs9yN8P9V5ibKXh6zvyR#enquiry_source--Search
+475,Mosque Street,D1,Mosque St,15000,1719,8.73,https://www.99.co/singapore/commercial/rent/property/mosque-street-office-KFgNCs5QRsTKeQzNukWi4L#enquiry_source--Search
+476,Telok Ayer Street,D1,Telok Ayer St,3900,800,4.88,https://www.99.co/singapore/commercial/rent/property/telok-ayer-street-office-bxMTVS8MY7fPYbpjBWpzEu#enquiry_source--Search
+477,UIC Building,D1,Shenton Way,59581,5181,11.5,https://www.99.co/singapore/commercial/rent/property/uic-building-office-SKCFCL6e3CUTRRx999waYJ#enquiry_source--Search
+478,Tahir Building,D1,Robinson Rd,61137,6793,9.0,https://www.99.co/singapore/commercial/rent/property/tahir-building-office-P9igs4CBGDz29SzbcGh4Bj#enquiry_source--Search
+479,Tahir Building,D1,Robinson Rd,19476,2164,9.0,https://www.99.co/singapore/commercial/rent/property/tahir-building-office-GZAsy8HUxpRNyArc7sB2EH#enquiry_source--Search
+480,ERH Building,D1,Robinson Rd,8009,1381,5.8,https://www.99.co/singapore/commercial/rent/property/erh-building-office-GGvYfoDT5gHynGyiKkwavK#enquiry_source--Search
+481,MYP Centre,D1,Battery Rd,45320,4120,11.0,https://www.99.co/singapore/commercial/rent/property/myp-centre-office-W75jWi4oB6xwqkV9UxqwK8#enquiry_source--Search
+482,Guoco Tower,D2,Wallich St,32940,3294,10.0,https://www.99.co/singapore/commercial/rent/property/guoco-tower-office-QkmpNRLarPujmnjQ8kopqY#enquiry_source--Search
+483,Capital Tower,D1,Robinson Rd,71800,7180,10.0,https://www.99.co/singapore/commercial/rent/property/capital-tower-office-g7PUnZo39WUzLuKJZhZyEf#enquiry_source--Search
+484,One Raffles Place,D1,Raffles Pl,41963,3649,11.5,https://www.99.co/singapore/commercial/rent/property/one-raffles-place-office-aAMd86XWLPfWN8ZJEyMXMo#enquiry_source--Search
+485,One Holland Village Residences / One Holland Village,D10,Holland Village Way,19100,1910,10.0,https://www.99.co/singapore/commercial/rent/property/one-holland-village-office-PticZPButX7DiyaugCHPsm#enquiry_source--Search
+486,Fragrance Empire Building,D5,Alexandra Rd,28179,4144,6.8,https://www.99.co/singapore/commercial/rent/property/fragrance-empire-building-office-5evsKTwwGeChynrXXtYS6a#enquiry_source--Search
+487,Alexandra Point,D5,Alexandra Rd,68406,9914,6.9,https://www.99.co/singapore/commercial/rent/property/alexandra-point-office-ynnhrktsEpAdxysgGy6s7R#enquiry_source--Search
+488,Winsland House I,D9,Killiney Rd,20958,1996,10.5,https://www.99.co/singapore/commercial/rent/property/winsland-house-i-office-oVC25oZNQfYnjG5LmcMuJN#enquiry_source--Search
+489,Wisma Atria,D9,Orchard Rd,13450,1281,10.5,https://www.99.co/singapore/commercial/rent/property/wisma-atria-office-TQx2QtPWL7Z8eJbo5xEhDX#enquiry_source--Search
+490,Ngee Ann City,D9,Orchard Rd,15487,1475,10.5,https://www.99.co/singapore/commercial/rent/property/ngee-ann-city-office-mJe4GutYx9CNtnhoGDyfrk#enquiry_source--Search
+491,Ocean Financial Centre,D1,Collyer Quay,43062,3445,12.5,https://www.99.co/singapore/commercial/rent/property/ocean-financial-centre-office-VFEcvasUvhip39wED64bp6#enquiry_source--Search
+492,Upper Bukit Timah Road,D23,Upp Bt Timah Rd,14400,3600,4.0,https://www.99.co/singapore/commercial/rent/property/upper-bukit-timah-road-office-5twdsCYmaPP5qstT52ZCUV#enquiry_source--Search
+493,Tampines Plaza 2,D18,Tampines Ctrl 1,44941,6914,6.5,https://www.99.co/singapore/commercial/rent/property/tampines-plaza-2-office-HwoH9E32vzDrzZQdtoVWuM#enquiry_source--Search
+494,SGX Centre,D1,Shenton Way,14829,1561,9.5,https://www.99.co/singapore/commercial/rent/property/sgx-centre-office-dU6p9taCwNfh5srrQJ9LyM#enquiry_source--Search
+495,Republic Plaza,D1,Raffles Pl,18636,1664,11.2,https://www.99.co/singapore/commercial/rent/property/republic-plaza-office-Ny8UwNPUHQckQ9rpMXZqcG#enquiry_source--Search
+496,Hong Leong Building,D1,Raffles Quay,24507,2723,9.0,https://www.99.co/singapore/commercial/rent/property/hong-leong-building-office-aws5PgJZz8wFUADKNb4FbX#enquiry_source--Search
+497,Woods Square,D25,Woodlands Square,9987,1722,5.8,https://www.99.co/singapore/commercial/rent/property/woods-square-office-GLYX7fJDXwJnRkPWmeLwsY#enquiry_source--Search
+498,International Business Park,D22,International Business Pk,28800,6700,4.3,https://www.99.co/singapore/commercial/rent/property/international-business-park-office-gTHW4Rd7Qb2cAUNcWAvP7A#enquiry_source--Search
+499,Cosl (Singapore) Base,D22,Benoi Rd,30000,18000,1.67,https://www.99.co/singapore/commercial/rent/property/cosl-singapore-base-office-b75qMbmTGtk9Prfv4nQHC5#enquiry_source--Search
+500,Woods Square,D25,Woodlands Square,9987,1722,5.8,https://www.99.co/singapore/commercial/rent/property/woods-square-office-UzgAPcyVSF2BYn4rUgMEpX#enquiry_source--Search
+501,Serangoon Road,D8,Serangoon Rd,4500,650,6.92,https://www.99.co/singapore/commercial/rent/property/serangoon-road-office-2ktBAfLMngjJXJjfiMLduc#enquiry_source--Search
+502,Paya Lebar Square,D14,Paya Lebar Rd,6200,850,7.29,https://www.99.co/singapore/commercial/rent/property/paya-lebar-square-office-GrsAa7UgSB5cGo9yfUaJEf#enquiry_source--Search
+503,15 Scotts,D9,Scotts Rd,10157,1195,8.5,https://www.99.co/singapore/commercial/rent/property/15-scotts-office-t5z6vdax74b8A3RHYDx6o5#enquiry_source--Search
+504,Haw Par Glass Tower,D9,Clemenceau Ave,19239,3630,5.3,https://www.99.co/singapore/commercial/rent/property/haw-par-glass-tower-office-fLzs7vpqiCvwjYQgWpYNhx#enquiry_source--Search
+505,Woods Square,D25,Woodlands Square,22235,4941,4.5,https://www.99.co/singapore/commercial/rent/property/woods-square-office-4ZmEufNMnEPToXAXk8qmEF#enquiry_source--Search
+506,Sky Line Building,D7,Waterloo St,3600,850,4.24,https://www.99.co/singapore/commercial/rent/property/sky-line-building-office-YQ8GtwZoh9FuHcS2cGFqu5#enquiry_source--Search
+507,Sky Line Building,D7,Waterloo St,2000,350,5.71,https://www.99.co/singapore/commercial/rent/property/sky-line-building-office-tRRXX3hPFctntesAfBCcU#enquiry_source--Search
+508,OG Albert Complex,D7,Albert St,12888,2479,5.2,https://www.99.co/singapore/commercial/rent/property/og-albert-complex-office-E2kgN8yBrfUaPoQ5HagcH7#enquiry_source--Search
+509,Boon Leat Terrace,D5,Boon Leat Terrace,3300,932,3.54,https://www.99.co/singapore/commercial/rent/property/boon-leat-terrace-office-cjhHdf6VMHPE7mmii5WdMH#enquiry_source--Search
+510,The Bencoolen,D7,Bencoolen St,6377,1302,4.9,https://www.99.co/singapore/commercial/rent/property/the-bencoolen-office-GvfUMycbxtf9p7dhkj85Uh#enquiry_source--Search
+511,Sky Line Building,D7,Waterloo St,3825,850,4.5,https://www.99.co/singapore/commercial/rent/property/sky-line-building-office-NQ7UfdJpkA9uQfDHBnLkFN#enquiry_source--Search
+512,Sky Line Building,D7,Waterloo St,2700,600,4.5,https://www.99.co/singapore/commercial/rent/property/sky-line-building-office-bRaezxeKn7aWTK3QYWWLLw#enquiry_source--Search
+513,The Bencoolen,D7,Bencoolen St,3320,678,4.9,https://www.99.co/singapore/commercial/rent/property/the-bencoolen-office-UjkZafTokBdMxVpAC8yo9m#enquiry_source--Search
+514,Desker Road Conservation Area,D8,Maude Rd,7500,1328,5.65,https://www.99.co/singapore/commercial/rent/property/desker-road-conservation-area-office-kJ4PsSbVVsRsiTWqCeK7qW#enquiry_source--Search
+515,Singapore Shopping Centre,D9,Clemenceau Ave,12800,1615,7.93,https://www.99.co/singapore/commercial/rent/property/singapore-shopping-centre-office-CrknGmHkHGmBMuR4fzkLGd#enquiry_source--Search
+516,CT Hub 2,D12,Lavender St,42000,4725,8.89,https://www.99.co/singapore/commercial/rent/property/ct-hub-2-office-YDUM6Nfe2nMpW8gbXkLRpa#enquiry_source--Search
+517,Ngee Ann City,D9,Orchard Rd,9000,800,11.25,https://www.99.co/singapore/commercial/rent/property/ngee-ann-city-office-nnL4Vxrcc4SLJDFAxMfdQA#enquiry_source--Search
+518,Robinson Road,D1,Robinson Rd,12900,1528,8.44,https://www.99.co/singapore/commercial/rent/property/robinson-road-office-8q6wCnqXDj8qb8euT7m4g4#enquiry_source--Search
+519,The Heeren,D9,Orchard Rd,15750,1500,10.5,https://www.99.co/singapore/commercial/rent/property/the-heeren-office-Gxs6ULEnH7ujjDRMLaRXUY#enquiry_source--Search
+520,OCBC Centre,D1,Chulia St,39900,3990,10.0,https://www.99.co/singapore/commercial/rent/property/ocbc-centre-office-GoibVPNR3D2dGLXLwrCY39#enquiry_source--Search
+521,UE Square,D9,Clemenceau Ave,13500,1666,8.1,https://www.99.co/singapore/commercial/rent/property/ue-square-office-NCAT2Fa4rwpY7YNNPLeRFs#enquiry_source--Search
+522,Chinatown Point,D1,New Bridge Rd,6000,1055,5.69,https://www.99.co/singapore/commercial/rent/property/chinatown-point-office-RMW3aLBHBC8CG4g9Jied4f#enquiry_source--Search
+523,Manhattan House,D3,Chin Swee Rd,2411,753,3.2,https://www.99.co/singapore/commercial/rent/property/manhattan-house-office-ZjVrdReRERnsGXqweaFbhC#enquiry_source--Search
+524,Manhattan House,D3,Chin Swee Rd,2080,650,3.2,https://www.99.co/singapore/commercial/rent/property/manhattan-house-office-k6KLmoZH38G8F6Vk62rmMs#enquiry_source--Search
+525,One Holland Village Residences / One Holland Village,D10,Holland Village Way,191000,19100,10.0,https://www.99.co/singapore/commercial/rent/property/one-holland-village-office-kXNVa8fJK375MGLKTDY4PE#enquiry_source--Search
+526,China Street,D1,China St,17280,2400,7.2,https://www.99.co/singapore/commercial/rent/property/china-street-office-cF6Tw7qLuXUhFG9Sbjffg6#enquiry_source--Search
+527,Textile Centre,D7,Jln Sultan,4900,1088,4.5,https://www.99.co/singapore/commercial/rent/property/textile-centre-office-JrbCeRBpahZtTiQgAVvv8u#enquiry_source--Search
+528,Fortune Centre,D7,Middle Rd,8000,1667,4.8,https://www.99.co/singapore/commercial/rent/property/fortune-centre-office-56oN79mF4RHoGooDA9M9kp#enquiry_source--Search
+529,Vertex,D14,Ubi Ave 3,4900,1561,3.14,https://www.99.co/singapore/commercial/rent/property/vertex-office-CFQKehmrUBJvJwedU8brYC#enquiry_source--Search
+530,International Business Park,D22,International Business Pk,44100,10500,4.2,https://www.99.co/singapore/commercial/rent/property/international-business-park-office-eLCoLaE7PJ9mrptaVxYXHQ#enquiry_source--Search
+531,Suntec City Towers,D1,Temasek Boulevard,32000,3498,9.15,https://www.99.co/singapore/commercial/rent/property/suntec-city-towers-office-XmQxFLaCBPTmVXE8Fj3tNo#enquiry_source--Search
+532,Crystal Time Building,D13,Tannery Lane,7980,3010,2.65,https://www.99.co/singapore/commercial/rent/property/crystal-time-building-office-7VbTauXmU4RAkiD24YqG6R#enquiry_source--Search
+533,Eon Shenton,D2,Shenton Way,13800,1765,7.82,https://www.99.co/singapore/commercial/rent/property/eon-shenton-office-hkrGMyeVSVMqmmDhjBLJDs#enquiry_source--Search
+534,New Bridge Road,D1,New Bridge Rd,12000,1373,8.74,https://www.99.co/singapore/commercial/rent/property/new-bridge-road-office-KMWzNDRTnfHGKMYR5x89tL#enquiry_source--Search
+535,Oriental Venture Building,D14,Geylang Rd,1050,300,3.5,https://www.99.co/singapore/commercial/rent/property/oriental-venture-building-office-X2qSw9TkQfmnL6zEzmeugV#enquiry_source--Search
+536,Hoa Nam Building,D8,Foch Rd,1800,463,3.89,https://www.99.co/singapore/commercial/rent/property/hoa-nam-building-office-MUuSsRud7V528MiXgKPyFq#enquiry_source--Search
+537,Parklane Shopping Mall,D7,Selegie Rd,2300,452,5.09,https://www.99.co/singapore/commercial/rent/property/parklane-shopping-mall-office-XsQrbmch3tDRVuGqtqmUe9#enquiry_source--Search
+538,Changi Road,D14,Changi Rd,3500,818,4.28,https://www.99.co/singapore/commercial/rent/property/changi-road-office-pgMamymqChqBoRXxNZoyGm#enquiry_source--Search
+539,Union Building,D2,Tras St,3000,613,4.89,https://www.99.co/singapore/commercial/rent/property/union-building-office-S4Wb4YoLb5ZzJjTHbtkYe4#enquiry_source--Search
+540,51 Cuppage Road,D9,Cuppage Rd,50000,6695,7.47,https://www.99.co/singapore/commercial/rent/property/51-cuppage-road-office-PZYomvjj2X9iixsGSvTf5G#enquiry_source--Search
+541,Oriental Venture Building,D14,Geylang Rd,3900,1098,3.55,https://www.99.co/singapore/commercial/rent/property/oriental-venture-building-office-nCfcY9XhYRZHU3AKmjuRkA#enquiry_source--Search
+542,UE Square,D9,Clemenceau Ave,17800,2242,7.94,https://www.99.co/singapore/commercial/rent/property/ue-square-office-bJ7VBnofcyfUA6bpgSL5Zd#enquiry_source--Search
+543,Anson Road,D2,Anson Rd,35000,4553,7.69,https://www.99.co/singapore/commercial/rent/property/anson-road-office-Y82fwTygM9SsNQn7RzziRe#enquiry_source--Search
+544,Alexandra Road,D5,Alexandra Rd,7300,1157,6.31,https://www.99.co/singapore/commercial/rent/property/alexandra-road-office-Reo5TMRkJEvoGqpNNkxVDD#enquiry_source--Search
+545,Far East Shopping Centre,D9,Orchard Rd,2032,363,5.6,https://www.99.co/singapore/commercial/rent/property/far-east-shopping-centre-office-8EzvWSodUFkrbyXVnFFNPH#enquiry_source--Search
+546,High Street Centre,D6,Nth Bridge Rd,7300,1000,7.3,https://www.99.co/singapore/commercial/rent/property/high-street-centre-office-waKbDkVcBYrtCFd7HgmuuM#enquiry_source--Search
+547,Goldhill Plaza,D11,Goldhill Plaza,4488,815,5.51,https://www.99.co/singapore/commercial/rent/property/goldhill-plaza-office-rwj25SMMZpqWUb7sen5jrW#enquiry_source--Search
+548,Goldhill Plaza,D11,Goldhill Plaza,8250,1500,5.5,https://www.99.co/singapore/commercial/rent/property/goldhill-plaza-office-4MWUo3YTtZKpHuHyBDY3Hi#enquiry_source--Search
+549,Goldhill Plaza,D11,Goldhill Plaza,5500,1000,5.5,https://www.99.co/singapore/commercial/rent/property/goldhill-plaza-office-PbBcE9yJnabz2oC24h6JH7#enquiry_source--Search
+550,Phoenix Park,D10,Tanglin Rd,29926,7481,4.0,https://www.99.co/singapore/commercial/rent/property/phoenix-park-office-83q7LPPozsh34DEmLiQwzL#enquiry_source--Search
+551,Phoenix Park,D10,Tanglin Rd,4833,1007,4.8,https://www.99.co/singapore/commercial/rent/property/phoenix-park-office-Y5NDVkJTghppKoDJtmV9Qa#enquiry_source--Search
+552,People's Park Centre,D1,Upp Cross St,2200,430,5.12,https://www.99.co/singapore/commercial/rent/property/peoples-park-centre-office-N8Mro36F2yinnaoUJVYo4b#enquiry_source--Search
+553,Rigel Innovation Centre,D16,Changi Business Pk Ctrl 2,15000,5004,3.0,https://www.99.co/singapore/commercial/rent/property/rigel-innovation-centre-office-AS75oYTAZqS3jZ6V4YA9m5#enquiry_source--Search
+554,Havelock2,D1,Havelock Rd,4500,721,6.24,https://www.99.co/singapore/commercial/rent/property/havelock2-office-jxuY2QLu6HUh5veaFmQr7V#enquiry_source--Search
+555,Ngee Ann City,D9,Orchard Rd,22070,2207,10.0,https://www.99.co/singapore/commercial/rent/property/ngee-ann-city-office-mYhegTqjsvKSvGpcZ97jt4#enquiry_source--Search
+556,Wisma Atria,D9,Orchard Rd,12446,1270,9.8,https://www.99.co/singapore/commercial/rent/property/wisma-atria-office-kAcTLNgitEwzYUQ6QZVbP3#enquiry_source--Search
+557,Wisma Atria,D9,Orchard Rd,17875,1625,11.0,https://www.99.co/singapore/commercial/rent/property/wisma-atria-office-KhsDBPzDcpMMTd2o7ucakd#enquiry_source--Search
+558,Haw Par Centre,D9,Clemenceau Ave,45800,6190,7.4,https://www.99.co/singapore/commercial/rent/property/haw-par-centre-office-jJ44YaLy5WXbLz6vw4T4Lz#enquiry_source--Search
+559,Telok Blangah House,D4,,1000,180,5.56,https://www.99.co/singapore/commercial/rent/property/telok-blangah-house-office-CWCr6F9YVeG3TVPAqRkyvW#enquiry_source--Search
+560,Kreta Ayer Conservation Area,D1,Trengganu St,3800,850,4.47,https://www.99.co/singapore/commercial/rent/property/kreta-ayer-conservation-area-office-Y4xY5iSWL672u2bRmY9dfS#enquiry_source--Search
+561,Kreta Ayer Conservation Area,D1,Trengganu St,4380,1100,3.98,https://www.99.co/singapore/commercial/rent/property/kreta-ayer-conservation-area-office-hiSbbt2uso55JteeZPFCFD#enquiry_source--Search
+562,Woods Square,D25,Woodlands Square,22225,3175,7.0,https://www.99.co/singapore/commercial/rent/property/woods-square-office-8ZgajvXwTQ9TKVA3Qzgv3Y#enquiry_source--Search
+563,Link@896,D21,Dunearn Rd,14000,2000,7.0,https://www.99.co/singapore/commercial/rent/property/link896-office-yqF7CbtdmvHFpYQx99rgrB#enquiry_source--Search
+564,Woods Square,D25,Woodlands Square,2520,560,4.5,https://www.99.co/singapore/commercial/rent/property/woods-square-office-uJRgQpixYuFUyxG3uiwjec#enquiry_source--Search
+565,Sembawang Road,D26,Sembawang Rd,9500,1450,6.55,https://www.99.co/singapore/commercial/rent/property/sembawang-road-office-nuQDQBGYf6QDfMTevFiDy9#enquiry_source--Search
+566,22 Martin Road,D9,Martin Rd,40000,4445,9.0,https://www.99.co/singapore/commercial/rent/property/22-martin-road-office-RndDG2qfNFbJxGcUJBJaTE#enquiry_source--Search
+567,Tai Seng Avenue,D19,Tai Seng Ave,5681,2185,2.6,https://www.99.co/singapore/commercial/rent/property/tai-seng-avenue-office-2QTR7CGEr4D2t7PJyMxWFD#enquiry_source--Search
+568,Robinson Square,D1,Robinson Rd,8900,1173,7.59,https://www.99.co/singapore/commercial/rent/property/robinson-square-office-kTAecanadiXBDXPwSSgYGs#enquiry_source--Search
+569,Woods Square,D25,Woodlands Square,2632,560,4.7,https://www.99.co/singapore/commercial/rent/property/woods-square-office-JtzknFV4rLQgRgV9y2JMdU#enquiry_source--Search
+570,Kreta Ayer Conservation Area,D1,Temple St,3900,1130,3.45,https://www.99.co/singapore/commercial/rent/property/kreta-ayer-conservation-area-office-noYCEa7ueKKSByXGcu3iM4#enquiry_source--Search
+571,Orchard Rendezvous Hotel,D10,Tanglin Rd,9450,1217,7.76,https://www.99.co/singapore/commercial/rent/property/orchard-rendezvous-hotel-office-nK2Fx8LCZVNznNouChag9K#enquiry_source--Search
+572,Far East Finance Building,D1,Robinson Rd,8600,1432,6.01,https://www.99.co/singapore/commercial/rent/property/far-east-finance-building-office-FHdxsCZuiwpMs86eS77nw7#enquiry_source--Search
+573,Kim Hoe Centre,D8,Kelantan Lane,15600,3250,4.8,https://www.99.co/singapore/commercial/rent/property/kim-hoe-centre-office-3ytdjUDkKGjB5ThAiCmp2o#enquiry_source--Search
+574,Serangoon Road,D8,Serangoon Rd,3200,220,14.55,https://www.99.co/singapore/commercial/rent/property/serangoon-road-office-adR28hsV8R3MweXGoJysYp#enquiry_source--Search
+575,Robinson Road,D1,Robinson Rd,12900,1528,8.44,https://www.99.co/singapore/commercial/rent/property/robinson-road-office-cZ3ZX9rdAiAM3gEhbCmCt2#enquiry_source--Search
+576,Regency House,D9,Penang Rd,12270,1636,7.5,https://www.99.co/singapore/commercial/rent/property/regency-house-office-M5z3HMocitbxa5PLL3j4tL#enquiry_source--Search
+577,Woods Square,D25,Woodlands Square,2576,560,4.6,https://www.99.co/singapore/commercial/rent/property/woods-square-office-LG2ivS5FtdtBDsmQvnuow8#enquiry_source--Search
+578,The Bencoolen,D7,Bencoolen St,2955,603,4.9,https://www.99.co/singapore/commercial/rent/property/the-bencoolen-office-9AunwLtoxWEgvgfxZfchCS#enquiry_source--Search
+579,Golden Mile Tower,D7,Beach Rd,3300,915,3.61,https://www.99.co/singapore/commercial/rent/property/golden-mile-tower-office-EPvzCF4puXuH5RyZpxWRbw#enquiry_source--Search
+580,Sky Line Building,D7,Waterloo St,6638,1475,4.5,https://www.99.co/singapore/commercial/rent/property/sky-line-building-office-6BzL4Lst24CiRZ7nvugxLB#enquiry_source--Search
+581,Ubi View,D14,Ubi View,2100,602,3.49,https://www.99.co/singapore/commercial/rent/property/ubi-view-office-mpkQAvPz3QXJM5JWSpScE7#enquiry_source--Search
+582,Mountbatten Road,D14,Mountbatten Rd,1660,369,4.5,https://www.99.co/singapore/commercial/rent/property/mountbatten-road-office-9snPgEGMtew2nCfuKxhaxq#enquiry_source--Search
+583,1557 Keppel Road,D2,Keppel Rd,8582,2113,4.06,https://www.99.co/singapore/commercial/rent/property/1557-keppel-road-office-gtq6zFfuw5PYwvwsNF7oZ9#enquiry_source--Search
+584,1557 Keppel Road,D2,Keppel Rd,13826,3405,4.06,https://www.99.co/singapore/commercial/rent/property/1557-keppel-road-office-cRKH3pAe8jezU7tFyoLdKL#enquiry_source--Search
+585,Woods Square,D25,Woodlands Square,4802,1044,4.6,https://www.99.co/singapore/commercial/rent/property/woods-square-office-8EqsGvUq67nFCDgBrJ6EHr#enquiry_source--Search
+586,Robinson Road,D1,Robinson Rd,13447,1582,8.5,https://www.99.co/singapore/commercial/rent/property/robinson-road-office-U44uRiP2JzdRwbM2UGqw6D#enquiry_source--Search
+587,Tong Eng Building,D1,Cecil St,2778,463,6.0,https://www.99.co/singapore/commercial/rent/property/tong-eng-building-office-J649JDSDjhB78DoCcdSuDe#enquiry_source--Search
+588,City House,D1,Robinson Rd,19510,2217,8.8,https://www.99.co/singapore/commercial/rent/property/city-house-office-99cppqfVn9ZbsDMBwjcwvQ#enquiry_source--Search
+589,Goldhill Plaza,D11,Goldhill Plaza,4482,815,5.5,https://www.99.co/singapore/commercial/rent/property/goldhill-plaza-office-M2HQ3XBP3zhouB7J9pzpVG#enquiry_source--Search
+590,OCBC Centre,D1,Chulia St,18018,1716,10.5,https://www.99.co/singapore/commercial/rent/property/ocbc-centre-office-FFa4fC6oTcpGw8bhgCH329#enquiry_source--Search
+591,Singapore Land Tower,D1,Raffles Pl,17146,1633,10.5,https://www.99.co/singapore/commercial/rent/property/singapore-land-tower-office-Fhynk7YxgtQAX7ZX5CUQ2B#enquiry_source--Search
+592,Ibis Singapore Bencoolen,D7,Bencoolen St,2250,500,4.5,https://www.99.co/singapore/commercial/rent/property/ibis-singapore-bencoolen-office-ngfJwEb3GoNSfeAzERSHi7#enquiry_source--Search
+593,Centropod @ Changi,D14,Changi Rd,2200,400,5.5,https://www.99.co/singapore/commercial/rent/property/centropod-changi-office-8mU2dSnyXuVzN5kpUv9JGj#enquiry_source--Search
+594,Waterloo Street,D7,Waterloo St,2700,600,4.5,https://www.99.co/singapore/commercial/rent/property/waterloo-street-office-fZme86iHcttEaNBWMCwH3G#enquiry_source--Search
+595,Centrium Square,D8,Serangoon Rd,4900,570,8.6,https://www.99.co/singapore/commercial/rent/property/centrium-square-office-mUzzBHBp2ATSHSqf56UsRT#enquiry_source--Search
+596,Regency House,D9,Penang Rd,12270,1636,7.5,https://www.99.co/singapore/commercial/rent/property/regency-house-office-n3qZ8q34A3Pw3itd4a2W9o#enquiry_source--Search
+597,Valley Point,D10,River Valley Rd,20000,3111,6.43,https://www.99.co/singapore/commercial/rent/property/valley-point-office-iuwLiPMdmPFs8DgsQzvYxj#enquiry_source--Search
+598,Isetan Office Building,D3,Havelock Rd,17000,4232,4.02,https://www.99.co/singapore/commercial/rent/property/isetan-office-building-office-VDVWiPGoSJBvLr7QUqfQdz#enquiry_source--Search
+599,High Street Plaza,D6,High St,950,97,9.79,https://www.99.co/singapore/commercial/rent/property/high-street-plaza-office-6dnFdttUAc6UjTXwWPSK3K#enquiry_source--Search
+600,CES Centre,D3,Chin Swee Rd,68700,11857,5.79,https://www.99.co/singapore/commercial/rent/property/ces-centre-office-pWHGH46ogS7BSWZBZpu5rH#enquiry_source--Search
+601,CES Centre,D3,Chin Swee Rd,11358,1958,5.8,https://www.99.co/singapore/commercial/rent/property/ces-centre-office-pR9HV7dBGgahkf3kwrH4wQ#enquiry_source--Search
+602,Odeon Towers,D7,Nth Bridge Rd,24700,3179,7.77,https://www.99.co/singapore/commercial/rent/property/odeon-towers-office-gX9LvLTt7By56fzVRzUJdL#enquiry_source--Search
+603,United Square,D11,Thomson Rd,54000,7230,7.47,https://www.99.co/singapore/commercial/rent/property/united-square-office-ajDQmwX7BrPTvFvsN5GvYB#enquiry_source--Search
+604,Odeon Towers,D7,Nth Bridge Rd,67800,8707,7.79,https://www.99.co/singapore/commercial/rent/property/odeon-towers-office-ZstmvmLphBXHrreVhcbQcW#enquiry_source--Search
+605,Centro Bianco,D19,Upp Paya Lebar Rd,14400,4800,3.0,https://www.99.co/singapore/commercial/rent/property/centro-bianco-office-Y2aidvgLksoRrvCuuPqe5K#enquiry_source--Search
+606,CES Centre,D3,Chin Swee Rd,29000,5000,5.8,https://www.99.co/singapore/commercial/rent/property/ces-centre-office-WEjbJpKKTB5D8JQssUSAD5#enquiry_source--Search
+607,Centro Bianco,D19,Upp Paya Lebar Rd,25000,8000,3.12,https://www.99.co/singapore/commercial/rent/property/centro-bianco-office-UXjxEXYXJZJCEGAfa8Lv7m#enquiry_source--Search
+608,Novena Square,D11,Thomson Rd,32900,4015,8.19,https://www.99.co/singapore/commercial/rent/property/novena-square-office-TjLvCXQkb2ZaRn5vSGmBPZ#enquiry_source--Search
+609,Marina Bay Financial Centre,D1,Marina Boulevard,65000,5000,13.0,https://www.99.co/singapore/commercial/rent/property/marina-bay-financial-centre-office-Hx2CZtDWnxp9femU4Udsqj#enquiry_source--Search
+610,Odeon Towers,D7,Nth Bridge Rd,9656,1238,7.8,https://www.99.co/singapore/commercial/rent/property/odeon-towers-office-Gwuic9YWNMb79vD8ErGB3i#enquiry_source--Search
+611,Suntec City Towers,D1,Temasek Boulevard,15999,1550,10.32,https://www.99.co/singapore/commercial/rent/property/suntec-city-towers-office-6aapCvibXWioKFUTcUN5kR#enquiry_source--Search
+612,Marina Bay Financial Centre,D1,Marina Boulevard,120000,9000,13.33,https://www.99.co/singapore/commercial/rent/property/marina-bay-financial-centre-office-5bfNhJcW4VsARFyt4txpVH#enquiry_source--Search
+613,United Square,D11,Thomson Rd,9300,1240,7.5,https://www.99.co/singapore/commercial/rent/property/united-square-office-5Y2dyY533pUDqYYnvT7DnZ#enquiry_source--Search
+614,Tong Lee Building Block A,D13,Kallang Pudding Rd,600,100,6.0,https://www.99.co/singapore/commercial/rent/property/tong-lee-building-block-a-office-dEQuoBWP5bHBavRocNkHar#enquiry_source--Search
+615,Kampong Glam Conservation Area,D7,Aliwal St,7500,1700,4.41,https://www.99.co/singapore/commercial/rent/property/kampong-glam-conservation-area-office-PoKdQRSKua52MzEQ3tRJnE#enquiry_source--Search
+616,The Octagon,D1,Cecil St,33000,6050,5.45,https://www.99.co/singapore/commercial/rent/property/the-octagon-office-EfdTjGu3YHAYgNiYMS33hJ#enquiry_source--Search
+617,Phoenix Park,D10,Tanglin Rd,3264,680,4.8,https://www.99.co/singapore/commercial/rent/property/phoenix-park-office-FMVrUUvsztqsjo8u3j7PZk#enquiry_source--Search
+618,Lock+Store Chai Chee,D16,Chai Chee Lane,1400,380,3.68,https://www.99.co/singapore/commercial/rent/property/lock+store-chai-chee-office-etqajyLTiQvcxnSvQp7ZMi#enquiry_source--Search
+619,31 Hongkong Street,D1,,37050,5700,6.5,https://www.99.co/singapore/commercial/rent/property/31-hongkong-street-office-mMPZ9jkA5ieWMgR2TB27Mi#enquiry_source--Search
+620,Tanjong Penjuru,D22,Tg Penjuru,15000,5000,3.0,https://www.99.co/singapore/commercial/rent/property/tanjong-penjuru-office-BDfSwveVzjoAgtsLMLBMPH#enquiry_source--Search
+621,Bharat Building,D1,Raffles Pl,13000,2207,5.89,https://www.99.co/singapore/commercial/rent/property/bharat-building-office-VnL4mPp2QKh3e3ukYAgguV#enquiry_source--Search
+622,Suntec City Towers,D1,Temasek Boulevard,35000,3500,10.0,https://www.99.co/singapore/commercial/rent/property/suntec-city-towers-office-aHZGhVmSFijguwSaUVCwDF#enquiry_source--Search
+623,People's Park Centre,D1,Upp Cross St,2700,600,4.5,https://www.99.co/singapore/commercial/rent/property/peoples-park-centre-office-LUsLEv7g2N9esMDAvsKXFF#enquiry_source--Search
+624,Orchard Rendezvous Hotel,D10,Tanglin Rd,10438,1228,8.5,https://www.99.co/singapore/commercial/rent/property/orchard-rendezvous-hotel-office-eiW5F28FJktwfZ6W7ysQ39#enquiry_source--Search
+625,Woods Square,D25,Woodlands Square,58109,9849,5.9,https://www.99.co/singapore/commercial/rent/property/woods-square-office-2CG96SHAgQwMoPrBcPKZZd#enquiry_source--Search
+626,Far East Shopping Centre,D9,Orchard Rd,18810,3359,5.6,https://www.99.co/singapore/commercial/rent/property/far-east-shopping-centre-office-3ND4956bad6QbxeWjrpZSQ#enquiry_source--Search
+627,Far East Shopping Centre,D9,Orchard Rd,5121,883,5.8,https://www.99.co/singapore/commercial/rent/property/far-east-shopping-centre-office-Z5wtTKTsgcc5DRmLPbVHRQ#enquiry_source--Search
+628,Far East Shopping Centre,D9,Orchard Rd,2105,363,5.8,https://www.99.co/singapore/commercial/rent/property/far-east-shopping-centre-office-ZAuVRRwWHZXyK87srFjFFi#enquiry_source--Search
+629,Parkway Parade,D15,Marine Parade Rd,6214,956,6.5,https://www.99.co/singapore/commercial/rent/property/parkway-parade-office-m88XddthdUYtTcxvDDxbbS#enquiry_source--Search
+630,OG Albert Complex,D7,Albert St,12885,2478,5.2,https://www.99.co/singapore/commercial/rent/property/og-albert-complex-office-SR4DZVz9i2et6TF5JY4BEW#enquiry_source--Search
+631,Tanjong Pagar Road,D2,Tg Pagar Rd,19800,2800,7.07,https://www.99.co/singapore/commercial/rent/property/tanjong-pagar-road-office-UeFoQ32Rnvuq8E8rnkyHDn#enquiry_source--Search
+632,Craig Road,D2,Craig Rd,19800,2800,7.07,https://www.99.co/singapore/commercial/rent/property/craig-road-office-nBhX3KoxwBy7JcKHBoN3kJ#enquiry_source--Search
+633,WCEGA Plaza,D23,Bt Batok Cres,4300,2605,1.65,https://www.99.co/singapore/commercial/rent/property/wcega-plaza-office-oKdyyH72bWjuZvTVK4xFwZ#enquiry_source--Search
+634,Central-Link,D3,Jln Kilang Barat,4500,2026,2.22,https://www.99.co/singapore/commercial/rent/property/centrallink-office-32VW6or787gGgrhRwUQLPx#enquiry_source--Search
+635,Boat Quay Conservation Area,D1,Boat Quay,5000,1000,5.0,https://www.99.co/singapore/commercial/rent/property/boat-quay-conservation-area-office-HP6pj2jDWVLzskWgHJzwnT#enquiry_source--Search
+636,Lian Huat Building,D2,Tras St,2080,400,5.2,https://www.99.co/singapore/commercial/rent/property/lian-huat-building-office-2purzPd9frJ2yTwdMUF66f#enquiry_source--Search
+637,Singapore Shopping Centre,D9,Clemenceau Ave,7200,904,7.96,https://www.99.co/singapore/commercial/rent/property/singapore-shopping-centre-office-NzM96DjrNgQvS2GNMwqNb9#enquiry_source--Search
+638,Seng Kee Building,D9,Martin Rd,28750,5134,5.6,https://www.99.co/singapore/commercial/rent/property/seng-kee-building-office-jPwnVdJkdguXSuZbRiCAog#enquiry_source--Search
+639,Kim Hoe Centre,D8,Kelantan Lane,15600,3250,4.8,https://www.99.co/singapore/commercial/rent/property/kim-hoe-centre-office-oXdKYs8DzeTbbVnqqVAM5i#enquiry_source--Search
+640,Haw Par Glass Tower,D9,Clemenceau Ave,19239,3630,5.3,https://www.99.co/singapore/commercial/rent/property/haw-par-glass-tower-office-QVizmmACVMHK6JSK8Fpcmc#enquiry_source--Search
+641,Prinsep Place,D7,Prinsep St,46176,7104,6.5,https://www.99.co/singapore/commercial/rent/property/prinsep-place-office-nBYgG95xtvcpQraTiSfEkd#enquiry_source--Search
+642,Desker Road Conservation Area,D8,Rowell Rd,1800,130,13.85,https://www.99.co/singapore/commercial/rent/property/desker-road-conservation-area-office-hfEdQwKEj3V9duoNVEpH4H#enquiry_source--Search
+643,Tanjong Pagar Conservation Area,D2,Tras St,19500,2600,7.5,https://www.99.co/singapore/commercial/rent/property/tanjong-pagar-conservation-area-office-Wdpf9JkTGoAPwhHAvvywkc#enquiry_source--Search
+644,Neil Road,D2,Neil Rd,58000,6600,8.79,https://www.99.co/singapore/commercial/rent/property/neil-road-office-NJP7doiZ7h4W2YbxNXEWoT#enquiry_source--Search
+645,Tanjong Pagar Conservation Area,D2,Tras St,8800,1200,7.33,https://www.99.co/singapore/commercial/rent/property/tanjong-pagar-conservation-area-office-4fMXw9ZX5GtW3PJnyUR9qV#enquiry_source--Search
+646,Regency House,D9,Penang Rd,12270,1636,7.5,https://www.99.co/singapore/commercial/rent/property/regency-house-office-7xi7toMEGpgTaZqK2ybxEW#enquiry_source--Search
+647,Sims Avenue Centre,D14,Sims Ave,2800,818,3.42,https://www.99.co/singapore/commercial/rent/property/sims-avenue-centre-office-mW6pvB46mzwrogromBkEmA#enquiry_source--Search
+648,Far East Square,D1,Amoy St,17280,2400,7.2,https://www.99.co/singapore/commercial/rent/property/far-east-square-office-5ugeWgURKRjtnrq9ASnJMp#enquiry_source--Search
+649,Sultan Plaza,D7,Jln Sultan,4500,1302,3.46,https://www.99.co/singapore/commercial/rent/property/sultan-plaza-office-FPMdtv7ybjwZ6ttFd85gAF#enquiry_source--Search
+650,GR.ID,D7,Selegie Rd,229319,26059,8.8,https://www.99.co/singapore/commercial/rent/property/grid-office-CcUideDCAoGWBQrq8YE5qP#enquiry_source--Search
+651,Tampines Plaza 1,D18,Tampines Ctrl 1,24684,4114,6.0,https://www.99.co/singapore/commercial/rent/property/tampines-plaza-1-office-2q88wudikgBgDYWnAAZHHb#enquiry_source--Search
+652,Crystal Time Building,D13,Tannery Lane,7950,3020,2.63,https://www.99.co/singapore/commercial/rent/property/crystal-time-building-office-aDWWUrNRuP6eYQWeGCuwxR#enquiry_source--Search
+653,Parkway Parade,D15,Marine Parade Rd,6220,956,6.51,https://www.99.co/singapore/commercial/rent/property/parkway-parade-office-mi7NHp6DYhSQDzxxFeZwDT#enquiry_source--Search
+654,Hd 139,D1,Cecil St,44356,6824,6.5,https://www.99.co/singapore/commercial/rent/property/hd-139-office-PRXEp4wqiThx7yEQzxALp6#enquiry_source--Search
+655,Boat Quay Conservation Area,D1,Lor Telok,22000,3221,6.83,https://www.99.co/singapore/commercial/rent/property/boat-quay-conservation-area-office-NVh8uaja2CHRpdZSdGuosk#enquiry_source--Search
+656,Anson Centre,D2,Anson Rd,12259,2990,4.1,https://www.99.co/singapore/commercial/rent/property/anson-centre-office-iMtvmVpRpRf92XAP6e8DEf#enquiry_source--Search
+657,Anson Centre,D2,Anson Rd,1999,440,4.54,https://www.99.co/singapore/commercial/rent/property/anson-centre-office-hUaZStgWVrtxo7ZQS8u64N#enquiry_source--Search
+658,Central Plaza,D3,Tiong Bahru Rd,136000,20990,6.48,https://www.99.co/singapore/commercial/rent/property/central-plaza-office-i5FdMrZGTFrZkNckFTC57R#enquiry_source--Search
+659,Vision Exchange,D22,Venture Dr,8000,1690,4.73,https://www.99.co/singapore/commercial/rent/property/vision-exchange-office-PbhCcTqjg7mEaS2rveiKWn#enquiry_source--Search
+660,Parkway Parade,D15,Marine Parade Rd,9550,1593,5.99,https://www.99.co/singapore/commercial/rent/property/parkway-parade-office-4WEAnT3JGJLYvexUg9Kdog#enquiry_source--Search
+661,Orchard Building,D9,Grange Rd,12700,1588,8.0,https://www.99.co/singapore/commercial/rent/property/orchard-building-office-2evaUjvyNYMht2XCQWS9u3#enquiry_source--Search
+662,Woods Square,D25,Woodlands Square,24015,5339,4.5,https://www.99.co/singapore/commercial/rent/property/woods-square-office-TX2v5TgBaREXNrqQGozVBP#enquiry_source--Search
+663,Peninsula Plaza,D6,Nth Bridge Rd,12017,2185,5.5,https://www.99.co/singapore/commercial/rent/property/peninsula-plaza-office-mw8RWj83PLftZWhFYUcdkk#enquiry_source--Search
+664,Sky Line Building,D7,Waterloo St,2250,500,4.5,https://www.99.co/singapore/commercial/rent/property/sky-line-building-office-iA92c73ZDZZUSFFs9a5LqM#enquiry_source--Search
+665,Keck Seng Tower,D1,Cecil St,16828,2589,6.5,https://www.99.co/singapore/commercial/rent/property/keck-seng-tower-office-fJwqSvQdrsEei5EGdGMR3m#enquiry_source--Search
+666,St. Andrew's Centre,D2,Tg Pagar Rd,5071,818,6.2,https://www.99.co/singapore/commercial/rent/property/st-andrews-centre-office-dpNxyBMCwXY7gFCUfo4st8#enquiry_source--Search
+667,Robinson Road,D1,Robinson Rd,12988,1528,8.5,https://www.99.co/singapore/commercial/rent/property/robinson-road-office-btATQ6u57AhbPkFN6CRw2o#enquiry_source--Search
+668,Sky Line Building,D7,Waterloo St,4950,1100,4.5,https://www.99.co/singapore/commercial/rent/property/sky-line-building-office-WgvUJkgtoCWLRfP9pgh5pJ#enquiry_source--Search
+669,Tanjong Pagar Complex,D2,Keppel Rd,24700,6500,3.8,https://www.99.co/singapore/commercial/rent/property/tanjong-pagar-complex-office-T33duUopH2uXzYWsu6o7qo#enquiry_source--Search
+670,Tanjong Pagar Complex,D2,Keppel Rd,1350,386,3.5,https://www.99.co/singapore/commercial/rent/property/tanjong-pagar-complex-office-Snn5fZbvWzEeC3CMzWpSAX#enquiry_source--Search
+671,Tanjong Pagar Complex,D2,Keppel Rd,14827,3902,3.8,https://www.99.co/singapore/commercial/rent/property/tanjong-pagar-complex-office-RHe2NBqTpNqfsmYpqFLvPW#enquiry_source--Search
+672,Tanjong Pagar Complex,D2,Keppel Rd,19224,5059,3.8,https://www.99.co/singapore/commercial/rent/property/tanjong-pagar-complex-office-Qbe2KYQmzSRyWrKMC7Yaoz#enquiry_source--Search
+673,Tanjong Pagar Complex,D2,Keppel Rd,1763,504,3.5,https://www.99.co/singapore/commercial/rent/property/tanjong-pagar-complex-office-PcN2HuTGryok7wktjUT3id#enquiry_source--Search
+674,OG Albert Complex,D7,Albert St,12885,2478,5.2,https://www.99.co/singapore/commercial/rent/property/og-albert-complex-office-FfPce7UXRX3BhW64VD28L8#enquiry_source--Search
+675,Tanjong Pagar Complex,D2,Keppel Rd,5498,1571,3.5,https://www.99.co/singapore/commercial/rent/property/tanjong-pagar-complex-office-FVuW5GwtasQWHHtpZonNfW#enquiry_source--Search
+676,Woods Square,D25,Woodlands Square,15716,3175,4.95,https://www.99.co/singapore/commercial/rent/property/woods-square-office-DtbzgRdNssMF7M74SNqT4D#enquiry_source--Search
+677,OG Albert Complex,D7,Albert St,19667,3782,5.2,https://www.99.co/singapore/commercial/rent/property/og-albert-complex-office-BSqzghRKKasfVdmNa9ShNz#enquiry_source--Search
+678,Tanjong Pagar Complex,D2,Keppel Rd,5523,1578,3.5,https://www.99.co/singapore/commercial/rent/property/tanjong-pagar-complex-office-Aj2mp3s4WecDhCxEk6JnrS#enquiry_source--Search
+679,Robinson Road,D1,Robinson Rd,26809,3154,8.5,https://www.99.co/singapore/commercial/rent/property/robinson-road-office-8wy4EdaLg9kYKw6YaLTp2E#enquiry_source--Search
+680,Tan Chong Tower,D7,Queen St,3863,623,6.2,https://www.99.co/singapore/commercial/rent/property/tan-chong-tower-office-5K6edSSArB72L8HQv68UVM#enquiry_source--Search
+681,Robinson Road,D1,Robinson Rd,10987,1582,6.95,https://www.99.co/singapore/commercial/rent/property/robinson-road-office-3xyWPDFjx5UAYd5sd7yqtd#enquiry_source--Search
+682,Tan Chong Tower,D7,Queen St,5872,947,6.2,https://www.99.co/singapore/commercial/rent/property/tan-chong-tower-office-3nDkK7toVzJorbMvjxdZkH#enquiry_source--Search
+683,Delta House,D3,Alexandra Rd,11550,3300,3.5,https://www.99.co/singapore/commercial/rent/property/delta-house-office-BfpJ2XTY7sqMuYjd9ozt74#enquiry_source--Search
+684,The Riverwalk,D1,Upp Circular Rd,1938,323,6.0,https://www.99.co/singapore/commercial/rent/property/the-riverwalk-office-Ysqyt5iB9ZzTFPz2MEZKnJ#enquiry_source--Search
+685,Goldhill Plaza,D11,Goldhill Plaza,6000,1206,4.98,https://www.99.co/singapore/commercial/rent/property/goldhill-plaza-office-8jtvbx38XQsbpmt9rfQHBt#enquiry_source--Search
+686,Mosque Street,D1,Mosque St,15000,1700,8.82,https://www.99.co/singapore/commercial/rent/property/mosque-street-office-NF8gYzrHbhEEy6dRnP6Hep#enquiry_source--Search
+687,Raeburn Park,D2,Raeburn Pk,4697,1000,4.7,https://www.99.co/singapore/commercial/rent/property/raeburn-park-office-Vf5EwpswC9p2cqK66fmmcK#enquiry_source--Search
+688,Tong Eng Building,D1,Cecil St,2778,460,6.04,https://www.99.co/singapore/commercial/rent/property/tong-eng-building-office-LGjgKwvFAW8ko9Wz9kiBzg#enquiry_source--Search
+689,One Raffles Place,D1,Raffles Pl,52000,4672,11.13,https://www.99.co/singapore/commercial/rent/property/one-raffles-place-office-wLiTnFtfQv8Mgi9GMsktEo#enquiry_source--Search
+690,Cecil Building,D1,Cecil St,168000,20000,8.4,https://www.99.co/singapore/commercial/rent/property/cecil-building-office-VLjFj2FvpveuqEzGv2X6PV#enquiry_source--Search
+691,Union Building,D2,Tras St,2500,620,4.03,https://www.99.co/singapore/commercial/rent/property/union-building-office-EfFkCxzvG7ayANjmRRTb8T#enquiry_source--Search
+692,Pekin Street,D1,Pekin St,11800,1816,6.5,https://www.99.co/singapore/commercial/rent/property/pekin-street-office-B2h8UmSyGr2o3vwsxyV9M6#enquiry_source--Search
+693,Regency House,D9,Penang Rd,12168,1690,7.2,https://www.99.co/singapore/commercial/rent/property/regency-house-office-3Vb5uxHxQvQHMcRHtr7TRC#enquiry_source--Search
+694,Cecil Building,D1,Cecil St,36800,5575,6.6,https://www.99.co/singapore/commercial/rent/property/cecil-building-office-jQFxxDYLcjZ5SUKYGKToRQ#enquiry_source--Search
+695,International Building,D9,Orchard Rd,4800,538,8.92,https://www.99.co/singapore/commercial/rent/property/international-building-office-ckyDphLLvceSFCgtjKa7tS#enquiry_source--Search
+696,Rigel Innovation Centre,D16,Changi Business Pk Ctrl 2,9972,3324,3.0,https://www.99.co/singapore/commercial/rent/property/rigel-innovation-centre-office-7rXNBi7WD6uobSv3VqcL6S#enquiry_source--Search
+697,Anson Centre,D2,Anson Rd,3616,904,4.0,https://www.99.co/singapore/commercial/rent/property/anson-centre-office-49oyyinLGGrvfuLtE8bLyi#enquiry_source--Search
+698,Woods Square,D25,Woodlands Square,5938,1850,3.21,https://www.99.co/singapore/commercial/rent/property/woods-square-office-3knAqYhqxE8ftXX7oKv3pj#enquiry_source--Search
+699,OG Albert Complex,D7,Albert St,17000,3800,4.47,https://www.99.co/singapore/commercial/rent/property/og-albert-complex-office-ZjHQo45YUKMoAQMzYipTvJ#enquiry_source--Search
+700,Raeburn Park,D2,Raeburn Pk,3150,700,4.5,https://www.99.co/singapore/commercial/rent/property/raeburn-park-office-t4N4Kmuxzn5z8iNCcVE4xN#enquiry_source--Search
+701,Raeburn Park,D2,Raeburn Pk,6300,1500,4.2,https://www.99.co/singapore/commercial/rent/property/raeburn-park-office-VwJq6Fvr9CMNVgob8ubuaL#enquiry_source--Search
+702,Petain Road/Tyrwhitt Road Conservation Area,D8,Jln Besar,800,80,10.0,https://www.99.co/singapore/commercial/rent/property/petain-roadtyrwhitt-road-conservation-area-office-9c9o4D95xHVjjFG39mQp6u#enquiry_source--Search
+703,The Octagon,D1,Cecil St,1550,110,14.09,https://www.99.co/singapore/commercial/rent/property/the-octagon-office-LRUiPDNz9pD2XJ3Dx2xDvL#enquiry_source--Search
+704,International Plaza,D2,Anson Rd,1680,120,14.0,https://www.99.co/singapore/commercial/rent/property/international-plaza-office-HSEC3vHqX25ZpcNABCyKb5#enquiry_source--Search
+705,King's Centre,D3,Havelock Rd,12560,1744,7.2,https://www.99.co/singapore/commercial/rent/property/kings-centre-office-coLQr4LgpmQYpAFDiiJSBy#enquiry_source--Search
+706,Marina Bay Financial Centre,D1,Marina Boulevard,26000,2000,13.0,https://www.99.co/singapore/commercial/rent/property/marina-bay-financial-centre-office-dGvPr4fBjyxjqCnfqNdn6V#enquiry_source--Search
+707,Marina Bay Financial Centre,D1,Marina Boulevard,32500,2500,13.0,https://www.99.co/singapore/commercial/rent/property/marina-bay-financial-centre-office-VxKNU72aiY4EkwHgrAPKFg#enquiry_source--Search
+708,Tan Chong Tower,D7,Queen St,3738,623,6.0,https://www.99.co/singapore/commercial/rent/property/tan-chong-tower-office-cJr54MQDsTKoHNxz7VygNi#enquiry_source--Search
+709,International Plaza,D2,Anson Rd,9445,1453,6.5,https://www.99.co/singapore/commercial/rent/property/international-plaza-office-bSh93MCUEqgAUGi4fJNePy#enquiry_source--Search
+710,ABI Plaza,D2,Keppel Rd,61633,7251,8.5,https://www.99.co/singapore/commercial/rent/property/abi-plaza-office-9TenfGsi4Yj7ujjCSr737y#enquiry_source--Search
+711,ABI Plaza,D2,Keppel Rd,51157,5385,9.5,https://www.99.co/singapore/commercial/rent/property/abi-plaza-office-dqC8wv34tRmdR64ashJxYE#enquiry_source--Search
+712,ABI Plaza,D2,Keppel Rd,113000,12636,8.94,https://www.99.co/singapore/commercial/rent/property/abi-plaza-office-b3xikWbF3FGtDCue2tmasX#enquiry_source--Search
+713,ABI Plaza,D2,Keppel Rd,35245,3710,9.5,https://www.99.co/singapore/commercial/rent/property/abi-plaza-office-jwXR4z7ZEtuwCddgtdxd6E#enquiry_source--Search
+714,ABI Plaza,D2,Keppel Rd,11888,1251,9.5,https://www.99.co/singapore/commercial/rent/property/abi-plaza-office-EaHJfYM3SzGjJiy5Ysvpa4#enquiry_source--Search
+715,ABI Plaza,D2,Keppel Rd,47129,4961,9.5,https://www.99.co/singapore/commercial/rent/property/abi-plaza-office-YoEQmuBrLrh9M8S2VVH6dL#enquiry_source--Search
+716,Tong Eng Building,D1,Cecil St,2778,463,6.0,https://www.99.co/singapore/commercial/rent/property/tong-eng-building-office-hSK9vaP3VSAUAD32dUWYuK#enquiry_source--Search
+717,The Plaza,D7,Beach Rd,2500,538,4.65,https://www.99.co/singapore/commercial/rent/property/the-plaza-office-HPTG6dKWop4XRvm9SWkv6R#enquiry_source--Search
+718,Amoy Street,D1,Amoy St,4500,1100,4.09,https://www.99.co/singapore/commercial/rent/property/amoy-street-office-zPgXhZmmk3rxcaXfiAGJzj#enquiry_source--Search
+719,Geylang Road,D14,Geylang Rd,6500,1950,3.33,https://www.99.co/singapore/commercial/rent/property/geylang-road-office-3ZRYig8dFHFyehLccoGx2C#enquiry_source--Search
+720,Boat Quay Conservation Area,D1,Circular Rd,6300,1313,4.8,https://www.99.co/singapore/commercial/rent/property/boat-quay-conservation-area-office-Vt2RSgUiXuR2QwNSy8qVk3#enquiry_source--Search
+721,Kreta Ayer Conservation Area,D1,Upp Cross St,8000,2100,3.81,https://www.99.co/singapore/commercial/rent/property/kreta-ayer-conservation-area-office-C4FiBy7xsiqu5MT5rLXKgW#enquiry_source--Search
+722,Kreta Ayer Conservation Area,D1,Upp Cross St,8000,2100,3.81,https://www.99.co/singapore/commercial/rent/property/kreta-ayer-conservation-area-office-j3CxDKDSHqT37VRpWKHxZE#enquiry_source--Search
+723,China Street,D1,China St,17280,2400,7.2,https://www.99.co/singapore/commercial/rent/property/china-street-office-Ud9VtKcNKVPhsUadBA3e5u#enquiry_source--Search
+724,Tai Seng Avenue,D19,Tai Seng Ave,13860,5543,2.5,https://www.99.co/singapore/commercial/rent/property/tai-seng-avenue-office-2CN3vQnsX98jfYkAN7ZZnc#enquiry_source--Search
+725,Upper Cross Street,D1,Upp Cross St,17268,2400,7.2,https://www.99.co/singapore/commercial/rent/property/upper-cross-street-office-DWKJswRwgcPFH8tmRe4Z9t#enquiry_source--Search
+726,Parkway Parade,D15,Marine Parade Rd,6200,956,6.49,https://www.99.co/singapore/commercial/rent/property/parkway-parade-office-jXtwT7ewn9rs2KNNhakCm4#enquiry_source--Search
+727,North Bridge Centre,D7,Nth Bridge Rd,2069,398,5.2,https://www.99.co/singapore/commercial/rent/property/north-bridge-centre-office-aLWtDHkym8A3JWZKcQMPBd#enquiry_source--Search
+728,Arc 380,D8,Jln Besar,4500,764,5.89,https://www.99.co/singapore/commercial/rent/property/arc-380-office-UsKPCAs8HhHHFinWp5k37A#enquiry_source--Search
+729,Raeburn Park,D2,Raeburn Pk,34587,9100,3.8,https://www.99.co/singapore/commercial/rent/property/raeburn-park-office-LQThForJErahpax8V5ewuQ#enquiry_source--Search
+730,Raeburn Park,D2,Raeburn Pk,4697,1000,4.7,https://www.99.co/singapore/commercial/rent/property/raeburn-park-office-8y4YZBbKGiWXx7hvTc7UpB#enquiry_source--Search
+731,Cecil Building,D1,Cecil St,5618,936,6.0,https://www.99.co/singapore/commercial/rent/property/cecil-building-office-CNCnPbSWxxNbvu8kyjaENn#enquiry_source--Search
+732,Tong Eng Building,D1,Cecil St,2996,535,5.6,https://www.99.co/singapore/commercial/rent/property/tong-eng-building-office-GKz5kppEkDKppqEMquzss8#enquiry_source--Search
+733,Science Centre Road,D22,Science Centre Rd,4000,1150,3.48,https://www.99.co/singapore/commercial/rent/property/science-centre-road-office-hriQyBjZeZgTb8T7ALMME9#enquiry_source--Search
+734,Science Centre Road,D22,Science Centre Rd,12492,3470,3.6,https://www.99.co/singapore/commercial/rent/property/science-centre-road-office-UqptP2U2ETMnXZHvM6VJaF#enquiry_source--Search
+735,Arc 380,D8,Jln Besar,3850,700,5.5,https://www.99.co/singapore/commercial/rent/property/arc-380-office-TjpgHBhpkzsqPEuqEwVyKY#enquiry_source--Search
+736,Plus,D1,Cecil St,26763,2433,11.0,https://www.99.co/singapore/commercial/rent/property/plus-office-8X2QFXFxSh4kYDjwt6rZCy#enquiry_source--Search
+737,Plus,D1,Cecil St,26048,2368,11.0,https://www.99.co/singapore/commercial/rent/property/plus-office-6uggBCZwF4VZaVRThMLQis#enquiry_source--Search
+738,Plus,D1,Cecil St,12700,1270,10.0,https://www.99.co/singapore/commercial/rent/property/plus-office-UvYb2NmEtxjQwFf2VdspXy#enquiry_source--Search
+739,Plus,D1,Cecil St,22099,2009,11.0,https://www.99.co/singapore/commercial/rent/property/plus-office-Mb6cV6m3fvfqjLAAH7nXrW#enquiry_source--Search
+740,Plus,D1,Cecil St,54230,4930,11.0,https://www.99.co/singapore/commercial/rent/property/plus-office-DjJCtNQEQwqWQeg36g4fEf#enquiry_source--Search
+741,Orchard Rendezvous Hotel,D10,Tanglin Rd,9492,1217,7.8,https://www.99.co/singapore/commercial/rent/property/orchard-rendezvous-hotel-office-8BbHj5vTP29MpiTXPXEEmD#enquiry_source--Search
+742,The Central,D1,Eu Tong Sen St,7000,926,7.56,https://www.99.co/singapore/commercial/rent/property/the-central-office-BbMDH9TGPU7QE6pbbeptGF#enquiry_source--Search
+743,Singapore Business Federation Center,D1,Robinson Rd,4900,700,7.0,https://www.99.co/singapore/commercial/rent/property/singapore-business-federation-center-office-cJrNudBcLNLwn5g5pmkR8x#enquiry_source--Search
+744,Jurong Town Hall,D22,Jurong Town Hall Rd,4000,1150,3.48,https://www.99.co/singapore/commercial/rent/property/jurong-town-hall-office-2tTgfHGYyoPQrUR3CAKnMj#enquiry_source--Search
+745,Goodland Group Building,D19,Kim Chuan Lane,8500,2454,3.46,https://www.99.co/singapore/commercial/rent/property/goodland-group-building-office-KyWytNe9rKXadRd7mMHm2a#enquiry_source--Search
+746,Tong Eng Building,D1,Cecil St,6569,1228,5.35,https://www.99.co/singapore/commercial/rent/property/tong-eng-building-office-2u6M4UuduvXCKkfpgfQsSa#enquiry_source--Search
+747,Harper Point,D13,Harper Rd,5350,1065,5.02,https://www.99.co/singapore/commercial/rent/property/harper-point-office-QGdCLYWJ63UFQoVJj38xhH#enquiry_source--Search
+748,Paya Lebar Square,D14,Paya Lebar Rd,4250,538,7.9,https://www.99.co/singapore/commercial/rent/property/paya-lebar-square-office-hEhpHvpAbgDpLokFrAcAMW#enquiry_source--Search
+749,CT Hub 2,D12,Lavender St,35500,4725,7.51,https://www.99.co/singapore/commercial/rent/property/ct-hub-2-office-LAfDmB7UoLcv2P6vZp3Xas#enquiry_source--Search
+750,Paya Lebar Square,D14,Paya Lebar Rd,3600,517,6.96,https://www.99.co/singapore/commercial/rent/property/paya-lebar-square-office-5vjnpnwdM4LmjSe4r6egRx#enquiry_source--Search
+751,Springleaf Tower,D2,Anson Rd,13000,1300,10.0,https://www.99.co/singapore/commercial/rent/property/springleaf-tower-office-c79wzwBy9bbx8oN39krXDJ#enquiry_source--Search
+752,Anson House,D2,Anson Rd,13000,1300,10.0,https://www.99.co/singapore/commercial/rent/property/anson-house-office-a52fnK4TbtgrbAYR7N3VdR#enquiry_source--Search
+753,Anson House,D2,Anson Rd,73000,7300,10.0,https://www.99.co/singapore/commercial/rent/property/anson-house-office-82uX5GYyTUXuN7xJi8DtwQ#enquiry_source--Search
+754,Woods Square,D25,Woodlands Square,23000,5331,4.31,https://www.99.co/singapore/commercial/rent/property/woods-square-office-kd53fAXiDzStxgykwt4pVg#enquiry_source--Search
+755,Woods Square,D25,Woodlands Square,2488,560,4.44,https://www.99.co/singapore/commercial/rent/property/woods-square-office-frPJSntJk5T8yB685mHaqN#enquiry_source--Search
+756,Orchard Rendezvous Hotel,D10,Tanglin Rd,7007,1001,7.0,https://www.99.co/singapore/commercial/rent/property/orchard-rendezvous-hotel-office-G3BYuWDHZRzTfeBjHDK27c#enquiry_source--Search
+757,International Plaza,D2,Anson Rd,1000,60,16.67,https://www.99.co/singapore/commercial/rent/property/international-plaza-office-kuiCG2SYh8rbhRUnjZCTDN#enquiry_source--Search
+758,51 Cuppage Road,D9,Cuppage Rd,9500,1270,7.48,https://www.99.co/singapore/commercial/rent/property/51-cuppage-road-office-PSRHzjfGjD4wr4YnYJkj3K#enquiry_source--Search
+759,New Bridge Road,D1,New Bridge Rd,12000,1373,8.74,https://www.99.co/singapore/commercial/rent/property/new-bridge-road-office-oDSDeMVLbEx7CdoYcbdpbt#enquiry_source--Search
+760,Hong Leong Building,D1,Raffles Quay,6800,409,16.63,https://www.99.co/singapore/commercial/rent/property/hong-leong-building-office-8BPxhTq5rrxxrVzuQbdQaU#enquiry_source--Search
+761,Woods Square,D25,Woodlands Square,18700,3175,5.89,https://www.99.co/singapore/commercial/rent/property/woods-square-office-Uy6Adz3whcVnAPRvxYDNZB#enquiry_source--Search
+762,Kreta Ayer Conservation Area,D1,Sth Bridge Rd,48600,6068,8.01,https://www.99.co/singapore/commercial/rent/property/kreta-ayer-conservation-area-office-BJHTJqjnFnzhtsrRfGdYc5#enquiry_source--Search
+763,Kensington Park Condominium,D19,Kensington Pk Dr,4000,1100,3.64,https://www.99.co/singapore/commercial/rent/property/kensington-park-condominium-office-NzopJm4zDBgGY6XBkWjZNq#enquiry_source--Search
+764,Serangoon Road,D8,Serangoon Rd,4500,650,6.92,https://www.99.co/singapore/commercial/rent/property/serangoon-road-office-JQHbwUq89DTqimzyM8cH4J#enquiry_source--Search
+765,Haite Building,D16,Changi Business Pk Cres,18760,5685,3.3,https://www.99.co/singapore/commercial/rent/property/haite-building-office-HbBV454EYrtqBxLMPQwucV#enquiry_source--Search
+766,Haite Building,D16,Changi Business Pk Cres,6893,2089,3.3,https://www.99.co/singapore/commercial/rent/property/haite-building-office-iEJgFbhnCjhKiZVKxKMCU8#enquiry_source--Search
+767,Rigel Innovation Centre,D16,Changi Business Pk Ctrl 2,15000,5000,3.0,https://www.99.co/singapore/commercial/rent/property/rigel-innovation-centre-office-zrYdYaUsTmckrV3Y9ZwVRL#enquiry_source--Search
+768,Goodland Group Building,D19,Kim Chuan Lane,8200,2500,3.28,https://www.99.co/singapore/commercial/rent/property/goodland-group-building-office-vheSVF5fCRuebQYFJyQZqH#enquiry_source--Search
+769,Vision Exchange,D22,Venture Dr,7500,1313,5.71,https://www.99.co/singapore/commercial/rent/property/vision-exchange-office-hLf3Xqa76w8SL6fR5eSmGa#enquiry_source--Search
+770,Parkway Parade,D15,Marine Parade Rd,6200,926,6.7,https://www.99.co/singapore/commercial/rent/property/parkway-parade-office-AQGu23JcMEiEJ5WAtr4CPR#enquiry_source--Search
+771,Kallang Avenue,D12,Kallang Ave,16900,2250,7.51,https://www.99.co/singapore/commercial/rent/property/kallang-avenue-office-9K23AyAX3S7U8CVQtHg6Un#enquiry_source--Search
+772,Plaza 8 @ Cbp,D16,Changi Business Pk Cres,7300,667,10.94,https://www.99.co/singapore/commercial/rent/property/plaza-8-cbp-office-TZHnM7QExgz8ke93MA55FX#enquiry_source--Search
+773,Westgate Tower,D22,Gateway Dr,91000,1400,65.0,https://www.99.co/singapore/commercial/rent/property/westgate-tower-office-NcHyBmDzD8xRTEioogYVBR#enquiry_source--Search
+774,The Plaza,D7,Beach Rd,2950,432,6.83,https://www.99.co/singapore/commercial/rent/property/the-plaza-office-GbcLRbnNPqKabtrav5zthK#enquiry_source--Search
+775,One Commonwealth,D3,C'Wealth Lane,4200,1227,3.42,https://www.99.co/singapore/commercial/rent/property/one-commonwealth-office-DaqCwX5NrsbHYqnJAmkFh6#enquiry_source--Search
+776,Singapore Post Centre,D14,Eunos Rd 8,6300,980,6.43,https://www.99.co/singapore/commercial/rent/property/singapore-post-centre-office-46U3xwjMdQp4QZzzNWZR9c#enquiry_source--Search
+777,Republic Plaza,D1,,39000,3724,10.47,https://www.99.co/singapore/commercial/rent/property/republic-plaza-office-jJeCvzEykZDwM8iwbDdu78#enquiry_source--Search
+778,Tampines Plaza 1,D18,Tampines Ctrl 1,24000,4114,5.83,https://www.99.co/singapore/commercial/rent/property/tampines-plaza-1-office-Gj8WxHsSoF7ATqmEdB89cC#enquiry_source--Search
+779,Woods Square,D25,Woodlands Square,2500,560,4.46,https://www.99.co/singapore/commercial/rent/property/woods-square-office-Bojr7q67crd6ohbUZTVAKT#enquiry_source--Search
+780,Yishun Avenue 5,D27,Yishun Ave 5,15950,1450,11.0,https://www.99.co/singapore/commercial/rent/property/yishun-avenue-5-office-BmP82xLpmBJGLddGY5FjDF#enquiry_source--Search
+781,Noel Building,D13,Playfair Rd,780,90,8.67,https://www.99.co/singapore/commercial/rent/property/noel-building-office-DxiGyy3itVaLWz56Hu9geG#enquiry_source--Search
+782,International Plaza,D2,Anson Rd,800,50,16.0,https://www.99.co/singapore/commercial/rent/property/international-plaza-office-HwTThuZd4NrJq2ixPdSSzY#enquiry_source--Search
+783,Link @ AMK,D20,Ang Mo Kio St 62,750,150,5.0,https://www.99.co/singapore/commercial/rent/property/link-amk-office-2CdQ8brH4soCJ7iYxBfeB3#enquiry_source--Search
+784,LHK 2,D13,Playfair Rd,680,70,9.71,https://www.99.co/singapore/commercial/rent/property/lhk-2-office-dQ7rBJjzyLUsYdg2MCpSNF#enquiry_source--Search
+785,Orchard Rendezvous Hotel,D10,Tanglin Rd,2945,409,7.2,https://www.99.co/singapore/commercial/rent/property/orchard-rendezvous-hotel-office-NpivzN2p6TtYFZneAyteAU#enquiry_source--Search
+786,Gsm Building,D7,Middle Rd,3688,1023,3.61,https://www.99.co/singapore/commercial/rent/property/gsm-building-office-MzUL7WyFsf3fXVkV2YbD9r#enquiry_source--Search
+787,New Bridge Road,D1,New Bridge Rd,12000,1300,9.23,https://www.99.co/singapore/commercial/rent/property/new-bridge-road-office-4Qq3R7WxnUsuqvtW7DzjUw#enquiry_source--Search
+788,China Street,D1,China St,17280,2400,7.2,https://www.99.co/singapore/commercial/rent/property/china-street-office-C7ZnSLbnbbhYERbzP6gzKA#enquiry_source--Search
+789,Queensway Shopping Centre/Queensway Tower,D3,Queensway,3500,452,7.74,https://www.99.co/singapore/commercial/rent/property/queensway-shopping-centrequeensway-tower-office-5XtbtYNciiVEA7wpTA9QH5#enquiry_source--Search
+790,Boat Quay Conservation Area,D1,Boat Quay,5575,1115,5.0,https://www.99.co/singapore/commercial/rent/property/boat-quay-conservation-area-office-dTzjA432nSZCdufVkGqoy6#enquiry_source--Search
+791,Telok Ayer Conservation Area,D1,Stanley St,24000,2600,9.23,https://www.99.co/singapore/commercial/rent/property/telok-ayer-conservation-area-office-7x3C8kuFrVYe7NayT5Ra5b#enquiry_source--Search
+792,Telok Ayer Conservation Area,D1,Amoy St,24000,2600,9.23,https://www.99.co/singapore/commercial/rent/property/telok-ayer-conservation-area-office-86sERn9SpTDFmz35N4prGf#enquiry_source--Search
+793,Telok Ayer Street,D1,Telok Ayer St,24000,2600,9.23,https://www.99.co/singapore/commercial/rent/property/telok-ayer-street-office-kSwo5uV2wrVLjksz27PDgz#enquiry_source--Search
+794,Woods Square,D25,Woodlands Square,4802,1044,4.6,https://www.99.co/singapore/commercial/rent/property/woods-square-office-X6ddwpzUx6vkDyJQrVYF7i#enquiry_source--Search
+795,Boat Quay Conservation Area,D1,Circular Rd,41250,5500,7.5,https://www.99.co/singapore/commercial/rent/property/boat-quay-conservation-area-office-boAHVBpskoJHvAe9qXfsYZ#enquiry_source--Search
+796,Boat Quay Conservation Area,D1,Boat Quay,41250,5500,7.5,https://www.99.co/singapore/commercial/rent/property/boat-quay-conservation-area-office-5dpEa2XrgeLdP3sWhuAzkf#enquiry_source--Search
+797,Pekin Street,D1,Pekin St,17280,2400,7.2,https://www.99.co/singapore/commercial/rent/property/pekin-street-office-a8y5aASMFX25LtPqu4kUMX#enquiry_source--Search
+798,China Street,D1,China St,17280,2400,7.2,https://www.99.co/singapore/commercial/rent/property/china-street-office-YwoN4YMMFg7FEDTkf6VE2K#enquiry_source--Search
+799,Telok Ayer Street,D1,Telok Ayer St,17280,2400,7.2,https://www.99.co/singapore/commercial/rent/property/telok-ayer-street-office-7DR4AbiAwz9AJtStc3Bsao#enquiry_source--Search
+800,Amoy Street,D1,Amoy St,17280,2400,7.2,https://www.99.co/singapore/commercial/rent/property/amoy-street-office-8JS2ux8sPn8DT3LHrguTGR#enquiry_source--Search
+801,Malacca Centre,D1,Malacca St,13500,1830,7.38,https://www.99.co/singapore/commercial/rent/property/malacca-centre-office-6sYWEi42dDFrYpj457Rb5L#enquiry_source--Search
+802,Shenton House,D1,Shenton Way,12500,2411,5.18,https://www.99.co/singapore/commercial/rent/property/shenton-house-office-oEJ7yE9oYZWiY3QXsvfT7T#enquiry_source--Search
+803,Crystal Time Building,D13,Tannery Lane,7950,3020,2.63,https://www.99.co/singapore/commercial/rent/property/crystal-time-building-office-7PZH3Du2AjJHZaWQxBgbLm#enquiry_source--Search
+804,Suntec City Towers,D1,Temasek Boulevard,21413,2336,9.17,https://www.99.co/singapore/commercial/rent/property/suntec-city-towers-office-gUMQKNLhjPYDovLUhiZJ2p#enquiry_source--Search
+805,Centrium Square,D8,Serangoon Rd,4740,861,5.51,https://www.99.co/singapore/commercial/rent/property/centrium-square-office-nYWEJjRL8MRiqrCrizCSbj#enquiry_source--Search
+806,T-Space,D18,Tampines Nth Dr 1,6300,2422,2.6,https://www.99.co/singapore/commercial/rent/property/tspace-office-B6nPD2k9pPNvFNaVbQQgJj#enquiry_source--Search
+807,Parkway Parade,D15,Marine Parade Rd,6214,956,6.5,https://www.99.co/singapore/commercial/rent/property/parkway-parade-office-jmBkJyGnezavbhn6MWETos#enquiry_source--Search
+808,Furama City Centre Singapore,D1,Eu Tong Sen St,1850,230,8.04,https://www.99.co/singapore/commercial/rent/property/furama-city-centre-singapore-office-cbytKt7yKT5NuUt48u6S67#enquiry_source--Search
+809,Lipo Building,D14,Aljunied Rd,750,180,4.17,https://www.99.co/singapore/commercial/rent/property/lipo-building-office-aMfv7u8Wuq9RzZg8ABENqS#enquiry_source--Search
+810,Guthrie Building,D14,Changi Rd,4200,1250,3.36,https://www.99.co/singapore/commercial/rent/property/guthrie-building-office-a8qoM78rFxjMDeAA6CN6QA#enquiry_source--Search
+811,Central Plaza,D3,Tiong Bahru Rd,51667,6889,7.5,https://www.99.co/singapore/commercial/rent/property/central-plaza-office-UifoYzbVC48cDhZsSMNiTZ#enquiry_source--Search
+812,International Plaza,D2,Anson Rd,980,100,9.8,https://www.99.co/singapore/commercial/rent/property/international-plaza-office-kEi2nMgz9PnYDThNTFvYZ4#enquiry_source--Search
+813,International Plaza,D2,Anson Rd,3860,300,12.87,https://www.99.co/singapore/commercial/rent/property/international-plaza-office-i7yMP26WZTpJUExHSZZDh2#enquiry_source--Search
+814,Goldhill Plaza,D11,Goldhill Plaza,4075,815,5.0,https://www.99.co/singapore/commercial/rent/property/goldhill-plaza-office-XHjPmkjFwtwEtG9GPhyvqv#enquiry_source--Search
+815,International Plaza,D2,Anson Rd,2560,180,14.22,https://www.99.co/singapore/commercial/rent/property/international-plaza-office-R5umwqaAM9ZXzcmLYsxCrD#enquiry_source--Search
+816,Goldhill Plaza,D11,Goldhill Plaza,5000,1000,5.0,https://www.99.co/singapore/commercial/rent/property/goldhill-plaza-office-9UR6q6pfsDFexWVLoYwfzn#enquiry_source--Search
+817,Pandan Valley,D21,,1500,150,10.0,https://www.99.co/singapore/commercial/rent/property/pandan-valley-office-G2t5gfzFLmQsFprkstHUu6#enquiry_source--Search
+818,Woods Square,D25,Woodlands Square,22234,4941,4.5,https://www.99.co/singapore/commercial/rent/property/woods-square-office-Gx7DDYkK8GdvoBkVSJmhgW#enquiry_source--Search
+819,Woods Square,D25,Woodlands Square,24643,5134,4.8,https://www.99.co/singapore/commercial/rent/property/woods-square-office-hxvkAtp3CKqccv85Sa5B3M#enquiry_source--Search
+820,Woods Square,D25,Woodlands Square,3953,753,5.25,https://www.99.co/singapore/commercial/rent/property/woods-square-office-8K4v3YmxarHtrTGtkdyYvR#enquiry_source--Search
+821,22 Martin Road,D9,Martin Rd,40005,4445,9.0,https://www.99.co/singapore/commercial/rent/property/22-martin-road-office-bVBoWoAeaWxdKSQ64Y2ixz#enquiry_source--Search
+822,Evershine And Century Complex,D7,Beach Rd,5300,1400,3.79,https://www.99.co/singapore/commercial/rent/property/evershine-and-century-complex-office-akFvbThKGjiUjyXYPNHoio#enquiry_source--Search
+823,Bukit Pasoh Extnsn Constn Area,D2,Keong Saik Rd,8500,1600,5.31,https://www.99.co/singapore/commercial/rent/property/bukit-pasoh-extnsn-constn-area-office-kskjuHfBXdoQYQLzuEVjPg#enquiry_source--Search
+824,Textile Centre,D7,Jln Sultan,1200,65,18.46,https://www.99.co/singapore/commercial/rent/property/textile-centre-office-QQmV5reKcFiZMsZRnCkeBV#enquiry_source--Search
+825,Cecil Building,D1,Cecil St,6000,900,6.67,https://www.99.co/singapore/commercial/rent/property/cecil-building-office-vkJCgeHHd7Ua5dqq8DhsJn#enquiry_source--Search
+826,Republic Plaza,D1,Raffles Pl,149982,14284,10.5,https://www.99.co/singapore/commercial/rent/property/republic-plaza-office-KXRs43qP7CDuNGhj3iQws6#enquiry_source--Search
+827,Cecil Building,D1,Cecil St,5179,893,5.8,https://www.99.co/singapore/commercial/rent/property/cecil-building-office-E585SgV7ndTYpj38evpQE9#enquiry_source--Search
+828,The Arcade,D1,Collyer Quay,16900,2600,6.5,https://www.99.co/singapore/commercial/rent/property/the-arcade-office-5dSdsJkYw2yXsw8Xn5Scuo#enquiry_source--Search
+829,City House,D1,Robinson Rd,16968,2121,8.0,https://www.99.co/singapore/commercial/rent/property/city-house-office-5FU6HS5FuVTUkjansyZDkE#enquiry_source--Search
+830,22 Martin Road,D9,Martin Rd,40014,4446,9.0,https://www.99.co/singapore/commercial/rent/property/22-martin-road-office-ixopEL9Snqk6EwgX2pR5fC#enquiry_source--Search
+831,Golden Agri Plaza,D5,Pasir Panjang Rd,6615,1438,4.6,https://www.99.co/singapore/commercial/rent/property/golden-agri-plaza-office-arZhqqRaazMmD7CdBKFPFX#enquiry_source--Search
+832,Golden Agri Plaza,D5,Pasir Panjang Rd,31056,6470,4.8,https://www.99.co/singapore/commercial/rent/property/golden-agri-plaza-office-KKLTStQMx22zWyyaKiBsPm#enquiry_source--Search
+833,Malacca Centre,D1,Malacca St,12588,1830,6.88,https://www.99.co/singapore/commercial/rent/property/malacca-centre-office-kHDxKC9c3uguBmvd4Cu7aH#enquiry_source--Search
+834,Jurong Town Hall,D22,Jurong Town Hall Rd,4000,1150,3.48,https://www.99.co/singapore/commercial/rent/property/jurong-town-hall-office-3FXS8AgTNXWrgWMCWRwq4j#enquiry_source--Search
+835,Plus,D1,Cecil St,8500,768,11.07,https://www.99.co/singapore/commercial/rent/property/plus-office-cRuYeY9JiRvtQy3MpzPrc5#enquiry_source--Search
+836,The Central,D1,Eu Tong Sen St,8500,883,9.63,https://www.99.co/singapore/commercial/rent/property/the-central-office-ZaA8yCjDv2KkWiM6jXwo4a#enquiry_source--Search
+837,High Street Centre,D6,Nth Bridge Rd,17250,2300,7.5,https://www.99.co/singapore/commercial/rent/property/high-street-centre-office-WDooUr88rWxZ3jRqdk8Lb4#enquiry_source--Search
+838,International Plaza,D2,Anson Rd,6500,937,6.94,https://www.99.co/singapore/commercial/rent/property/international-plaza-office-9baVgs42Wa6KShJdPe9hFz#enquiry_source--Search
+839,International Plaza,D2,Anson Rd,16028,2357,6.8,https://www.99.co/singapore/commercial/rent/property/international-plaza-office-6gRb4F6cBzgkctXC5GkzrJ#enquiry_source--Search
+840,Oakwood Premier OUE Singapore / OUE Downtown,D1,Shenton Way,48913,5543,8.82,https://www.99.co/singapore/commercial/rent/property/oue-downtown-office-R9tef7CkjjvRaKNtEYhZUL#enquiry_source--Search
+841,Regency House,D9,Penang Rd,12270,1636,7.5,https://www.99.co/singapore/commercial/rent/property/regency-house-office-QMxMfExgPBh8dPb3FrnxRu#enquiry_source--Search
+842,Orchard Rendezvous Hotel,D10,Tanglin Rd,9493,1217,7.8,https://www.99.co/singapore/commercial/rent/property/orchard-rendezvous-hotel-office-mtQEmXWnNMkmuWCWfxn6Zd#enquiry_source--Search
+843,Jurong Town Hall,D22,Jurong Town Hall Rd,4000,1150,3.48,https://www.99.co/singapore/commercial/rent/property/jurong-town-hall-office-UEsF4tWmmhi2eqtf3eNy75#enquiry_source--Search
+844,Woods Square,D25,Woodlands Square,9900,1421,6.97,https://www.99.co/singapore/commercial/rent/property/woods-square-office-dJAaYAr5eUs3FnjoifLfNT#enquiry_source--Search
+845,Tong Eng Building,D1,Cecil St,7200,1385,5.2,https://www.99.co/singapore/commercial/rent/property/tong-eng-building-office-B4Z2gqEQthngkwFwu5Bi94#enquiry_source--Search
+846,Amoy Street,D1,Amoy St,9800,1410,6.95,https://www.99.co/singapore/commercial/rent/property/amoy-street-office-9PWLmfsPavVjy5EYbMPCfG#enquiry_source--Search
+847,Cecil Court,D1,Cecil St,9185,1670,5.5,https://www.99.co/singapore/commercial/rent/property/cecil-court-office-dmZ4u8oe3X4JZCZGZvk2L2#enquiry_source--Search
+848,Cecil Court,D1,Cecil St,6875,1250,5.5,https://www.99.co/singapore/commercial/rent/property/cecil-court-office-X3gQdm4oi5MjFLQrYtxMpE#enquiry_source--Search
+849,Cecil Court,D1,Cecil St,4455,810,5.5,https://www.99.co/singapore/commercial/rent/property/cecil-court-office-4vqyW6pCKonqGNJ3ZbFLVh#enquiry_source--Search
+850,Cecil Court,D1,Cecil St,4565,830,5.5,https://www.99.co/singapore/commercial/rent/property/cecil-court-office-HKuvXpwXiGTiMJAgsz7ais#enquiry_source--Search
+851,Cecil Court,D1,Cecil St,6600,1200,5.5,https://www.99.co/singapore/commercial/rent/property/cecil-court-office-GmyURhi9Azwdyk9rGcVnYx#enquiry_source--Search
+852,Odeon Towers,D7,Nth Bridge Rd,12529,1528,8.2,https://www.99.co/singapore/commercial/rent/property/odeon-towers-office-ZHNQoipyw3WEEJHbaaQ6YA#enquiry_source--Search
+853,Odeon Towers,D7,Nth Bridge Rd,16122,2067,7.8,https://www.99.co/singapore/commercial/rent/property/odeon-towers-office-b3PW36aWraD6KLzcwtMbQe#enquiry_source--Search
+854,Manhattan House,D3,Chin Swee Rd,3000,517,5.8,https://www.99.co/singapore/commercial/rent/property/manhattan-house-office-HyG3KRTWm22y6vPn2pxp5Y#enquiry_source--Search
+855,Kallang Avenue,D12,Kallang Ave,13099,2220,5.9,https://www.99.co/singapore/commercial/rent/property/kallang-avenue-office-SpmtUZng5afWMSLUyyYBLt#enquiry_source--Search
+856,Depot Road,D4,Depot Rd,152881,43680,3.5,https://www.99.co/singapore/commercial/rent/property/depot-road-office-DiT5gwMoUfwZoiqRbaCHHc#enquiry_source--Search
+857,80 Bendemeer Road,D12,Bendemeer Rd,61118,13286,4.6,https://www.99.co/singapore/commercial/rent/property/80-bendemeer-road-office-jLmoN5QhRCyPHEVG24SpRu#enquiry_source--Search
+858,Arc 380,D8,Jln Besar,4432,764,5.8,https://www.99.co/singapore/commercial/rent/property/arc-380-office-4AA54W2LiytrjmW3h9MSNk#enquiry_source--Search
+859,Westech Building,D5,Pandan Loop,3850,1453,2.65,https://www.99.co/singapore/commercial/rent/property/westech-building-office-jpdnY7h8zBQxdGUZMEkw9D#enquiry_source--Search
+860,New Bridge Road,D1,New Bridge Rd,12000,1373,8.74,https://www.99.co/singapore/commercial/rent/property/new-bridge-road-office-mrRvyWwKAVHvqQbRMui6aL#enquiry_source--Search
+861,International Plaza,D2,Anson Rd,2560,180,14.22,https://www.99.co/singapore/commercial/rent/property/international-plaza-office-hYwWmtPVfEbc4QBfyTsZbD#enquiry_source--Search
+862,Fragrance Empire Building,D5,Alexandra Rd,20501,3154,6.5,https://www.99.co/singapore/commercial/rent/property/fragrance-empire-building-office-vRdcknnGDqLfQEjMtzY2JY#enquiry_source--Search
+863,Peninsula Plaza,D6,Nth Bridge Rd,2300,441,5.22,https://www.99.co/singapore/commercial/rent/property/peninsula-plaza-office-rbXDiPiXYnh7ATaKABVtgN#enquiry_source--Search
+864,Lian Huat Building,D2,Tras St,2320,400,5.8,https://www.99.co/singapore/commercial/rent/property/lian-huat-building-office-kEB5FaXuSYoP247L8FD2SH#enquiry_source--Search
+865,Lian Huat Building,D2,Tras St,750,100,7.5,https://www.99.co/singapore/commercial/rent/property/lian-huat-building-office-66QikoMGuvCPys24cZhMqA#enquiry_source--Search
+866,Serangoon Road,D8,Serangoon Rd,4000,883,4.53,https://www.99.co/singapore/commercial/rent/property/serangoon-road-office-Uw525H3xMWvxg4zWnBKUdz#enquiry_source--Search
+867,Great World City,D9,Kim Seng Promenade,19200,2400,8.0,https://www.99.co/singapore/commercial/rent/property/great-world-city-office-veYE74NwLvCkFgndNWVoXX#enquiry_source--Search
+868,Keppel Bay Tower,D4,Harbourfront Ave,24362,2971,8.2,https://www.99.co/singapore/commercial/rent/property/keppel-bay-tower-office-LzKiKPoAr7WysCaThfqbgg#enquiry_source--Search
+869,Kreta Ayer Conservation Area,D1,Sago St,16000,2413,6.63,https://www.99.co/singapore/commercial/rent/property/kreta-ayer-conservation-area-office-esgTypxgpYW3rVjcgrotYU#enquiry_source--Search
+870,OG Albert Complex,D7,Albert St,2672,514,5.2,https://www.99.co/singapore/commercial/rent/property/og-albert-complex-office-76vnY99CJhShXjwPJzfoyh#enquiry_source--Search
+871,Orchard Building,D9,Grange Rd,12704,1588,8.0,https://www.99.co/singapore/commercial/rent/property/orchard-building-office-f5h3Qy7TcetbBkGvG6zoRt#enquiry_source--Search
+872,Kovan City,D19,Hougang St 21,2800,600,4.67,https://www.99.co/singapore/commercial/rent/property/kovan-city-office-WwdtLzNDcyPc2NXRZzgkDf#enquiry_source--Search
+873,Tong Eng Building,D1,Cecil St,2778,463,6.0,https://www.99.co/singapore/commercial/rent/property/tong-eng-building-office-hngdHFTBT7BWtyrSCVi4Jh#enquiry_source--Search
+874,Ubi Techpark,D14,Ubi Cres,800,130,6.15,https://www.99.co/singapore/commercial/rent/property/ubi-techpark-office-mRZBHKvjHethXeC8Psc4HG#enquiry_source--Search
+875,Golden Mile Tower,D7,Beach Rd,2200,625,3.52,https://www.99.co/singapore/commercial/rent/property/golden-mile-tower-office-WSYcYTnMwQq629gzZQqxXs#enquiry_source--Search
+876,Golden Mile Tower,D7,Beach Rd,2200,625,3.52,https://www.99.co/singapore/commercial/rent/property/golden-mile-tower-office-ZBT8hqhVCVexE2uUGVHGht#enquiry_source--Search
+877,Golden Mile Tower,D7,Beach Rd,2200,625,3.52,https://www.99.co/singapore/commercial/rent/property/golden-mile-tower-office-o3fGr7gS8sudqKSM2W2HXf#enquiry_source--Search
+878,Serangoon Road,D8,Serangoon Rd,4500,600,7.5,https://www.99.co/singapore/commercial/rent/property/serangoon-road-office-SUW4KB3u4PLkftHBXQNLyA#enquiry_source--Search
+879,International Plaza,D2,Anson Rd,2600,235,11.06,https://www.99.co/singapore/commercial/rent/property/international-plaza-office-JCg7aqgACN32NYuqZbzdup#enquiry_source--Search
+880,International Plaza,D2,Anson Rd,3700,468,7.91,https://www.99.co/singapore/commercial/rent/property/international-plaza-office-5nAQpbTSUBFHG6RLreVj2j#enquiry_source--Search
+881,Regency House,D9,Penang Rd,12270,1636,7.5,https://www.99.co/singapore/commercial/rent/property/regency-house-office-6onu6Z3AtyF5sVHJSC6btv#enquiry_source--Search
+882,Lorong 8 Toa Payoh,D12,Lor 8 Toa Payoh,24000,8000,3.0,https://www.99.co/singapore/commercial/rent/property/lorong-8-toa-payoh-office-P5xksvudbXjdEg5qLDzedn#enquiry_source--Search
+883,One Holland Village Residences / One Holland Village,D10,Holland Village Way,27911,2938,9.5,https://www.99.co/singapore/commercial/rent/property/one-holland-village-office-7zfTUvusSGnG9sBc9mgS8K#enquiry_source--Search
+884,International Plaza,D2,Anson Rd,5700,1001,5.69,https://www.99.co/singapore/commercial/rent/property/international-plaza-office-YyYsPKMW9YjZRVHmriiwQ2#enquiry_source--Search
+885,Golden Mile Tower,D7,Beach Rd,2200,625,3.52,https://www.99.co/singapore/commercial/rent/property/golden-mile-tower-office-JxNixcWbS3rZv7GNgNAgN2#enquiry_source--Search
+886,Golden Mile Tower,D7,Beach Rd,2200,625,3.52,https://www.99.co/singapore/commercial/rent/property/golden-mile-tower-office-WKgkYiqZh6iMYH3weYyPaj#enquiry_source--Search
+887,Golden Mile Tower,D7,Beach Rd,2200,625,3.52,https://www.99.co/singapore/commercial/rent/property/golden-mile-tower-office-KFQ6ttuXF4Mswvkhq5Mkv5#enquiry_source--Search
+888,Golden Mile Tower,D7,Beach Rd,2200,625,3.52,https://www.99.co/singapore/commercial/rent/property/golden-mile-tower-office-NggC9VW3LZWcVn2gqZQTRL#enquiry_source--Search
+889,Mosque Street,D1,Mosque St,15000,1700,8.82,https://www.99.co/singapore/commercial/rent/property/mosque-street-office-9NfwmNTMJLTBcmtQA3FX4M#enquiry_source--Search
+890,Temasek Boulevard,D1,Temasek Boulevard,52428,6000,8.74,https://www.99.co/singapore/commercial/rent/property/temasek-boulevard-office-5BgpXqeU6KvvpMhJcEQSi2#enquiry_source--Search
+891,Kim Hoe Centre,D8,Kelantan Lane,15600,3250,4.8,https://www.99.co/singapore/commercial/rent/property/kim-hoe-centre-office-TWRasFPevZRGM6TGfHqrnz#enquiry_source--Search
+892,Paya Lebar Square,D14,Paya Lebar Rd,3400,517,6.58,https://www.99.co/singapore/commercial/rent/property/paya-lebar-square-office-TidyQQ5GGPyAk3jfhN78FG#enquiry_source--Search
+893,Amoy Street,D1,Amoy St,20000,3200,6.25,https://www.99.co/singapore/commercial/rent/property/amoy-street-office-JVXPnv2zZxWcoWLmrMtRuB#enquiry_source--Search
+894,Tripleone Somerset,D9,Somerset Rd,6535,742,8.81,https://www.99.co/singapore/commercial/rent/property/tripleone-somerset-office-KHtjPbJm8jXeny7b9wFgWo#enquiry_source--Search
+895,Telok Ayer Street,D1,Telok Ayer St,3900,800,4.88,https://www.99.co/singapore/commercial/rent/property/telok-ayer-street-office-C8M6NYTMi9ntATXeC98pGk#enquiry_source--Search
+896,CPF Tampines Building,D18,Tampines Ctrl 5,5720,1060,5.4,https://www.99.co/singapore/commercial/rent/property/cpf-tampines-building-office-Ls3Ss8YuWoZqTq9p63ppMN#enquiry_source--Search
+897,Springleaf Tower,D2,Anson Rd,70500,9365,7.53,https://www.99.co/singapore/commercial/rent/property/springleaf-tower-office-FcbAZAK4wiURqqDhcpuvvK#enquiry_source--Search
+898,Springleaf Tower,D2,Anson Rd,23000,3257,7.06,https://www.99.co/singapore/commercial/rent/property/springleaf-tower-office-m9YPqcRxA6xoUDJFbt2uvJ#enquiry_source--Search
+899,International Plaza,D2,Anson Rd,5800,990,5.86,https://www.99.co/singapore/commercial/rent/property/international-plaza-office-De2RA9rGeu2aL588cmXwXU#enquiry_source--Search
+900,Woods Square,D25,Woodlands Square,2408,560,4.3,https://www.99.co/singapore/commercial/rent/property/woods-square-office-oZ89Wv3Q3QErQMxcwRi8X4#enquiry_source--Search
+901,Woodlands Industrial Xchange,D25,Woodlands Ave 10,1700,1000,1.7,https://www.99.co/singapore/commercial/rent/property/woodlands-industrial-xchange-office-URDwQnu8Y8sveDw26XSRyi#enquiry_source--Search
+902,Woods Square,D25,Woodlands Square,2650,560,4.73,https://www.99.co/singapore/commercial/rent/property/woods-square-office-VKSTpASicU4V38XFefwEDw#enquiry_source--Search
+903,Regency House,D9,Penang Rd,12270,1636,7.5,https://www.99.co/singapore/commercial/rent/property/regency-house-office-mGYfDVfpvkH36jtPyW5Krp#enquiry_source--Search
+904,The Central,D1,Eu Tong Sen St,4600,635,7.24,https://www.99.co/singapore/commercial/rent/property/the-central-office-J6PcWZdAAZVoZSgajNrFre#enquiry_source--Search
+905,Soho Life,D15,Joo Chiat Rd,3000,409,7.33,https://www.99.co/singapore/commercial/rent/property/soho-life-office-a6AjgkD2ps4dFep7vVSYwB#enquiry_source--Search
+906,Woods Square,D25,Woodlands Square,2600,560,4.64,https://www.99.co/singapore/commercial/rent/property/woods-square-office-5ybgnwuTxF4jpHE2nFAV83#enquiry_source--Search
+907,Science Centre Road,D22,Science Centre Rd,75284,29163,2.58,https://www.99.co/singapore/commercial/rent/property/science-centre-road-office-2rjpq7fPXz7vQkqfumqE9X#enquiry_source--Search
+908,Chinatown Point,D1,New Bridge Rd,6000,1055,5.69,https://www.99.co/singapore/commercial/rent/property/chinatown-point-office-oUXvBG6cXaKYvFLYyEFg6m#enquiry_source--Search
+909,MYP Plaza,D1,Cecil St,13788,2293,6.01,https://www.99.co/singapore/commercial/rent/property/myp-plaza-office-vp6V9zD9kTE9ANdntmBYYk#enquiry_source--Search
+910,MYP Plaza,D1,Cecil St,24188,3444,7.02,https://www.99.co/singapore/commercial/rent/property/myp-plaza-office-oGMBdx6pfrqhWxHw9ocMMS#enquiry_source--Search
+911,MYP Plaza,D1,Cecil St,5880,829,7.09,https://www.99.co/singapore/commercial/rent/property/myp-plaza-office-gTymeMaDkVwedkkrGbMjRC#enquiry_source--Search
+912,Ngee Ann City,D9,Orchard Rd,14430,1443,10.0,https://www.99.co/singapore/commercial/rent/property/ngee-ann-city-office-mynoWNTPGqSDaYzRXfLxuc#enquiry_source--Search
+913,Orchard Towers,D9,Orchard Rd,12315,3241,3.8,https://www.99.co/singapore/commercial/rent/property/orchard-towers-office-S8yduqsy4RsgFnpLJLMbUn#enquiry_source--Search
+914,RB Capital Building,D1,Malacca St,8000,1200,6.67,https://www.99.co/singapore/commercial/rent/property/rb-capital-building-office-J4CBaYTpdV8f9MkdTzn3sY#enquiry_source--Search
+915,Vision Exchange,D22,Venture Dr,2800,517,5.42,https://www.99.co/singapore/commercial/rent/property/vision-exchange-office-eR3hHDK9sAL6fvRB5T8VsC#enquiry_source--Search
+916,The Plaza,D7,Beach Rd,18000,3000,6.0,https://www.99.co/singapore/commercial/rent/property/the-plaza-office-7aqeRmJ4f2HxoggueSmz2v#enquiry_source--Search
+917,Peninsula Plaza,D6,Nth Bridge Rd,4800,1000,4.8,https://www.99.co/singapore/commercial/rent/property/peninsula-plaza-office-JK9p8bcPQaiwfVh7EJ6Bt4#enquiry_source--Search
+918,Suntec City Towers,D1,Temasek Boulevard,14000,1600,8.75,https://www.99.co/singapore/commercial/rent/property/suntec-city-towers-office-56rH66n5TcwdmCMRCzdZKd#enquiry_source--Search
+919,International Building,D9,Orchard Rd,6050,711,8.51,https://www.99.co/singapore/commercial/rent/property/international-building-office-qzZ68ExBpqAG4t7Houk4HL#enquiry_source--Search
+920,The Bencoolen,D7,Bencoolen St,6500,1302,4.99,https://www.99.co/singapore/commercial/rent/property/the-bencoolen-office-hvCJtDC7nQtDv64gYQA6Jk#enquiry_source--Search
+921,Oxley Tower,D1,Robinson Rd,2500,215,11.63,https://www.99.co/singapore/commercial/rent/property/oxley-tower-office-RNsSxzaZJwzkqkearhEaLx#enquiry_source--Search
+922,The Central,D1,Eu Tong Sen St,5000,624,8.01,https://www.99.co/singapore/commercial/rent/property/the-central-office-h2VNPu6U58DSK56aoi6oDt#enquiry_source--Search
+923,Centrium Square,D8,Serangoon Rd,4800,618,7.77,https://www.99.co/singapore/commercial/rent/property/centrium-square-office-jHgkWX3WXD8FQfdnqCmdkt#enquiry_source--Search
+924,Tripleone Somerset,D9,Somerset Rd,4450,445,10.0,https://www.99.co/singapore/commercial/rent/property/tripleone-somerset-office-eVCUSQJpotypm4SnQihWVR#enquiry_source--Search
+925,Amoy Street,D1,Amoy St,11823,1819,6.5,https://www.99.co/singapore/commercial/rent/property/amoy-street-office-UXzhgJHeATXFoQy7Uai8Zz#enquiry_source--Search
+926,31 Hongkong Street,D1,Hongkong St,5500,700,7.86,https://www.99.co/singapore/commercial/rent/property/31-hongkong-street-office-aqeQPgLmcPi9Bcqfwhp5pc#enquiry_source--Search
+927,Chinatown Point,D1,New Bridge Rd,18645,2486,7.5,https://www.99.co/singapore/commercial/rent/property/chinatown-point-office-DJrxewRepKVc57uFXTJ5jo#enquiry_source--Search
+928,Chinatown Point,D1,New Bridge Rd,36650,4887,7.5,https://www.99.co/singapore/commercial/rent/property/chinatown-point-office-3y8c9bTNaNihxWLFEZSGLG#enquiry_source--Search
+929,ESR BizPark @ Chai Chee,D16,Chai Chee Rd,39485,10968,3.6,https://www.99.co/singapore/commercial/rent/property/esr-bizpark-chai-chee-office-ZwdNdjo7bCYUjzAQ6JFQTQ#enquiry_source--Search
+930,GB Building,D1,Cecil St,32550,5425,6.0,https://www.99.co/singapore/commercial/rent/property/gb-building-office-BKifM9maFsWcH3QzLEknKE#enquiry_source--Search
+931,Fusionopolis Place,D5,Fusionopolis Pl,8681,1467,5.92,https://www.99.co/singapore/commercial/rent/property/fusionopolis-place-office-RQntgncskCmoF2neMrdpee#enquiry_source--Search
+932,Fuyuen Court,D14,Lor 35 Geylang,2488,650,3.83,https://www.99.co/singapore/commercial/rent/property/fuyuen-court-office-eWZQDj5qimZeMz34hZGF8R#enquiry_source--Search
