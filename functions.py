@@ -7,6 +7,11 @@ import random
 import requests
 import json
 import geopandas as gpd
+from bs4 import BeautifulSoup 
+import pandas as pd
+import requests
+from getpass import getpass
+token=getpass()
 
 #Set connection to mongoDB
 def mongo_connection(database,collection):
@@ -60,14 +65,14 @@ def name_coordinates (dict_):
 
 
 # This function uses the foursquare api to look for train/metro/airport within a 25km radius and adds them to a map
-def map_public_transport(city):
+def map_public_transport(_map):
 
         # Train station
         url = "https://api.foursquare.com/v3/places/search?ll=1.244463%2C103.834701&radius=25000&categories=19047"
 
         headers = {
             "accept": "application/json",
-            "Authorization": "fsq3wrzINxzk4PynA7gLZ5EdvOrLwygPimqKwxWyEORriC4="
+            "Authorization": token
         }
 
         response = requests.get(url, headers=headers)
@@ -85,7 +90,7 @@ def map_public_transport(city):
             icon = 'train',
             icon_color = "white"
         )
-            folium.Marker([row['lat'], row['lon']], popup=row['name'], icon=icon).add_to(singapore_map)
+            folium.Marker([row['lat'], row['lon']], popup=row['name'], icon=icon).add_to(_map)
 
         # Airport
         url = "https://api.foursquare.com/v3/places/search?query=Airport&near=Singapore&limit=1"
@@ -93,7 +98,7 @@ def map_public_transport(city):
 
         headers = {
             "accept": "application/json",
-            "Authorization": "fsq3wrzINxzk4PynA7gLZ5EdvOrLwygPimqKwxWyEORriC4="
+            "Authorization": token
         }
 
         response = requests.get(url, headers=headers)
@@ -111,13 +116,13 @@ def map_public_transport(city):
             icon = 'plane',
             icon_color = "white"
         )
-            folium.Marker([row['lat'], row['lon']], popup=row['name'], icon=icon).add_to(singapore_map)
+            folium.Marker([row['lat'], row['lon']], popup=row['name'], icon=icon).add_to(_map)
         # Metro
         url = "https://api.foursquare.com/v3/places/search?ll=1.244463%2C103.834701&radius=25000&categories=19046"
 
         headers = {
             "accept": "application/json",
-            "Authorization": "fsq3wrzINxzk4PynA7gLZ5EdvOrLwygPimqKwxWyEORriC4="
+            "Authorization": token
         }
 
         response = requests.get(url, headers=headers)
@@ -135,14 +140,14 @@ def map_public_transport(city):
             icon = 'subway',
             icon_color = "white"
         )
-            folium.Marker([row['lat'], row['lon']], popup=row['name'], icon=icon).add_to(singapore_map)
+            folium.Marker([row['lat'], row['lon']], popup=row['name'], icon=icon).add_to(_map)
 
             # Metro
         url = "https://api.foursquare.com/v3/places/search?query=Train%20station&ll=1.244463%2C103.834701&radius=25000"
 
         headers = {
             "accept": "application/json",
-            "Authorization": "fsq3wrzINxzk4PynA7gLZ5EdvOrLwygPimqKwxWyEORriC4="
+            "Authorization": token
         }
 
         response = requests.get(url, headers=headers)
@@ -160,7 +165,7 @@ def map_public_transport(city):
             icon = 'train',
             icon_color = "white"
         )
-            folium.Marker([row['lat'], row['lon']], popup=row['name'], icon=icon).add_to(singapore_map)
+            folium.Marker([row['lat'], row['lon']], popup=row['name'], icon=icon).add_to(_map)
 
 # This function looks for schools, starbucks, nightclubs, vegan restaurants, basketball courts and and groomers within
 # a certan area
