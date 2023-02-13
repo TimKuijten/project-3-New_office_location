@@ -12,7 +12,7 @@ import pandas as pd
 import requests
 from getpass import getpass
 token=getpass()
-
+ 
 #Set connection to mongoDB
 def mongo_connection(database,collection):
     client = MongoClient("localhost:27017")
