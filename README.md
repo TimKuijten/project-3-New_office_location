@@ -67,7 +67,7 @@ Below we see the offices that are available for rent. When checking the map in t
 
 From all the offices available, there is only one office available that is suitable for 85 employees:
 
-![image](https://user-images.githubusercontent.com/121023453/218693981-89605b33-9b1e-4322-b21e-6b0e3fcf08bf.png)
+*IMAGE
 
 Office in Odeon Towers
 
@@ -75,4 +75,4 @@ https://www.99.co/singapore/commercial/rent/property/odeon-towers-office-WKatJHo
 
 Coordinates new office: 1.2995192,103.8473046
 
-![image](https://user-images.githubusercontent.com/121023453/218576171-70e395b5-298c-48d1-a1c5-827546901a64.png)
+![image](https://user-images.githubusercontent.com/121023453/218693981-89605b33-9b1e-4322-b21e-6b0e3fcf08bf.png)
