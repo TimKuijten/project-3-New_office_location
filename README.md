@@ -62,13 +62,13 @@ The boxplot below shows more information about the price per square feet in Dist
 
 ![image](https://user-images.githubusercontent.com/121023453/218575367-1d45b2d0-fd66-4e3e-bae4-76f6059bc3db.png)
 
-Below we see the offices that are available for rent. Per office it lists the name, the price per month (in S$), square feet and the price per square feet. 
+Below we see the offices that are available for rent. When checking the map in the .ipynb file; per office it lists the name, the price per month (in S$), square feet and the price per square feet. 
 
-![image](https://user-images.githubusercontent.com/121023453/218575833-d78a4834-38e9-4834-ab41-9a7882bb2477.png)
+![image](https://user-images.githubusercontent.com/121023453/218693794-f3dd2446-a473-4bd7-8323-ab060d308cc8.png)
 
 From all the offices available, there is only one office available that is suitable for 85 employees:
 
-![image](https://user-images.githubusercontent.com/121023453/218575977-4f9b38f9-e309-489c-95a2-b286906bcf55.png)
+![image](https://user-images.githubusercontent.com/121023453/218693981-89605b33-9b1e-4322-b21e-6b0e3fcf08bf.png)
 
 Office in Odeon Towers
 
