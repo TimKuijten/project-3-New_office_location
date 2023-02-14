@@ -21,9 +21,8 @@ First we used our 'Companies' database in Mongo to filter on companies that also
 
 As we want a location where the company has potential to grow, we can not just decide on the graph above but we should take more factors in consideration such as the country size, the growthrate of the economy and the density. By merging the dataframe we took from Mongo with one we imported and calculating a score, we now have a top 5 of countries with the higest score. 
 
-![image](https://user-images.githubusercontent.com/121023453/218573573-9c1f3af5-3b5e-4159-965d-dd236d7d9127.png)
 
-![image](https://user-images.githubusercontent.com/121023453/218574201-553f3c5c-7145-45de-ba57-f9ca12ede8ed.png)
+![image](https://user-images.githubusercontent.com/121023453/218694886-bc9f5b0b-e3df-4c91-af2a-a9528c076bc8.png)
 
 The table above are the coordinates from the 5 companies in Singapore. 
 
