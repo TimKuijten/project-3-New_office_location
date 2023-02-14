@@ -67,7 +67,6 @@ Below we see the offices that are available for rent. When checking the map in t
 
 From all the offices available, there is only one office available that is suitable for 85 employees:
 
-*IMAGE
 
 Office in Odeon Towers
 
