@@ -67,6 +67,7 @@ Below we see the offices that are available for rent. When checking the map in t
 
 From all the offices available, there is only one office available that is suitable for 85 employees:
 
+![image](https://user-images.githubusercontent.com/121023453/218575977-4f9b38f9-e309-489c-95a2-b286906bcf55.png)
 
 Office in Odeon Towers
 
